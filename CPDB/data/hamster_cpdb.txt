@@ -1,0 +1,87 @@
+Acetaldehyde	75-07-0	-	565m	nas orc	orc
+2-Acetylaminofluorene	53-96-3	+	17.4	liv	-
+AF-2	3688-53-7	+	164m	eso sto	sto
+3-Aminotriazole	61-82-5	-	-	-	-
+Benzenediazonium tetrafluoroborate	369-57-3	.	-	-	-
+Bromate, potassium	7754-01-01	+	533n	kid	.
+Butylated hydroxyanisole	25013-16-5	-	-	-	.
+Cadmium chloride	10108-64-2	-	-	-	-
+Cadmium sulphate (1:1)	10124-36-4	.	-	-	-
+Carrageenan, native	8996-06-29	.	-	-	-
+[4-Chloro-6-(2,3-xylidino)-2-pyrimidinylthio]acetic acid	50892-23-4	.	-	-	.
+Chloromethyl methyl ether	107-30-2	-	16.4	mix	.
+Chloroprene (99.6% chloroprene)	126-99-8	-	-	-	-
+Clobuzarit	22494-47-9	.	-	-	-
+Coumarin	91-64-5	+	-	-	-
+p,pbe-DDE	72-55-9	-	202m	liv	liv
+DDT	50-29-3	-	-	-	-
+Diallylnitrosamine	16338-97-9	+	1.54	nas(B)	nas(B)
+Dieldrin	60-57-1	-	-	-	-
+Dimethylcarbamyl chloride	79-44-7	+	0.625	nas	.
+1,1-Dimethylhydrazine	57-14-7	+	124m	lgi	lgi
+1,2-Dimethylhydrazine.2HCl	306-37-6	+	0.179m	lgi liv vsc	lgi liv vsc
+1,4-Dinitroso-2,6-dimethylpiperazine	55380-34-2	+	3.1	sto	.
+Ethyl alcohol	64-17-5	-	-	-	.
+1-Ethylnitroso-3-(2-hydroxyethyl)-urea	96724-44-6	.	1.04	.	sto ute vsc
+1-Ethylnitroso-3-(2-oxopropyl)-urea	110559-84-7	.	0.443m	sto vsc	sto vsc
+Formaldehyde	50-00-0	+	-	-	.
+Formic acid 2-[4-(5-nitro-2-furyl)-2-thiazolyl]hydrazide	3570-75-0	+	16.6	sto ubl	.
+Furfural	1998-01-01	+	-	-	-
+Glycidol	556-52-5	+	56.1m	vsc	vsc
+Griseofulvin	126-07-8	-	-	-	-
+Hexachlorobenzene	118-74-1	-	4.96m	liv thy vsc	liv vsc
+Hydrazine	302-01-2	+	4.16	lgi nas sto thy	.
+Hydrazine sulfate	10034-93-2	+	118m	liv	-
+N-Hydroxy-2-acetylaminofluorene	53-95-2	+	2.1	liv sto	.
+2-Hydroxyethylhydrazine	109-84-2	+	-	-	-
+Isoniazid	54-85-3	+	-	-	-
+Isonicotinic acid	55-22-1	.	-	-	-
+Isopropyl-N-(3-chlorophenyl)carbamate	101-21-3	.	-	-	-
+Isopropyl-N-phenyl carbamate	122-42-9	.	-	-	-
+Lead acetate, basic	1335-32-6	.	-	-	-
+Methapyrilene.HCl	135-23-9	-	-	-	.
+Methotrexate	1959-05-02	-	-	-	-
+N-Methyl-N-formylhydrazine	758-17-8	.	5.8m	gal liv	gal liv
+Methyl methacrylate	80-62-6	-	-	-	-
+Methylhydrazine	60-34-4	+	11.5m	lgi liv	lgi liv
+Methylnitrosamino-N,N-dimethylethylamine	23834-30-2	.	3.83m	liv nas	lun nas
+4-(Methylnitrosamino)-1-(3-pyridyl)-1-(butanone)	64091-91-4	.	-	.	-
+Methylthiouracil	1956-04-02	-	53.4	.	thy
+Nafenopin	3771-19-5	-	-	-	.
+Nitrite, sodium	7632-00-0	+	-	-	-
+N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acetamide	531-82-8	+	8.91	sto ubl	.
+N-[4-(5-Nitro-2-furyl)-2-thiazolyl]formamide	24554-26-5	+	<9.77P	sto ubl	.
+5-Nitroacenaphthene	602-87-9	+	-	.	-
+N-Nitroso-2,3-dihydroxypropyl-2-hydroxypropylamine	89911-79-5	.	1.59	.	sto
+Nitroso-2,3-dihydroxypropyl-2-oxopropylamine	92177-50-9	.	0.754	.	pan sto
+N-Nitroso-2,3-dihydroxypropylethanolamine	89911-78-4	.	-	.	-
+Nitroso-2,6-dimethylmorpholine	1456-28-6	+	2m	lun nas orc pan	lun nas orc pan
+Nitroso-5-methyloxazolidone	79624-33-2	.	0.172	.	sto
+N-Nitroso-N-methylurethan	615-53-2	+	0.127	eso(B) sto(B)	eso(B) sto(B)
+N-Nitroso-1,3-oxazolidine	39884-52-1	.	0.798m	liv	sto
+Nitroso-2-oxopropylethanolamine	92177-49-6	.	0.997	.	liv pan
+N-Nitroso-2-phenylethylurea	---	.	0.964m	sto vsc	sto vsc
+1-Nitroso-3,4,5-trimethylpiperazine	75881-18-4	.	1.32	lun sto	.
+N-Nitrosoallyl-2-oxopropylamine	91308-71-3	.	1.19	.	liv nas
+N-Nitrosoazetidine	15216-10-1	+	7.14	liv	.
+N-Nitrosomethyl-2,3-dihydroxypropylamine	86451-37-8	.	0.94	.	nas
+N-Nitrosomorpholine	59-89-2	+	3.57m	liv nas orc	liv nas orc
+Nbe-Nitrosonornicotine	53759-22-1	.	10.8m	nas	nas
+Nbe-Nitrosonornicotine-1-N-oxide	78246-24-9	.	-	-	-
+N-Nitrosopiperidine	100-75-4	+	83.3m	liv nas orc	liv nas orc
+N-Nitrosopyrrolidine	930-55-2	+	14.2m	liv	liv
+1-(2-Oxopropyl)nitroso-3-(2-chloroethyl)urea	110559-85-8	.	0.338m	vsc	vsc
+2-Oxopropylnitrosourea	89837-93-4	.	0.13m	vsc	vsc
+Phenethyl isothiocyanate	2253-09-01	.	-	.	-
+Phenobarbital	1950-06-06	+	-	-	.
+Phenyl-b-naphthylamine	135-88-6	-	-	-	-
+Praziquantel	55268-74-1	-	-	-	-
+Protocatechuic acid	99-50-3	.	-	.	-
+Quercetin dihydrate	6151-25-3	.	-	-	-
+Rosaniline.HCl	632-99-5	+	-	-	-
+p-Rosaniline.HCl	569-61-9	+	-	-	-
+Rutin trihydrate	153-18-4	+	-	-	-
+Tetrafluoroborate, sodium	13755-29-8	.	-	-	-
+Trichloroethylene	1979-01-06	-	-	-	-
+Urethane	51-79-6	+	65.2m	lgi ski sto	adr lgi ski sto thy
+Vinyl chloride	1975-01-04	+	39.4m	ezy sto vsc	mgl ski sto vsc

@@ -1,0 +1,1533 @@
+A-a-C	26148-68-5	+	.	49.8m	.	.	liv vsc	liv vsc
+Acesulfame-K	55589-62-3	.	.	-	.	.	-	-
+Acetaldehyde-s	75-07-0	-	153m	.	nas	nas	.	.
+Acetaldehyde methyl-formyl-hydra-zone	16568-02-8	-	.	2.51m	.	.	lun pre	cli lun sto
+Acetaldoxime	107-29-9	-	-	.	-	.	.	.
+Acetamide	60-35-5	-	180m	3010	liv	liv	hmo	-
+Acetaminophen	103-90-2	-	495m	1620m	liv ubl	liv ubl	liv	liv
+Acetohexamide	968-81-0	-	-	-	-	-	-	-
+Acetone[4-(5-nitro-2-furyl)-2-thiazolyl]hydrazone	18523-69-8	.	6.05	.	.	sto	.	.
+Acetonitrile	75-05-8	-	-	-	-	-	-	-
+Acetoxime	127-06-0	.	12.1	.	liv	-	.	.
+1'-Acetoxysafrole	34627-78-6	+	25m	-	sto	.	-	.
+N'-Acetyl-4-(hydroxy-methyl) phenyl-hydrazine	65734-38-5	.	.	241m	.	.	lun vsc	lun vsc
+1-Acetyl-2-isonicotinoyl-hydra-zine	1078-38-2	.	.	330m	.	.	lun	lun
+3-Acetyl-6-methyl-2,4-pyran-di-one	520-45-6	.	.	-	.	.	-	-
+1-Acetyl-2-phenylhydrazine	114-83-0	+	.	51.2m	.	.	vsc	vsc
+4-Acetylaminobiphenyl	4075-79-0	.	1.18	.	.	mgl	.	.
+1-Acetylaminofluorene	28314-03-6	.	-	.	.	-	.	.
+2-Acetylaminofluorene-s	53-96-3	+	1.22m	7.59m,v	liv mgl ski	liv mgl ski	liv ubl	liv ubl
+4-Acetylaminofluorene	28322-02-3	+	-	.	.	-	.	.
+4-Acetylaminophenylacetic acid	18699-02-0	.	-	-	-	-	-	-
+N-Acetylcysteine	616-91-1	.	-	.	-	.	.	.
+Acifluorfen	50594-66-6	.	.	141m	.	.	liv sto	liv sto
+Acrolein	107-02-8	+	-	-	-	-	-	-
+Acrolein diethylacetal	3054-95-3	.	-	.	-	-	.	.
+Acrolein oxime	5314-33-0	.	-	.	-	-	.	.
+Acronycine	7008-42-6	.	0.505i,m	I	bon per	mgl per	I	I
+Acrylamide	79-06-1	-	3.75m	.	nrv per thy	cli mgl nrv orc thy ute	.	.
+Acrylic acid	79-10-7	-	-	.	-	-	.	.
+Acrylonitrile	107-13-1	+	16.9m,v	6.32m	ezy nrv orc smi sto	ezy mgl nas nrv orc smi sto	hag sto	hag sto
+Actinomycin C	8052-16-2	.	-	.	-	.	.	.
+Actinomycin D	50-76-0	-	0.00111i,m	.	per	per	.	.
+Adipamide	628-94-4	-	-	-	-	-	-	-
+AF-2-s	3688-53-7	+	29.4m,v	131m,v	mgl	mgl	sto	sto
+Aflatoxicol	29611-03-8	+	0.00247	.	liv	.	.	.
+Aflatoxin B1-s	1162-65-8	+	0.0032m,P,v	-	kid lgi liv	lgi liv	-	-
+Aflatoxin, crude	1402-68-2	.	0.00299m	0.343	liv	.	hmo	.
+Agar	9002-18-0	.	-	-	-	-	-	-
+Alclofenac	22131-79-9	.	-	.	-	-	.	.
+Aldicarb	116-06-3	-	-	-	-	-	-	-
+Aldrin	309-00-2	-	-	1.27m	-	-	liv	liv(B)
+Alkylbenzenesulfonate, linear	42615-29-2	.	-	.	-	-	.	.
+Alkyldimethylamine oxides, commercial grade	mixture	.	-	.	-	-	.	.
+Allantoin	97-59-6	.	-	.	-	-	.	.
+Allyl alcohol	107-18-6	-	-	.	-	-	.	.
+Allyl chloride	107-05-1	+	I	-	I	I	-	-
+Allyl glycidyl ether	106-92-3	+	-	182	-	-	nas	-
+Allyl isothiocyanate	57-06-7	+	96	-	ubl	-	-	-
+Allyl isovalerate	2835-39-4	-	123	62.8	hmo	-	-	hmo
+1-Allyl-1-nitrosourea	760-56-5	.	0.341m	.	lgi lun sto	mgl sto ute	.	.
+Allylhydrazine.HCl	52207-83-7	.	.	34.2m	.	.	lun	lun vsc
+Aluminum potassium sulfate	10043-67-1	.	-	-	-	-	-	-
+1-Amino-2,4-dibromoanthra-qui-none	81-49-2	+	46m	477m	kid lgi liv ubl	kid lgi liv ubl	liv lun sto	liv lun sto
+3-Amino-4-ethoxyacetanilide	17026-81-2	+	-	2070	-	-	thy	-
+3-Amino-9-ethylcarbazole.HCl	6109-97-3	+	57.2m	38.6m	ezy liv ski	ezy liv ute	liv	liv
+3-Amino-9-ethylcarbazole mixture	mixture	+	26.4m	38m	ezy liv ski	ezy	liv	liv
+3-Amino-4-[2-[(2-guanidino-thi-a-zol-4-yl)methylthio], ethyl-amino]-1,2,5-thiadiazole	---	.	4990m	.	sto	sto	.	.
+1-Amino-2-methylanthraquinone	82-28-0	+	59.2m	174	kid liv	liv	-	liv
+2-Amino-5-(5-nitro-2-furyl)-1,3,4-oxadiazole	3775-55-1	.	3.67	.	.	kid lun mgl sto	.	.
+2-Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazole	712-68-5	.	0.662	.	.	kid lun mgl sto	.	.
+2-Amino-4-(5-nitro-2-furyl)thi-a-zole	38514-71-5	+	5.85	7.87	.	sto ubl	.	sto
+trans-5-Amino-3[2-(5-nitro-2-furyl)vinyl]-1,2,4-oxadiazole	28754-68-9	.	.	112m	.	.	hmo sto	hmo sto
+2-Amino-4-nitrophenol	99-57-0	+	839	-	kid	-	-	-
+2-Amino-5-nitrophenol	121-88-0	+	111	-	pan	-	-	-
+4-Amino-2-nitrophenol	119-34-6	+	309	-	ubl	-	-	-
+2-Amino-4-(p-nitrophenyl)thi-a-zole	2100-09-07	.	.	9.95	.	.	.	hmo
+2-Amino-5-nitrothiazole	121-66-4	+	44.6	-	- u	kid lun mgl	-	-
+2-Amino-5-phenyl-2-oxazolin-4-one + Mg(OH)2	18968-99-5	.	-	.	.	-	.	.
+2-Aminoanthraquinone	117-79-3	+	101	1190m	liv	-	liv	hmo liv
+o-Aminoazotoluene	97-56-3	+	4.04m	-	liv	liv	-	.
+6-Aminocaproic acid	60-32-2	.	-	.	-	.	.	.
+4-Aminodiphenyl	92-67-1	+	.	2.1m	.	.	liv ubl	liv ubl
+4-Aminodiphenyl.HCl	2113-61-3	+	0.98	.	.	mgl	.	.
+2-Aminodiphenylene oxide	3693-22-9	.	.	4.24m,P	.	.	liv ubl	liv
+1-(Aminomethyl)cyclohexane-acetic acid	60142-96-3	.	5850	.	pan	-	.	.
+2,2'-[(4-Aminophenyl)imino]bis-ethanol sulfate	54381-16-7	.	-	.	-	-	.	.
+3-Aminotriazole-s	61-82-5	-	9.94m	25.3m	thy	pit thy	liv	liv
+11-Aminoundecanoic acid	2432-99-7	-	1100	-	liv ubl	-	-	-
+Ammonium chloride	12125-02-9	.	.	-	.	.	.	-
+Ammonium citrate	3012-65-5	.	-	.	-	.	.	.
+Ammonium hydroxide	1336-21-6	.	.	-	.	.	-	-
+Amobarbital	57-43-2	.	-	.	-	.	.	.
+dl-Amphetamine sulfate	60-13-9	-	-	-	-	-	-	-
+Ampicillin trihydrate	7177-48-2	-	-	-	-	-	-	-
+1-Amyl-1-nitrosourea	10589-74-9	.	0.555m	.	hmo lun sto	hmo lun mgl sto ute	.	.
+Amylopectin sulfate	9047-13-6	.	283m	.	lgi	.	.	.
+Anethole	104-46-1	-	.	-	.	.	.	-
+trans-Anethole	4180-23-8	.	-	.	-	-	.	.
+Anhydroglucochloral	15879-93-3	.	.	-	.	.	-	-
+Anilazine	101-05-3	-	-	-	-	-	-	-
+Aniline	62-53-3	-	-	.	-	.	.	.
+Aniline.HCl	142-04-1	-	269m,v	-	per spl vsc	per	-	-
+o-Anisidine.HCl	134-29-2	+	29.7m	966m	kid thy ubl	ubl	ubl	ubl
+p-Anisidine.HCl	20265-97-8	+	-	-	-	-	-	-
+Anthranilic acid	118-92-3	-	-	-	-	-	-	-
+9,10-Anthraquinone	84-65-1	+	.	-	.	.	-	-
+Antimony potassium tartrate	28300-74-5	-	.	.	.	.	B-	B-
+Aramite	140-57-8	.	96.7m	158	liv(B)	liv(B)	liv	-
+Arecoline.HCl	61-94-9	.	.	39.5m	.	.	lun sto vsc	lun vsc
+Aristolochic acid, sodium salt (77% AA I, 21% AA II)	10190-99-5	+	0.0141m	.	kid sto ublA	kid sto ublA	.	.
+Aroclor 1016	12674-11-2	.	53.9	.	-	liv	.	.
+Aroclor 1242	11104-29-3	.	11.8m	.	thy	liv	.	.
+Aroclor 1254	11097-69-1	-	4.8m	9.58	thy	liv	liv	.
+Aroclor 1260	11096-82-5	.	2.81m	.	liv thy	liv	.	.
+Arsenate, sodium-s	7631-89-2	.	-	.	B-	B-	.	.
+Arsenious oxide	1327-53-3	.	.	-	.	.	-	-
+Arsenite, sodium	7784-46-5	.	-	-	B-	B-	B-	L
+l-Ascorbate, sodium	134-03-2	.	-	.	-	.	.	.
+l-Ascorbic acid	50-81-7	-	-	-	-	-	-	-
+Aspartame	22839-47-0	.	-	.	-	-	.	.
+Aspirin	50-78-2	-	-	-	-	B-	-	-
+Aspirin, phenacetin, and caffeine	8003-03-0	-	-	-	-	-	-	-
+Astemizole	68844-77-9	.	-	-	-	-	-	-
+dl-Atenolol.HCl	51706-40-2	.	-	.	-	-	.	.
+Atrazine	1912-24-9	-	36.6m	-	mgl	hmo mgl ute	-	-
+Atropine	51-55-8	.	-	.	-	-	.	.
+Auramine-O	2465-27-2	+	11	62.7m	liv	.	liv	liv
+Auranofin	34031-32-8	.	.	-	.	.	-	-
+5-Azacytidine	320-67-2	+	0.17i	0.0774i,m	tes	I	hmo lun ski	hmo mgl ski
+6-Azacytidine	3131-60-0	.	-	.	-	.	.	.
+Azaserine	115-02-6	+	0.793i	.	pan(B)	pan(B)	.	.
+Azathioprine-s	446-86-6	+	-	8.92	.	-	-	hmo vsc
+Azelnidipine	123524-52-7	.	-	-	-	-	-	-
+Azide, sodium	26628-22-8	+	-	.	-	-	.	.
+Azinphosmethyl	86-50-0	+	-	-	-	-	-	-
+Azobenzene	103-33-3	+	24.1m	-	spl vsc	spl	-	-
+Azoxymethane	25843-45-2	+	0.0466m	.	ezy kid lgi liv	.	.	.
+1-Azoxypropane	17697-55-1	.	0.000241P	.	nas ski	.	.	.
+2-Azoxypropane	---	.	0.00268	.	ski	.	.	.
+AZT	30516-87-1	+	11600	296m	-	vag	-	vag
+Barbital, sodium	144-02-5	.	45.7m	.	kid	-	.	.
+Barbituric acid	67-52-7	.	-	.	-	.	.	.
+Barium acetate	543-80-6	.	-	-	-	-	-	-
+Barium chloride dihydrate	10326-27-9	-	-	-	-	-	-	-
+Bemitradine	88133-11-3	.	548m	.	liv	liv mgl	.	.
+Benzalazine	64896-26-0	.	-	-	-	-	-	-
+Benzaldehyde	100-52-7	-	-	1490m	-	-	sto	sto
+Benzene	71-43-2	-	169m	77.5m,v	ezy nas orc ski sto vsc	ezy nas orc sto vsc	ezy hag hmo lun pre	ezy hmo lun mgl ova
+Benzenediazonium sulfate	6415-38-9	.	.	14.4m	.	.	lun	lun
+Benzenesulphonohydrazide	5351-65-5	.	.	-	.	.	.	-
+Benzidine	92-87-5	+	1.73	19.9	hmo(B) liv(B) mgl(B)	hmo(B) liv(B) mgl(B)	liv	.
+Benzidine.2HCl	531-85-1	+	.	19.7m	.	.	hag liv	hag liv vsc
+Benzo(a)pyrene	50-32-8	+	0.956	3.47m	sto(B)	sto(B)	eso	eso orc sto
+Benzoate, sodium	532-32-1	.	-	-	-	-	-	-
+Benzofuran	271-89-6	-	424	25.1m	-	kid	liv lun sto	liv lun sto
+Benzoguanamine	91-76-9	.	-	-	-	.	-	-
+Benzoic acid	65-85-0	-	-	.	-	.	.	.
+Benzoin	119-53-9	-	-	-	-	-	-	-
+1,4-Benzoquinone	106-51-4	-	.	5.07m	.	.	hmo	hmo
+Benzothiazyl disulfide	120-78-5	+	.	-	.	.	-	-
+1H-Benzotriazole	95-14-7	+	-	-	-	-	-	-
+Benzotrichloride	98-07-7	+	.	0.396	.	.	.	hmo lun sto
+Benzoyl hydrazine	613-94-5	.	.	9.59m	.	.	hmo lun	hmo lun
+Benzyl acetate	140-11-4	-	-	1440m	-	-	liv sto	liv sto
+Benzyl alcohol	100-51-6	-	-	-	-	-	-	-
+Benzyl chloride	100-44-7	+	-	61.5m	-	-	sto	sto
+o-Benzyl-p-chlorophenol	120-32-1	-	-	1350	-	-	kid	-
+Benzyl isothiocyanate	622-78-6	.	-	.	-	.	.	.
+Benzyl thiocyanate	3012-37-1	.	-	.	-	.	.	.
+Benzylhydrazine.2HCl	20570-96-1	.	.	85.3	.	.	-	lun
+3-Benzylsydnone-4-acetamide	14504-15-5	.	4.24	10.2	liv	.	.	liv
+Beryllium sulfate	13510-49-1	-	-	-	-	-	-	-
+Bifenthrin	82657-04-3	.	.	-	.	.	-	-
+Biphenyl	92-52-4	-	.	-	.	.	-	-
+5,5'-(1,1'-Biphenyl)-2,5-dyl-bis (oxy)(2,2-dimethylpentanoic acid)	79520-77-7	.	.	55.5m	.	.	liv	liv
+2-Biphenylamine.HCl	2185-92-4	+	-	1120	-	-	-	vsc
+2,2-Bis(bromomethyl)-1,3-pro-panediol, technical grade	3296-90-0	+	111m	137m	eso ezy hmo lgi lun mgl orc per ski smi sto sub tes thy ubl	eso mgl orc thy	hag kid lun	hag lun sub
+1,1-Bis(tert-butylperoxy)-3,3,5-trimethylcyclohexane	6731-36-8	.	.	-	.	.	-	-
+Bis(tri-n-butyltin)oxide, technical grade	56-35-9	-	-	.	-	-	.	.
+Bis(2-chloro-1-methyl-ethyl) ether, technical grade	108-60-1	+	-	191m	-	-	liv lun	lun
+Bis-2-chloroethylether	111-44-4	+	.	11.7m	.	.	liv	-
+Bis-1,4-(chloromethoxy)butane	13483-19-7	.	.	-	.	.	.	-
+Bis-1,2-(chloromethoxy)ethane	13483-18-6	.	.	4.62i	.	.	.	per
+Bis-1,6-(chloromethoxy)hexane	56894-92-9	.	.	-	.	.	.	-
+Bis-1,4-(chloromethoxy)-p-xylene	56894-91-8	.	.	3.11i	.	.	.	per
+Bis-(chloromethyl)ether	542-88-1	.	0.00357	0.182m	lun nas	.	lun	per
+Bis(2,3-dibromopropyl)phos-phate, magnesium salt	36711-31-6	.	32m	.	eso smi sto	eso liv smi sto	.	.
+1,4-Bis[2-(3,5-dichloropyridyl-oxy)]benzene	76150-91-9	.	-	.	-	.	.	.
+4-Bis(2-hydroxyethyl)amino-2-(5-nitro-2-thienyl)quinazoline	33372-39-3	-	3.14	.	mgl smi	.	.	.
+4-Bis(2-hydroxyethyl)amino-2-(2-thienyl)quinazoline	58139-47-2	-	-	.	.	-	.	.
+Bis-2-hydroxyethyldithiocar-bamic acid, potassium	23746-34-1	.	.	37.7m	.	.	liv	-
+Bis(2-hydroxypropyl)amine	110-97-4	-	-	.	-	.	.	.
+Bismuth dimethyldithiocar-bamate	21260-46-8	.	.	-	.	.	-	-
+Bismuth oxychloride	7787-59-9	.	-	.	B-	B-	.	.
+Bisphenol A	80-05-7	-	-	-	-	-	-	-
+Black PN	2519-30-4	.	-	-	-	-	-	-
+C.I. direct black 38	1937-37-7	+	1.39m	71.6	liv	liv	liv(B) mgl(B)	liv(B) mgl(B)
+C.I. direct blue 6	2602-46-2	+	1.73m	.	liv	liv	.	.
+C.I. direct blue 15	2429-74-5	+	27.5m	.	ezy lgi liv orc pre ski smi	cli ezy hmo lgi liv orc ski smi ute	.	.
+C.I. direct blue 218	28407-37-6	-	1570	857m	orc	-	liv	liv
+C.I. disperse blue 1	2475-45-8	+	156m	-	ubl	ubl	-	-
+FD & C blue no. 1	3844-45-9	.	-	-	B-	B-	-	-
+FD & C blue no. 2	860-22-0	-	-	-	B-	B-	-	-
+HC blue no. 1	2784-94-3	+	702	86.3m,P	-	lun	liv thy	liv
+HC blue no. 1 (purified)	2784-94-3	+	.	78.7m	.	.	.	liv
+HC blue no. 2	33229-34-4	+	-	-	-	-	-	-
+Gardenia blue color	526194-45-6	.	-	.	-	-	.	.
+Boric acid	10043-35-3	-	.	-	.	.	-	-
+Bromate, potassium-s	7754-01-01	+	9.82m	53.8	kid per thy	kid	kid	-
+Bromoacetaldehyde	17157-48-1	.	.	-	.	.	-	-
+Bromocriptine mesylate	22260-51-1	.	33.7	-	-	ute	-	-
+Bromodichloromethane	75-27-4	+	72.5m,v	47.7m	kid lgi	kid lgi liv	kid	liv
+Bromoethane	74-96-4	+	149n	535	adr lun nrv	-	-	ute
+Bromoethanol	540-51-2	+	.	76.1m	.	.	sto	sto
+C.I. direct brown 95	16071-86-6	+	2.07	.	-	liv	.	.
+Budesonide	51333-22-3	.	0.291	.	liv	.	.	.
+1,3-Butadiene	106-99-0	+	261m,v	13.9m,v	tes	mgl	hag hmo kid liv lun nrv pre sto vsc	hag hmo liv lun mgl ova sto vsc
+2-Butoxyethanol	111-76-2	-	-	1710m	-	-	vsc	sto
+tert-Butyl alcohol	75-65-0	-	64.6	21900	kid	-	-	thy
+Butyl benzyl phthalate	85-68-7	-	1040	-	pan	- u	-	-
+n-Butyl chloride	109-69-3	-	-	-	-	-	-	-
+2-sec-Butyl-4,6-dinitrophenol	88-85-7	-	.	-	.	.	-	-
+N-n-Butyl-N-formylhydrazine	16120-70-0	.	.	19.3m	.	.	lun pre	cli lun
+Butyl p-hydroxybenzoate	94-26-8	-	.	-	.	.	-	-
+N-Butyl-N-(4-hydroxybutyl) nitro-samine	3813-11-05	+	0.457m,P,v	.	tes ubl	ubl	.	.
+di-tert-Butyl-4-hydroxymethyl phenol	88-26-6	.	-	.	-	-	.	.
+2-tert-Butyl-4-methylphenol	2409-55-4	.	-	.	-	.	.	.
+N-Butyl-N'-nitro-N-nitrosoguanidine	13010-08-7	+	-	.	-	.	.	.
+N-n-Butyl-N-nitrosourea	869-01-2	+	0.517m,v	.	eso ezy hmo lgi lun sto	eso ezy hmo lgi lun mgl sto ute vag	.	.
+Butylated hydroxyanisole-s	25013-16-5	-	405m,P,v	5530m,n	sto	sto	sto	-
+Butylated hydroxytoluene	128-37-0	-	-	653m	-	-	liv lun	-
+1,1-di-n-Butylhydrazine	7422-80-2	.	.	45.2m	.	.	liv lun sto	lun sto
+n-Butylhydrazine.HCl	56795-65-4	.	.	12.1m	.	.	lun	lun
+1,2-di-n-Butylhydrazine.2HCl	78776-28-0	.	.	46.2m	.	.	hmo kid lun	hmo lun
+tert-Butylhydroquinone	1948-33-0	-	.	-	.	.	-	-
+2,4,6-tri-tert-Butylphenol	732-26-3	.	-	.	-	-	.	.
+p-tert-Butylphenol	98-54-4	.	-	.	-	.	.	.
+N-Butylurea	592-31-4	.	-	-	-	-	-	-
+b-Butyrolactone	3068-88-0	.	13.8	.	.	sto	.	.
+g-Butyrolactone	96-48-0	-	-	-	-	-	-	-
+Cadmium acetate	543-90-8	.	-	-	B-	B-	-	-
+Cadmium chloride-s	10108-64-2	-	0.0136m,v	-	hmo kid lun pro tes	lun	.	-
+Cadmium chloride monohydrate	35658-65-2	.	-	.	-	-	.	.
+Cadmium diethyldithiocarbamate	14239-68-0	.	.	-	.	.	-	-
+Cadmium sulphate (1:1)-s	10124-36-4	.	0.0217m	-	lun	lun	.	-
+Cadmium sulphate (1:1) hydrate (3:8)	7790-84-3	.	-	-	-	.	-	.
+Caffeic acid	331-39-5	-	297m	4900m	kid sto	sto	lun sto	kid sto
+Caffeine	58-08-2	-	-	-	-	-	-	-
+Calciferol	50-14-6	.	.	-	.	.	.	L
+Calcium acetate	62-54-4	.	-	.	-	.	.	.
+Calcium chloride	10043-52-4	-	-	.	-	.	.	.
+Calcium lactate	814-80-2	.	-	.	-	-	.	.
+Calcium valproate	33433-82-8	.	1300	.	-	ute	.	.
+Camostat mesylate	59721-29-8	.	-	.	-	.	.	.
+Candesartan cilexetil	145040-37-5	.	-	.	-	-	.	.
+Caprolactam	105-60-2	-	-	-	-	-	-	-
+Capsaicin	404-86-4	-	.	167m,n	.	.	lgi	lgi
+Captafol	2421-05-31	-	73.4m,v	178m,v	kid liv	kid liv mgl	hag hmo liv smi sto vsc	hmo liv smi sto vsc
+Captan	133-06-2	+	2080m	2110m	kid	ute	smi	smi
+Carbamyl hydrazine.HCl	563-41-7	-	.	223m	.	.	lun	lun vsc
+1-Carbamyl-2-phenylhydrazine	103-03-7	.	.	165m	.	.	lun	lun
+Carbarsone	121-59-5	-	-	.	-	-	.	.
+Carbaryl	63-25-2	+	14.1	-	tba(B)	tba(B)	-	-
+Carbazole	86-74-8	-	.	164m	.	.	liv sto	liv sto
+Carbofuran	1563-66-2	.	.	-	.	.	-	-
+Carbon tetrachloride	56-23-5	-	27.8m	33.6m,v	liv	liv mgl	adr liv	adr liv
+Carboxymethylnitrosourea	60391-92-6	-	4.31m,v	.	ski	mgl smi	.	.
+Carbromal	77-65-6	-	-	-	-	-	-	-
+b-Carotene	7235-40-7	+	-	-	-	.	-	-
+Carrageenan, acid-degraded	53973-98-1	.	2310m	.	lgi	lgi(B)	.	.
+Carrageenan, native-s	8996-06-29	.	-	.	-	-	.	.
+d-Carvone	2244-16-8	-	.	-	.	.	-	-
+Catechins, commercial mixture from green tea (91% cate-chins)	136511-29-0	.	-	.	.	-	.	.
+Catechol	120-80-9	-	71.5m,P,v	244m	sto	sto	sto	sto
+Celecoxib	169590-42-5	.	-	.	-	.	.	.
+Celiprolol	56980-93-9	.	-	-	-	-	-	-
+Cevimeline.HCl	153504-70-2	.	-	.	-	-	.	.
+Chenodeoxycholic acid	474-25-9	.	.	.	.	.	B-	B-
+Chloral hydrate	302-17-0	+	-	99.9m	-	.	liv	-
+Chloramben	133-90-4	+	-	5230	-	-	-	liv
+Chlorambucil	305-03-3	+	0.896m	0.133i,m	hmo	ezy mgl nrv	hmo lun	lun
+Chloraminated water	---	.	-	-	-	-	-	-
+Chloramphenicol	56-75-7	-	-	.	.	-	.	.
+Chloranil	118-75-2	+	.	-	.	.	-	-
+Chlordane, technical grade	57-74-9	-	-	1.37m,v	-	-	liv	liv
+Chlorendic acid	115-28-6	-	40.8m	141	liv pan	liv	liv	-
+Chlorinated paraffins (C12, 60% chlorine)	63449-39-8	-	222m	113m	kid liv	liv thy	liv	liv thy
+Chlorinated paraffins (C23, 43% chlorine)	63449-39-8	-	-	6540	-	-	hmo	-
+Chlorinated trisodium phosphate	56802-99-4	+	.	-	.	.	-	-
+Chlorinated water	---	.	-	-	-	-	-	-
+Chlorine	7782-50-5	-	-	-	-	-	-	-
+Chlormadinone acetate	302-22-7	.	.	-	.	.	.	L
+4-Chloro-4'-aminodiphenylether	101-79-1	.	37.6	346	liv	.	-	ubl vsc
+3-Chloro-4-(dichloromethyl)-5-hydroxy-2(5H)-furanone	77439-76-0	.	0.583m	.	adr hmo liv lun pan thy	adr hmo liv mgl thy	.	.
+2-Chloro-5-(3,5-dimethylpiperi-di-nosulphonyl)benzoic acid	37087-94-8	.	4.85	.	liv	.	.	.
+1-Chloro-2,4-dinitrobenzene	97-00-7	.	-	-	-	.	-	-
+3-Chloro-2-methylpropene	563-47-3	-	.	1000m	.	.	sto	hag sto
+3-Chloro-2-methylpropene, technical grade (containing 5% dimethylvinyl chloride)	563-47-3	+	113m	77.7m	sto	sto	sto	sto
+1-Chloro-2-nitrobenzene	88-73-3	+	-	157m	-	.	liv	liv
+1-Chloro-4-nitrobenzene	100-00-5	+	-	473m	-	.	liv vsc	vsc
+4-Chloro-m-phenylenediamine	5131-60-2	+	315	1230	adr	-	-	liv
+4-Chloro-o-phenylenediamine	95-83-0	+	214m	1340m	sto ubl	sto ubl	liv	liv
+2-Chloro-p-phenylenediamine sulfate	61702-44-1	+	-	-	-	-	-	-
+1-Chloro-2-propanol, technical grade (~75% 1-chloro-2-pro-panol; ~25% 2-chloro-1-pro-panol)	127-00-4	+	-	-	-	-	-	-
+3-Chloro-p-toluidine	95-74-9	-	-	-	-	-	-	-
+5-Chloro-o-toluidine	95-79-4	-	-	195m	-	-	liv vsc	liv vsc
+4-Chloro-o-toluidine.HCl	3165-93-3	-	-	25.8m,v	-	-	vsc	vsc
+2-Chloro-1,1,1-trifluoroethane	75-88-7	-	87.3m	.	tes	ute	.	.
+[4-Chloro-6-(2,3-xylidino)-2-pyri-midinylthio]acetic acid-s	50892-23-4	.	4.36m,P,v	<10.8P	liv	.	liv	.
+4-Chloro-6-(2,3-xylidino)-2-pyri-mi-dinylthio(N-b-hydroxy-ethyl) acetamide	65089-17-0	.	6.49	44.6	liv	.	.	liv
+Chloroacetaldehyde	107-20-0	+	.	36.1	.	.	liv	-
+2-Chloroacetophenone	532-27-4	-	-	-	-	-	-	-
+4'-(Chloroacetyl)-acetanilide	140-49-8	+	-	-	-	-	-	-
+p-Chloroaniline	106-47-8	+	-	-	-	-	-	-
+p-Chloroaniline.HCl	20265-96-7	+	7.62	89.5	spl	-	liv vsc	-
+o-Chlorobenzalmalonitrile	2698-41-1	+	-	-	-	-	-	-
+Chlorobenzene	108-90-7	-	247	-	liv	-	-	-
+Chlorobenzilate	510-15-6	-	-	93.9m,v	-	-	liv	liv
+Chlorodibromomethane	124-48-1	-	-	139	-	-	-	liv
+Chlorodifluoromethane	75-45-6	.	-	-	-	-	-	-
+Chloroethane	75-00-3	+	-	1810	-	-	I	ute
+(2-Chloroethyl)trimethylam-mo-nium chloride	999-81-5	-	-	-	-	-	-	-
+1-Chloroethylnitroso-3-(2-hy-droxy-propyl)urea	---	.	0.124	.	lun	-	.	.
+Chlorofluoromethane	593-70-4	.	27.5m	.	sto	sto	.	.
+Chloroform-s	67-66-3	-	262m	111m,v	kid	liv	kid liv	liv
+Chloromethyl methyl ether-s	107-30-2	-	5.5	.	mix	.	.	.
+2-(Chloromethyl)pyridine.HCl	6959-47-3	+	-	-	-	-	-	-
+3-(Chloromethyl)pyridine.HCl	6959-48-4	+	433	229m	sto	-	sto	sto
+p-Chlorophenyl-p-chloro-ben-zene sulfonate	80-33-1	.	.	-	.	.	-	-
+3-(p-Chlorophenyl)-1,1-di-methyl-urea	150-68-5	-	131	-	kid liv	-	-	-
+(+,-)-(4)-(2-Chlorophenyl)-2-[2-(4-iso-butylphenyl)ethyl]-6,9-di-methyl-6H-thieno[3,2-f][1,2,4] tri-azolo[4,3-a][1,4]diazepine	117279-73-9	.	-	.	-	-	.	.
+1-(4-Chlorophenyl)-1-phenyl-2-propynyl carbamate	10473-70-8	.	8.78	.	nrv smi	.	.	.
+p-Chlorophenyl-2,4,5-tri-chloro-phenyl sulfide	2227-13-6	.	-	.	-	-	.	.
+Chloropicrin	76-06-2	+	I	-	I	I	-	-
+Chloroprene (>96% chloroprene)	126-99-8	-	12.5m	8.17m	kid lun orc thy	kid mgl orc thy	hag kid lun sto vsc	ezy hag liv lun mgl per sto sub vsc
+Chloroprene (99.6% chloro-prene)-s	126-99-8	-	-	.	-	-	.	.
+2-Chloropropanal	683-50-1	.	.	12.9	.	.	-	sto
+1-Chloropropene	590-21-6	.	.	5.05	.	.	-	sto
+Chlorotetrafluoroethane	2837-89-0	.	-	.	.	-	.	.
+Chlorothalonil	1897-45-6	-	2270m	-	kid	kid	-	-
+Chlorozotocin	54749-90-5	+	0.0375i,m	.	per	per	.	.
+Chlorpheniramine maleate	113-92-8	-	-	-	-	-	-	-
+Chlorpropamide	94-20-2	-	-	-	-	-	-	-
+Chocolate Brown FB	12236-46-3	.	-	-	-	-	-	-
+Chocolate Brown HT	4553-89-3	.	.	-	.	.	-	-
+Choline chloride	67-48-1	-	-	-	-	.	-	.
+Chromic oxide pigment	1308-38-9	.	-	.	B-	B-	.	.
+Chromium (III) acetate	1066-30-4	.	-	-	B-	B-	-	-
+Chrysazin	117-10-2	+	245	201	lgi	.	liv	.
+Cimetidine	51481-61-9	.	-	-	-	-	.	-
+trans-Cinnamaldehyde	14371-10-9	-	-	-	-	-	-	-
+Cinnamyl anthranilate	87-29-6	-	12100	2580m	kid pan	-	liv	liv
+Ciprofibrate	52214-84-3	.	1.97m,P,v	6.2m	liv sto	sto	liv	.
+Citral	5392-40-5	-	-	-	-	-	-	-
+Citric acid	77-92-9	.	-	.	-	.	.	.
+Citrinin	518-75-2	-	<7.48m,P	.	kid	.	.	.
+Clivorine	33979-15-6	.	0.5	.	liv(B) vsc(B)	liv(B) vsc(B)	.	.
+Clobuzarit-s	22494-47-9	.	-	154	-	-	liv	-
+Clofibrate	637-07-0	.	169	-	liv pan	.	-	-
+Clomiphene citrate	43054-45-1	.	.	-	.	.	.	-
+Clonitralid	1420-04-8	.	-	-	-	-	I	-
+Clophen A 30	55600-34-5	.	157n	.	liv	.	.	.
+Cobalt sulfate heptahydrate	10026-24-1	+	0.137m	0.756m	lun	adr lun	lun	lun
+Codeine	76-57-3	-	-	-	-	-	-	-
+Colcemid	477-30-5	.	-	.	-	.	.	.
+Compound 50-892	65765-07-3	.	-	-	-	-	-	-
+Compound LY171883	88107-10-2	.	.	112	.	.	-	liv
+Copper dimethyldithiocarbamate	137-29-1	.	.	-	.	.	-	-
+Copper-8-hydroxyquinoline	10380-28-6	.	.	-	.	.	-	-
+Coumaphos	56-72-4	-	-	-	-	-	-	-
+Coumarin-s	91-64-5	+	39.2m,v	103m	kid liv	liv	lun	liv lun
+m-Cresidine	102-50-1	+	470m	-	ubl	ubl	I	-
+p-Cresidine	120-71-8	+	98m	54.3m	liv nas ubl	nas ubl	ubl	liv ubl
+Crotonaldehyde	123-73-9	.	4.2	.	liv	.	.	.
+Cupferron	135-20-6	+	8.35m	585m	liv sto vsc	ezy liv sto vsc	vsc	ezy hag liv vsc
+Cyanamide, calcium	156-62-7	+	-	-	-	-	-	-
+Cyanazine	21725-46-2	.	6.33	.	-	mgl	.	.
+Cyanoguanidine	157480-33-6	.	-	.	-	-	.	.
+Cyclamate, sodium-s	139-05-9	.	-	667m	B-	B-	liv	tba
+Cyclochlorotine	12663-46-6	.	.	23.6	.	.	liv	.
+Cyclocytidine	31698-14-3	.	-	.	-	-	.	.
+b-Cyclodextrin	7585-39-9	.	-	-	-	-	-	-
+Cyclohexanone	108-94-1	-	-	-	-	-	-	-
+N-Cyclohexyl-2-benzothiazole sulfenamide	95-33-0	.	.	-	.	.	-	-
+Cyclohexylamine.HCl	4998-76-9	-	-	-	-	-	-	-
+Cyclohexylamine sulfate	19834-02-7	.	-	-	-	-	-	-
+Cyclopentanone oxime	1192-28-5	.	40.9	.	liv	.	.	.
+3-(Cyclopentyloxy)-N-(3,5-di-chloro-4-pyridyl)-4-methoxy-benzamide	144035-83-6	.	1.54m	.	nas	nas	.	.
+Cyclophosphamide-s	50-18-0	+	2.21m,v	5.96i,m	hmo(B) nrv(B) tba ubl(B)	hmo(B) nrv(B) tba ubl(B)	lun	hmo lun
+Cyclosporin A	59865-13-3	-	-	-	-	-	-	-
+Cyproterone acetate	427-51-0	.	.	21.9m	.	.	liv sto	liv sto
+l-Cysteine.HCl	52-89-1	.	-	.	-	-	.	.
+Cytembena	16170-75-5	+	2.77i,m	-	per	mgl	-	-
+Dacarbazine	4338-03-03	+	0.71	0.966i,m	.	hmo mgl ute	hmo lun vsc	hmo lun ute vsc
+Daminozide	1596-84-5	-	2500n	1030m	-	ute	kid lun vsc	lun vsc
+Dapsone	80-08-0	-	22.4	-	per spl	-	-	-
+o,p'-DDD	53-19-0	-	.	-	.	.	-	-
+p,p'-DDD	72-54-8	-	-	30.7m	-	-	liv lun	lun
+p,p'-DDE-s	72-55-9	-	-	12.5m	-	-	liv	liv
+DDT-s	50-29-3	-	84.7m	12.8m,v	liv	liv	hmo liv lun	hmo liv lun
+Decabromodiphenyl oxide	1163-19-5	-	3340m	-	liv	liv	-	-
+Decabromodiphenyl oxide, tech-nical grade (77.4% DBDPO, 21.8% nonabromo-diphenyl oxide, 0.8% octabromo-di-phenyl oxide)	1163-19-5	-	-	.	-	-	.	.
+Deflazacort	14484-47-0	.	-	.	bon	-	.	.
+Dehydroepiandrosterone	53-43-0	.	83.5m	.	liv	liv	.	.
+Dehydroepiandrosterone acetate	853-23-6	.	49.6m	.	liv	liv	.	.
+Dehydroepiandrosterone sulfate	651-48-9	.	.	-	.	.	-	-
+Deltamethrin	52918-63-5	-	-	-	-	-	-	-
+Deoxynivalenol	51481-10-8	.	.	-	.	.	-	.
+Deserpidine	131-01-1	.	-	.	B-	B-	.	.
+Dexamethazone	50-02-2	.	-	.	-	.	.	.
+Dextran	9004-54-0	.	-	.	-	-	.	.
+Dextran sulfate sodium (DS-M-1)	9011-18-1	.	196m	.	lgi	lgi	.	.
+Dextran sulfate sodium (DST-H)	9011-18-1	.	-	.	-	-	.	.
+Dextran sulfate sodium (KMDS-H)	9011-18-1	.	-	.	-	-	.	.
+N-1-Diacetamidofluorene	63019-65-8	.	19	.	.	ezy mgl	.	.
+Diacetyl hydrazine	3148-73-0	.	.	-	.	.	-	-
+Diallate	2303-16-4	+	.	26.7m	.	.	liv	-
+Diallyl phthalate	131-17-9	-	-	-	-	-	-	-
+1,1-Diallylhydrazine	5160-11-03	.	.	29.6m	.	.	lun sto	lun sto
+1,2-Diallylhydrazine.2HCl	26072-78-6	.	.	33.8m	.	.	lun	lun
+Diallylnitrosamine-s	16338-97-9	+	33.9m	.	nas	nas	.	.
+4,6-Diamino-2-(5-nitro-2-furyl)-S-triazine	720-69-4	+	1.71	.	.	mgl	.	.
+4,4'-Diamino-2,2'-stilbenedi-sul-fonic acid, disodium salt	7336-20-1	-	-	-	-	-	-	-
+2,4-Diaminoanisole sulfate	39156-41-7	+	183m	906m	ezy pre ski thy	cli ezy mgl thy	thy	thy
+4,4'-Diaminoazobenzene	538-41-0	.	.	-	.	.	-	-
+4,4'-Diaminobenzanilide	785-30-8	.	.	-	.	.	-	-
+2,4-Diaminophenol.2HCl	137-09-7	+	-	143	-	-	kid	-
+2,4-Diaminotoluene	95-80-7	+	2.47m	26.7	liv	liv mgl	-	liv
+2,4-Diaminotoluene.2HCl	636-23-7	+	4.42	203m	liv sub	.	liv vsc	liv
+2,6-Diaminotoluene.2HCl	15481-70-6	+	-	-	-	-	-	-
+2,5-Diaminotoluene sulfate	6369-59-1	+	-	-	-	-	-	-
+Diazepam	439-14-5	-	-	-	-	-	-	-
+Diazinon	333-41-5	-	-	-	-	-	-	-
+3-Diazotyramine.HCl	---	.	37.6	.	orc	.	.	.
+Dibenz(a,h)anthracene	53-70-3	+	.	5.88	.	.	lun	.
+Dibenzo-p-dioxin	262-12-4	-	-	-	-	-	-	-
+3-Dibenzofuranamine	4106-66-5	.	2.48	.	tba	.	.	.
+O,S-Dibenzoyl thiamine.HCl	35660-60-7	.	-	.	-	-	.	.
+1,2-Dibromo-3-chloropropane	96-12-8	+	0.259m	2.72m	nas orc sto	adr mgl nas orc sto	lun nas sto	lun nas sto
+Dibromodulcitol	10318-26-0	+	8.37i	11i,m	ski	.	hmo lun	hmo lun
+1,2-Dibromoethane	106-93-4	+	1.52m	7.45m,v	nas per pit sto vsc	liv lun mgl nas pit sto vsc	lun sto vsc	eso lun mgl nas sto sub vsc
+Dibromomannitol	488-41-5	+	27.6i,m	14.9i,m	per ski	mgl per	lun	hmo lun
+5,7-Dibromoquinoline	34522-69-5	.	-	.	-	-	.	.
+1,3-Dibutyl-1-nitrosourea	56654-52-5	.	4.28	.	.	hmo mgl	.	.
+Dibutyltin diacetate	1067-33-0	-	-	-	-	I	-	-
+3,5-Dichloro(N-1,1-dimethyl-2-pro-pynyl)benzamide	23950-58-5	.	.	140	.	.	liv	.
+2,3-Dichloro-p-dioxane	3883-43-0	.	.	-	.	.	.	-
+1,1-Dichloro-1-fluoroethane	1717-00-6	.	5260	.	tes	-	.	.
+a,b-Dichloro-b-formylacrylic acid	87-56-9	+	.	-	.	.	-	-
+3,4'-Dichloro-2-methyla-cryl-ani-lide	2160-09-01	.	.	-	.	.	-	-
+2,3-Dichloro-1,4-naphtho-qui-none	117-80-6	.	.	-	.	.	-	-
+2,6-Dichloro-4-nitroaniline	99-30-9	+	.	-	.	.	-	-
+2,6-Dichloro-p-phenylene-di-amine	609-20-1	+	-	803m	-	-	liv	liv
+Dichloroacetic acid	79-43-6	+	161m	119m	liv	.	liv	liv
+Dichloroacetylene	7572-29-4	.	3.58m	0.574m	kid liv	hmo kid liv	hag kid	hag kid
+1,2-Dichlorobenzene	95-50-1	-	-	-	-	-	-	-
+1,4-Dichlorobenzene	106-46-7	-	644	323m	kid	-	hmo liv	liv
+3,3'-Dichlorobenzidine-s	91-94-1	+	28.1m	.	ezy hmo mgl	mgl	.	.
+3,3'-Dichlorobenzidine.2HCl	612-83-9	+	.	<12.3P	.	.	liv	.
+1,4-Dichlorobutene-2 (65% trans-, 35% cis-)	764-41-0	.	0.297m	.	nas	nas	.	.
+trans-1,4-Dichlorobutene-2	110-57-6	+	.	1.52i	.	.	.	per
+2,7-Dichlorodibenzo-p-dioxin	33857-26-0	-	-	-	-	-	-	-
+Dichlorodifluoromethane	75-71-8	.	-	-	-	-	-	-
+p,p'-Dichlorodiphenyl sulfone	80-07-9	-	-	-	-	-	-	-
+1,1-Dichloroethane	75-34-3	-	-	-	-	-	-	-
+1,2-Dichloroethane	107-06-2	+	14.6m,v	138m	mgl per sto sub vsc	mgl sub	lun vsc	liv lun mgl ute
+2,4-Dichlorophenol	120-83-2	-	-	-	-	-	-	-
+a-(2,4-Dichlorophen-oxy)pro-pi-onic acid	120-36-5	.	.	-	.	.	-	-
+a-(2,5-Dichlorophen-oxy)pro-pi-onic acid	6965-71-5	.	.	-	.	.	-	-
+2,4-Dichlorophenoxyacetic acid	94-75-7	-	-	-	-	-	-	-
+2,4-Dichlorophenoxyacetic acid, n-butyl ester	94-80-4	-	.	-	.	.	-	-
+2,4-Dichlorophenoxyacetic acid, isooctyl ester	25168-26-7	-	.	-	.	.	-	-
+2,4-Dichlorophenoxyacetic acid, isopropyl ester	94-11-1	.	.	-	.	.	-	-
+3-(3,4-Dichlorophenyl)-1,1-di-methylurea	330-54-1	.	.	-	.	.	-	-
+2,4-Dichlorophenylbenzene sulfonate	97-16-5	.	.	-	.	.	-	-
+1,2-Dichloropropane	78-87-5	+	-	276m	-	-	liv	liv
+Dichlorvos	62-73-7	+	4.16	70.4m	hmo pan	-	sto	sto
+Dichromate, sodium	10588-01-9	+	4.64	.	lun	.	.	.
+Dicofol	115-32-2	-	-	32.9	-	-	liv	-
+N,N'-Dicyclohexylthiourea	1212-29-9	-	-	-	-	-	-	-
+Dicyclopentadiene dioxide	81-21-0	.	-	-	-	.	-	-
+Dieldrin-s	60-57-1	-	-	0.912m,P	-	-	liv	liv
+Dieldrin, photo-	13366-73-9	+	-	-	-	-	-	-
+d,l-Diepoxybutane	298-18-0	+	-	.	.	-	.	.
+Diethyl-b,g-epoxypropylphos-pho-nate	7316-37-2	.	.	-	.	.	.	-
+N,N-Diethyl-4-(4'-[pyridyl-1'-oxide]azo)aniline	7347-49-1	.	<1.63P	.	liv	.	.	.
+N,N-Diethyl-m-toluamide	134-62-3	-	-	-	-	-	-	-
+O,O-Diethyl-O-(3,5,6-trichloro-2-pyridyl)phosphorothioate	2921-88-2	-	-	.	-	-	.	.
+Diethylacetamide	685-91-6	.	8.85n	.	kid	.	.	.
+Diethylacetylurea	---	.	-	.	-	.	.	.
+(+,-)-4-Diethylamino-1, 1-dimethyl-but-2-yn-1-yl 2-cyclohexyl-2-hydroxy-phenylacetate.HCl monohydrate	---	.	-	-	-	-	-	-
+Diethylene glycol	111-46-6	-	1660	.	ubl	-	.	.
+Diethylformamide	617-84-5	.	-	.	-	.	.	.
+Diethylmaleate	141-05-9	.	-	.	-	.	.	.
+Diethylstilbestrol	56-53-1	-	0.223m,v	0.0391m	adr pit	liv pit	mgl pit tes thy	mgl ova pit thy ute
+N,N'-Diethylthiourea	105-55-5	-	24m	-	thy	thy	-	-
+2-(Difluoromethyl)-dl-ornithine	70052-12-9	.	-	.	-	-	.	.
+1,2-Diformylhydrazine	628-36-4	.	.	668m	.	.	lun	lun
+Diftalone	21626-89-1	.	.	865m	.	.	vsc	liv vsc
+Diglycidyl resorcinol ether, technical grade	101-90-6	+	3.78m	24.3m	sto	sto	sto	sto
+5,6-Dihydro-5-azacytidine	62488-57-7	.	-	.	-	.	.	.
+1,2-Dihydro-2-(5-nitro-2-thi-enyl) quinazolin-4(3H)-one	33389-33-2	+	1.53	.	.	tba	.	.
+3,6-Dihydro-2-nitroso-2H-1,2-oxazine	3276-41-3	.	90.6	.	tba(B)	tba(B)	.	.
+3,4-Dihydrocoumarin	119-84-6	-	2970	723	kid	-	-	liv
+Dihydrosafrole	94-58-6	-	143	125m	eso(B)	eso(B)	liv	lun
+3,3'-Dihydroxybenzidine.2HCl	1592-36-5	.	.	353n	.	.	liv	.
+24R,25-Dihydroxyvitamin D3	55721-11-4	.	-	.	-	.	.	.
+Diisononyl phthalate	68515-48-0	-	861m	1850m	hmo kid liv	hmo liv	liv	liv
+(R,R)-Dilevalol.HCl	75659-08-4	.	-	.	-	-	.	.
+Dimethadione	695-53-4	.	-	.	-	.	.	.
+Dimethoate	60-51-5	+	-	-	-	-	-	-
+Dimethoxane	828-00-2	+	716	.	hmo kid liv ski sub	.	.	.
+Dimethoxane, commercial grade	828-00-2	+	-	-	-	-	-	-
+2,5-Dimethoxy-4'-aminostilbene	5803-51-0	.	0.721	95.9	ezy ski smi sto	.	liv lun	-
+2,4-Dimethoxyaniline.HCl	54150-69-5	+	-	-	-	-	-	-
+3,3'-Dimethoxybenzidine-4,4'-diisocyanate	91-93-0	+	1630m	-	hmo ski	hmo ute	-	-
+3,3'-Dimethoxybenzidine.2HCl	20325-40-0	+	1.04m	73.8n	ezy lgi liv orc per pre ski smi	cli ezy lgi liv mgl orc ski ute	liv	-
+5,7-Dimethoxycyclo-pen-tene[c] coumarin	1146-71-0	.	-	.	-	.	.	.
+5,7-Dimethoxycyclopen-tenone [2,3-c]coumarin	1150-37-4	.	-	.	-	.	.	.
+5,7-Dimethoxycyclo-pente-none [3,2-c]coumarin	1150-42-1	.	-	.	-	.	.	.
+5,6-Dimethoxysterigmatocystin	65176-75-2	.	<0.364P	.	liv	.	.	.
+O,O-Dimethyl S-2(acetyl-amino) ethyl dithiophosphate, technical grade	13265-60-6	.	-	.	-	-	.	.
+N,N-Dimethyl-4-aminoazo-ben-zene-s	60-11-7	+	3.31	.	.	liv	.	.
+N,N'-Dimethyl-N,N'-dinitroso-phthalamide	3851-16-9	.	-	.	-	.	.	.
+Dimethyl hydrogen phosphite	868-85-9	+	139	-	lun sto	-	-	-
+Dimethyl methylphosphonate	756-79-6	-	700	-	kid	-	I	-
+Dimethyl morpholinophos-phora-midate	597-25-1	-	614m	-	hmo	hmo	-	-
+4,6-Dimethyl-2-(5-nitro-2-furyl) py-rimidine	59-35-8	.	1.39P	.	.	kid mgl smi sto vsc	.	.
+1,2-Dimethyl-5-nitroimidazole	551-92-8	+	17	.	.	mgl	.	.
+Dimethyl terephthalate	120-61-6	-	-	-	-	-	-	-
+Dimethylacetamide	127-19-5	-	-	-	-	-	-	-
+6-Dimethylamino-4,4-diphenyl-3-heptanol acetate.HCl	43033-72-3	.	68m	-	liv	liv	-	-
+6-Dimethylamino-4,4-diphenyl-3-heptanone.HCl	1095-90-5	.	-	-	-	-	-	-
+trans-2-[(Dimethyl-amino)methyl-imino]-5-[2-(5-nitro-2-furyl) vinyl]-1,3,4-oxadiazole	55738-54-0	+	22.4	.	.	lun mgl smi sto	.	.
+4-Dimethylamino-3,5-xylenol	6116-09-30	.	.	-	.	.	-	-
+4-Dimethylaminoantipyrine	58-15-1	+	.	-	.	.	-	-
+2-Dimethylaminoethanol	108-01-0	-	.	-	.	.	.	-
+Dimethylaminoethylnitrosoethylurea, nitrite salt	142713-78-8	.	0.704	.	-	mgl ute	.	.
+2,6-Dimethylaniline	87-62-7	+	-	.	-	.	.	.
+N,N-Dimethylaniline	121-69-7	-	125	-	bon	-	-	-
+Dimethylarsinic acid	75-60-5	-	11.4	-	ubl	.	-	-
+5,5-Dimethylbarbituric acid	24448-94-0	.	-	.	-	.	.	.
+7,12-Dimethylbenz(a)anthracene	57-97-6	+	.	0.084	.	.	.	vsc
+3,3'-Dimethylbenzidine.2HCl	612-82-8	+	0.629m	28.6	ezy lgi liv lun orc per pre ski smi	cli ezy lgi liv lun mgl orc ski smi	lun	-
+Dimethylcarbamyl chloride-s	79-44-7	+	.	5.37i	.	.	.	per
+Dimethyldithiocarbamic acid, di-methylamine	598-64-1	.	.	-	.	.	-	-
+N,N-Dimethyldodecylamine-N-oxide	1643-20-5	.	-	.	-	-	.	.
+Dimethylformamide	68-12-2	-	-	-	-	-	-	-
+1,1-Dimethylhydrazine-s	57-14-7	+	-	3.96m	-	-	liv lun vsc	lun vsc
+1,2-Dimethylhydrazine.2HCl-s	306-37-6	+	.	0.114m,P	.	.	lun vsc	lun vsc
+2-(2,2-Dimethylhydrazino)-4-(5-nitro-2-furyl)thiazole	26049-69-4	+	0.41P	.	.	hmo mgl	.	.
+Dimethylnitramine	4164-28-7	.	0.547m,v	.	liv nas	liv nas	.	.
+Dimethylthiourea	61805-96-7	.	-	.	-	.	.	.
+Dimethylvinyl chloride	513-37-1	+	31.8m	14.9m	eso nas orc ski sto	eso nas orc sto	pre sto	sto
+2,4-Dinitro-6-tert-buthylphenyl methanesulfonate	29110-68-7	.	-	.	-	-	.	.
+Dinitro(1-methylheptyl)phenyl crotonate, commercial grade (78%)	6119-92-2	.	.	-	.	.	-	-
+2,4-Dinitrophenol	51-28-5	-	.	.	.	.	B-	B-
+2,4-Dinitrophenol, sodium	1011-73-0	.	.	-	.	.	.	-
+Dinitrosocaffeidine	145438-97-7	.	0.183	.	sto(B)	sto(B)	.	.
+Dinitrosohomopiperazine	55557-00-1	+	0.0615m	.	.	eso liv nas orc	.	.
+N,N-Dinitrosopentamethyl-ene-tetramine	101-25-7	.	-	.	-	.	.	.
+Dinitrosopiperazine	140-79-4	+	.	3.6m	.	.	sto	sto
+2,6-Dinitrotoluene	606-20-2	.	0.292m	.	liv	.	.	.
+2,4-Dinitrotoluene (containing 0.5% 2,6-dinitrotoluene)	121-14-2	+	-	.	-	.	.	.
+2,4-Dinitrotoluene (containing 1.0-1.5% 2,6-dinitrotoluene)	121-14-2	+	6.21m	29.4	liv ski	liv mgl	kid	-
+2,4-Dinitrotoluene, practical grade	121-14-2	+	-	-	- u	- u	-	-
+Dinitrotoluene, technical grade (2,4 (77%)- and 2,6 (19%)-)	25321-14-6	+	8.02	.	liv	.	.	.
+1,4-Dioxane	123-91-1	-	267m,v	204m,v	liv mgl nas per sub	liv mgl nas	liv	liv
+Dioxathion	78-34-2	+	-	-	-	-	-	-
+Dipentamethylenethiuram hexasulfide	971-15-3	.	.	-	.	.	-	-
+Dipentylnitrosamine	13256-06-9	.	4.03m	.	liv	liv	.	.
+Diphenhydramine.HCl	147-24-0	-	-	-	-	-	-	-
+Diphenyl-p-phenylenediamine	74-31-7	+	-	-	-	-	-	-
+Diphenylacetonitrile	86-29-3	.	.	-	.	.	-	-
+Diphenylcarbonate	102-09-0	.	.	-	.	.	-	-
+5,5-Diphenylhydantoin	57-41-0	-	-	59.1	-	-	-	liv
+N,N-Dipropyl-4-(4'-[pyridyl-1'-oxide]azo)aniline	---	.	-	.	-	.	.	.
+Dipropylene glycol	25265-71-8	-	-	-	-	-	-	-
+Dipyrone	68-89-3	.	-	630m	-	-	liv	liv
+Disodium 5'-ribonucleotide	80702-47-2	.	-	.	-	-	.	.
+2,5-Dithiobiurea	142-46-1	-	-	-	-	-	-	-
+Dithiooxamide	79-40-3	.	-	.	.	-	.	.
+3-O-Dodecylcarbomethyl-ascorbic acid	---	.	-	.	.	-	.	.
+n-Dodecylguanidine acetate	2435-10-02	.	.	-	.	.	-	-
+dl-Dopa	63-84-3	.	-	.	-	.	.	.
+Dopamine.HCl	62-31-7	+	-	.	-	.	.	.
+Doxefazepam	40762-15-0	.	-	.	-	-	.	.
+Doxylamine succinate	562-10-7	-	1610	209m	liv	-	liv thy	liv thy
+a-Ecdysone	3604-87-3	.	.	0.0358m	.	.	lun	mgl
+Edifas A	9004-59-5	.	-	-	-	-	-	-
+Edifas B	9004-32-4	.	-	-	-	-	-	-
+EDTA, trisodium salt trihydrate	150-38-9	-	-	-	-	-	-	-
+Efonidipine.HCl ethanolate	111011-76-8	.	-	-	-	-	-	-
+Ellagic acid	476-66-4	-	-	.	.	-	.	.
+Elmiron	37319-17-8	-	-	966m	-	-	vsc	liv vsc
+Emetine.2HCl	316-42-7	-	I	I	I	I	I	I
+Emodin	518-82-1	+	-	-	-	-	-	-
+Emulsifier YN	55965-13-4	.	-	-	-	-	-	-
+Endosulfan	115-29-7	-	-	-	-	-	-	-
+Endrin	72-20-8	-	-	-	-	-	-	-
+Enflurane	13838-16-9	-	.	-	.	.	-	-
+Enovid	8015-30-3	.	.	0.279m,v	.	.	-	pit
+Enovid-E	8015-30-3	.	.	-	.	.	-	-
+Ephedrine sulphate	134-72-5	-	-	-	-	-	-	-
+Epichlorohydrin	106-89-8	+	2.96m	-	sto	sto	.	-
+(-)-Epigallocatechin gallate (85% (-)-epigallocatechin gallate, 10% (-)-epigallocatechin, 5% (-)-epicatechin gallate)	989-51-5	.	.	-	.	.	-	.
+l-Epinephrine.HCl	55-31-2	-	I	I	I	I	I	I
+1,2-Epoxybutane	106-88-7	+	220	-	lun nas	-	-	-
+Erythorbate, sodium	6381-77-7	-	-	-	-	-	-	-
+Erythromycin stearate	643-22-1	-	-	-	-	-	-	-
+Estazolam	29975-16-4	.	-	-	-	-	-	-
+Estradiol	50-28-2	-	.	-	.	.	.	-
+Estradiol mustard	22966-79-6	.	-	1.45m	-	-	hmo lun myc sto	hmo lun myc sto
+Estragole	140-67-0	-	.	51.8	.	.	.	liv
+Ethinyl estradiol	57-63-6	-	0.2	.	.	liv	.	.
+Ethionamide	536-33-4	-	-	69.3	-	-	-	thy
+Ethionine	13073-35-3	-	<4.97P	.	liv	.	.	.
+dl-Ethionine	67-21-0	-	9.76m,P	71.4m,v	liv	.	liv	liv
+4-Ethoxy-phenylurea	150-69-6	-	537	.	liv(B)	liv(B)	.	.
+o-Ethoxybenzamide	938-73-8	-	.	513	.	.	liv	-
+Ethoxyquin	91-53-2	-	-	.	-	-	.	.
+Ethyl acrylate	140-88-5	-	119m	324m	sto	sto	sto	sto
+Ethyl alcohol-s	64-17-5	-	9110	-	adr liv pan pit	-	-	-
+Z-Ethyl-O,N,N-azoxyethane	16301-26-1	.	0.022	.	eso liv nas vsc	.	.	.
+Z-Ethyl-O,N,N-azoxymethane	57497-29-7	.	0.0189	.	lgi liv smi vsc	.	.	.
+Ethyl bromoacetate	105-36-2	+	.	-	.	.	.	-
+S-Ethyl-l-cysteine	2629-59-6	.	-	.	-	.	.	.
+p,p'-Ethyl-DDD	72-56-0	+	-	-	-	-	-	-
+N-Ethyl-N-formylhydrazine	74920-78-8	.	.	2.8m	.	.	gal liv lun pre vsc	lun vsc
+Ethyl methylphenylglycidate	77-83-8	-	-	.	-	-	.	.
+N-Ethyl-N'-nitro-N-nitroso-guani-dine	63885-23-4	.	.	2.84	.	.	eso(B) smi(B)	eso(B) smi(B)
+1-Ethyl-1-nitrosourea	759-73-9	+	0.948m	.	nrv smi thy	nrv smi	.	.
+Ethyl tellurac	20941-65-5	-	-	-	-	-	-	-
+3-O-Ethylascorbic acid	86404-04-8	.	-	.	.	-	.	.
+Ethylbenzene	100-41-4	-	72.6m,v	1600m	kid nasH tes	+H kid	lun	liv
+Ethylene glycol	107-21-1	-	.	-	.	.	-	-
+Ethylene glycol, cyclic sulfate	1072-53-3	-	.	-	.	.	.	-
+Ethylene imine	151-56-4	+	.	0.377m,P	.	.	liv lun	lun
+Ethylene oxide	75-21-8	+	21.3m,v	63.7m	hmo nrv per	nrv sto	hag lun	hag hmo lun mgl ute
+Ethylene thiourea	96-45-7	+	8.13m,v	23.5m	liv(B) thy	liv(B) thy	liv pit thy	liv pit thy
+Ethylene urea	120-93-4	.	.	-	.	.	-	-
+Ethylenebisdithiocarbamate, di-sodium	142-59-6	.	.	-	.	.	-	-
+1-Ethyleneoxy-3,4-epoxycyclo-hexane	106-87-6	+	-	.	.	-	.	.
+2-Ethylhexanol	104-76-7	-	-	1680	-	-	-	liv
+di(2-Ethylhexyl)adipate	103-23-1	-	-	3880m	-	-	liv	liv
+di(2-Ethylhexyl)phthalate	117-81-7	-	716m	700m	liv	liv	liv	liv
+Ethylhydrazine.HCl	18413-14-4	.	.	6.56m	.	.	lun vsc	lun vsc
+1-Ethylnitroso-3-(2-hydroxy-ethyl)-urea-s	96724-44-6	.	0.522m	.	ski	mgl ski ute	.	.
+1-Ethylnitroso-3-(2-oxopropyl)-urea-s	110559-84-7	.	0.181m,P	.	lgi lun nrv per ski	lgi lun mgl nrv ski thy ute	.	.
+Ethylnitrosocyanamide	38434-77-4	+	3.68m	.	nas	nas	.	.
+Ethylphenylacetylurea	90-49-3	.	-	.	-	.	.	.
+4-Ethylsulphonylnaphthalene-1-sulfonamide	842-00-2	.	.	21.1m	.	.	.	ubl
+Ethynodiol diacetate	297-76-7	.	-	-	.	-	.	L
+Etodolac	41340-25-4	.	-	-	-	-	-	-
+Eucalyptol	470-82-6	-	.	-	.	.	-	.
+Eugenol	97-53-0	-	-	-	-	-	-	-
+Fadrozole.HCl	102676-31-3	.	-	.	-	-	.	.
+Fenaminosulf, formulated	140-56-7	+	-	-	-	-	-	-
+Fenthion	55-38-9	-	-	-	-	-	-	-
+Fenvalerate	51630-58-1	.	-	-	-	-	-	-
+Ferric chloride	7705-08-0	-	-	.	-	-	.	.
+Ferric citrate tetrahydrate	2334-05-07	.	.	-	.	.	-	-
+Ferric dimethyldithiocarbamate	14484-64-1	.	.	-	.	.	-	-
+Finasteride	98319-26-7	.	.	326	.	.	tes	.
+Flecainide acetate	54143-56-5	.	-	-	-	-	-	-
+Fluconazole	86386-73-4	.	80.7	-	liv	-	-	-
+Fluometuron	2164-17-2	-	-	-	-	-	-	-
+N-(2-Fluorenyl)-2,2,2-trifluoroacetamide	363-17-7	.	1.62	.	.	ezy liv mgl	.	.
+Fluoride, sodium	7681-49-4	-	-	-	-	-	-	-
+4'-Fluoro-4-aminodiphenyl	324-93-6	.	.	1.14m	.	.	liv	liv
+N-4-(4'-Fluorobiphenyl)ace-ta-mide	398-32-3	.	1.01	.	kid	.	.	.
+2-Fluoroethyl-nitrosourea	69112-98-7	.	0.125	.	sto	.	.	.
+5-Fluorouracil	51-21-8	-	-	2.96m	-	-	lun	hmo lun
+Fluoxetine.HCl	59333-67-4	.	-	-	-	-	-	-
+Fluvastatin	93957-54-1	.	125	.	thy	-	.	.
+Formaldehyde-s	50-00-0	+	1.35m,v	43.9	hmo nas	hmo nas	nas	-
+Formic acid 2-[4-(2-furyl)-2-thia-zolyl]hydrazide	31873-81-1	.	-	.	.	-	.	.
+Formic acid 2-(4-methyl-2-thia-zolyl)hydrazide	32852-21-4	.	14.4	.	.	mgl	.	.
+Formic acid 2-[4-(5-nitro-2-furyl)-2-thiazolyl]hydrazide-s	3570-75-0	+	5.06m	10.8m	kid liv mgl	ezy hmo kid lgi liv mgl smi	.	hmo sto
+1-Formyl-3-thiosemicarbazide	2302-84-3	.	-	.	.	-	.	.
+Formylhydrazine	624-84-0	.	.	36.4m,P	.	.	lun	lun
+Fosetyl Al	39148-24-8	.	3660	.	ubl	-	.	.
+Fumonisin B1	116355-83-0	-	1.5m	6.79	kid liv	-	-	liv
+2-Furaldehyde semicarbazone	2411-74-7	.	-	.	.	-	.	.
+Furan	110-00-9	-	0.396m	2.72m	hmo liv	hmo liv	adr liv	adr liv
+Furfural-s	98-01-1	+	683	197m	liv	-	liv	liv
+Furfuryl alcohol	98-00-0	-	9.6	263	nas	-	kid	-
+Furosemide	54-31-9	-	-	732	-	-	-	mgl
+Fusarenon-X	23255-69-8	-	-	.	-	.	.	.
+Gallic acid	149-91-7	-	-	.	-	.	.	.
+Gemcadiol	35449-36-6	.	-	.	-	-	.	.
+Gemfibrozil	25812-30-0	.	247	-	liv	-	-	-
+Gentian violet	548-62-9	-	.	90.5m	.	.	hag liv	hag hmo liv
+Geranyl acetate, food grade (71% geranyl acetate, 29% citronellyl acetate)	mixture	-	-	-	-	-	-	-
+Germanate, sodium	12025-19-3	.	-	.	B-	B-	B-	B-
+Gibberellic acid	77-06-5	-	.	-	.	.	-	-
+Glu-P-1	67730-11-4	+	4.69m	5.4m	ezy lgi liv smi	cli ezy lgi liv nrv smi	liv vsc	liv vsc
+Glu-P-2	67730-10-3	+	42.3m	16m	ezy lgi liv nrv smi	cli ezy lgi liv smi	liv vsc	liv vsc
+l-Glutamic acid	56-86-0	-	.	-	.	.	-	.
+N2-g-Glutamyl-p-hydrazino-ben-zoic acid	---	.	.	277	.	.	sub	-
+b-N-[g-l(+)-Glutamyl]-4-hydroxy-methylphenylhydrazine	2757-90-6	.	.	-	.	.	-	-
+Glutaraldehyde	111-30-8	+	-	-	-	-	-	-
+Glycerin, natural	56-81-5	-	-	.	B-	B-	.	.
+Glycerin, synthetic	56-81-5	-	-	.	B-	B-	.	.
+Glycerol a-monochlorohydrin	96-24-2	+	-	.	-	-	.	.
+Glycidaldehyde	765-34-4	+	-	.	.	-	.	.
+Glycidol-s	556-52-5	+	4.28m	34.7m	ezy lgi mgl nrv per ski sto thy	cli hmo mgl nrv orc sto thy	hag liv lun ski sto	hag mgl ski sub ute
+Glycine	56-40-6	-	25700	.	-	kid	.	.
+Glycol sulfite	3741-38-6	.	.	-	.	.	.	-
+Glycyrrhetinic acid	471-53-4	.	-	.	-	.	.	.
+Glycyrrhizinate, disodium	71277-79-7	.	.	-	.	.	-	-
+FD & C green no. 1	4680-78-8	.	6060m	-	hmo(B) liv	hmo(B) liv	-	-
+FD & C green no. 2	5141-20-8	-	5640	-	hmo(B)	hmo(B)	-	-
+FD & C green no. 3	2353-45-9	-	-	-	-	-	-	-
+Griseofulvin-s	126-07-8	-	.	13.8m	.	.	liv	mgl
+Guar gum	9000-30-0	-	-	-	-	-	-	-
+Gum arabic	8996-01-04	-	-	-	-	-	-	-
+HCDD mixture	mixture	.	0.000596	0.00143m	-	liv	liv	liv
+Hematoxylin	517-28-2	-	1000	.	hmo(B)	hmo(B)	.	.
+Heptachlor	76-44-8	-	-	1.21m	-	-	liv	liv
+Heptamethyleneimine	1121-92-2	.	-	.	-	-	.	.
+Heptylamine	111-68-2	.	-	.	-	.	.	.
+Hexachlorobenzene-s	118-74-1	-	3.86m,P,v	65.1m	liv	liv	liv	liv
+Hexachlorobutadiene	87-68-3	-	65.8m	.	kid	kid	.	.
+a-1,2,3,4,5,6-Hexachloro-cyclo-hexane	319-84-6	.	11.2	<6.62P	liv	.	liv	.
+b-1,2,3,4,5,6-Hexachlorocyclo-hexane	319-85-7	-	.	27.8m	.	.	liv	liv
+g-1,2,3,4,5,6-Hexachlorocyclo-hexane	58-89-9	-	-	30.7m	-	-	liv	liv lun
+Hexachlorocyclohexane, technical grade	608-73-1	.	.	14.8m,P	.	.	liv	liv
+Hexachlorocyclopentadiene	77-47-4	-	-	-	-	-	-	-
+Hexachloroethane	67-72-1	-	55.4	338m	kid	-	liv	liv
+Hexachlorophene	70-30-4	-	-	-	-	-	-	-
+2,4-Hexadienal (89% trans,trans-, 11% cis,trans-)	142-83-6	+	62.2m	176m	sto	sto	sto	sto								
+3-(Hexahydro-4,7-methanoindan-5-yl)-1,1-dimethylurea	2163-79-3	.	.	-	.	.	-	-
+Hexamethylenetetramine	100-97-0	+	-	-	-	-	-	-
+Hexamethylmelamine	531-18-0	.	10.2	.	.	kid mgl	.	.
+Hexamethylphosphoramide	680-31-9	-	0.0344m	.	nas(B)	nas(B)	.	.
+Hexanal methylformylhydrazone	57590-22-4	.	.	2.33m	.	.	liv lun pre	liv lun
+Hexanamide	628-02-4	-	-	1950	-	-	hmo	-
+Hexane, commercial grade (52% n-hexane, 16% 3-methyl-cyclo-pentane, 16% methylcyclo-pentane)	110-54-3	-	-	30300	-	-	-	liv
+1-O-Hexyl-2,3,5-trimethylhydroquinone	148081-72-5	.	-	.	.	-	.	.
+N-Hexylnitrosourea	18774-85-1	+	0.513m,P	.	lgi lun sto	lun mgl sto ute	.	.
+4-Hexylresorcinol	136-77-6	-	-	-	-	-	-	-
+l-Histidine.HCl	645-35-2	.	-	.	-	-	.	.
+Humic acids, commercial grade	1415-93-6	.	.	-	.	.	-	-
+Hydrazine-s	302-01-2	+	0.613m,v	2.93m	liv lun nas	liv lun nas	lun	lun
+Hydrazine sulfate-s	10034-93-2	+	40.8m	7.59m,v	liv lun	lun	liv lun	liv lun
+2-Hydrazino-4-(p-aminophenyl) thi-azole	26049-71-8	.	1.03	11.3	.	hmo mgl	.	hmo
+2-Hydrazino-4-(5-nitro-2-furyl) thi-azole	26049-68-3	.	3.19m	16.4	.	kid mgl	.	sto
+2-Hydrazino-4-(p-nitrophenyl) thiazole	26049-70-7	.	3.21m	10.6	.	mgl	.	hmo
+2-Hydrazino-4-phenylthiazole	34176-52-8	.	-	.	.	-	.	.
+p-Hydrazinobenzoic acid	619-67-0	.	.	-	.	.	.	-
+p-Hydrazinobenzoic acid.HCl	24589-77-3	.	.	561m	.	.	vsc	vsc
+Hydrazobenzene	122-66-7	+	5.59m	26	ezy liv	liv mgl	-	liv
+Hydrochloric acid	7647-01-0	.	-	.	-	.	.	.
+Hydrochlorofluorocarbon 123	306-83-2	.	2370m,v	.	liv pan tes	liv	.	.
+Hydrochlorothiazide	58-93-5	-	-	-	-	-	-	-
+Hydrocortisone	50-23-7	.	-	.	-	-	.	.
+Hydrogen peroxide	7722-84-1	+	.	7540	.	.	-	smi
+Hydroquinone	123-31-9	-	82.8m	225m,v	kid	hmo	kid liv	liv
+Hydroquinone monobenzyl ether	103-16-2	.	.	-	.	.	-	-
+3-Hydroxy-4-acetylamino-bi-phenyl	4463-22-3	.	-	.	.	-	.	.
+N-Hydroxy-2-acetylamino-fluorene-s	53-95-2	+	0.988m	6.23	liv	liv	.	eso kid liv sto ubl
+3-Hydroxy-4-aminobiphenyl	4359-03-04	.	-	.	.	-	.	.
+3-Hydroxy-p-butyrophenetidide	1083-57-4	.	.	5530	.	.	kid	-
+1-Hydroxyanthraquinone	129-43-1	.	93.5m	.	lgi liv sto	.	.	.
+1'-Hydroxyestragole	51410-44-7	-	.	57.8	.	.	.	liv
+1-(2-Hydroxyethyl)-3-[(5-nitro-fur-furylidene)amino]-2-imidazo-li-dinone	5032-03-02	+	16.7	.	.	mgl	.	.
+1-(2-Hydroxyethyl)-nitroso-3-ethyl-urea	96724-45-7	.	0.562m	.	ski	mgl	.	.
+1-(2-Hydroxyethyl)-1-nitrosourea	13743-07-2	+	0.244m,v	0.818m	bon hmo kid lgi lun mgl sto	hmo mgl	hmo	hmo
+4-(2-Hydroxyethylamino)-2-(5-nitro-2-thienyl)quinazoline	33389-36-5	+	1.87	.	.	tba	.	.
+2-Hydroxyethylhydrazine-s	109-84-2	+	.	0.397m	.	.	liv	-
+1-(3-Hydroxypropyl)-1-nitroso-urea	71752-70-0	.	0.978m	.	sto	sto	.	.
+8-Hydroxyquinoline	148-24-3	+	-	-	-	-	-	-
+1'-Hydroxysafrole	5208-87-7	-	18.4m	71.2m	liv sto	.	vsc	liv
+Ibuprofen	15687-27-1	.	-	.	-	.	.	.
+ICRF-159	21416-87-5	.	10.7i	23.7i	-	ute	-	hmo
+3-((Imino((2,2,2-trifluoro-ethyl) amino)methyl)amino)1H-pyra-zole-1-pentamide	84545-30-2	.	1170m	565m	sto	sto	sto	sto
+3,3'-Iminobis-1-propanol di-meth-anesulfonate(ester).HCl	3458-22-8	.	-	-	-	-	-	-
+Iminodiacetic acid, monosodium	32607-00-4	.	-	.	-	-	.	.
+Indole	120-72-9	.	.	-	.	.	.	-
+Indole-3-acetic acid	87-51-4	-	.	-	.	.	-	-
+Indolidan	100643-96-7	.	2.01m	.	adr	adr	.	.
+Indomethacin	53-86-1	-	1.15	.	-	mgl	.	.
+Iodinated glycerol	5634-39-9	+	101	138	hmo thy	-	-	hag pit
+Iodoacetamide	144-48-9	.	-	.	-	.	.	.
+Iodoform	75-47-8	+	-	-	-	-	-	-
+Ipazilide fumarate	115436-74-3	.	-	.	-	-	.	.
+IQ-s	76180-96-6	+	0.812m,v	19.6m	ezy lgi liv orc ski smi	cli ezy lgi liv mgl orc pre ski smi	liv lun sto	liv lun sto
+IQ.HCl	---	+	3.29	.	.	ezy liv mgl pan ubl vsc	.	.
+Irsogladine maleate	84504-69-8	.	-	.	-	.	.	.
+Isatidine	15503-86-3	.	0.716m	.	liv	liv	.	.
+Isobutene	115-11-7	-	3550	-	thy	-	-	-
+Isobutyl p-hydroxybenzoate	4243-02-02	.	.	-	.	.	-	-
+Isobutyl nitrite	542-56-3	+	54.1m	310m	lun	lun	lun	lun
+N-Isobutyl-N'-nitro-N-nitroso-guanidine	5461-85-8	+	-	.	-	.	.	.
+Isobutyraldehyde	78-84-2	-	-	-	-	-	-	-
+Isoflurane	26675-46-7	-	.	-	.	.	-	-
+Isomalt	64519-82-0	.	.	-	.	.	-	-
+Isomazole	86315-52-8	.	70.5m	.	adr	adr	.	.
+Isoniazid-s	54-85-3	+	150m	27.1m,v	liv lun	mgl	liv lun mgl(B)	liv lun mgl(B)
+Isonicotinamide	1453-82-3	.	.	-	.	.	-	-
+Isonicotinic acid-s	55-22-1	.	.	-	.	.	-	-
+Isonicotinic acid vanillyli-dene-hydrazide	149-17-7	.	.	27.4	.	.	lun(B) mgl(B)	lun(B) mgl(B)
+Isophorone	78-59-1	-	1210	-	kid pre	-	-	-
+Isophosphamide	3778-73-2	+	0.739i	5.06i	-	ute	-	hmo
+Isoprene	78-79-5	-	313m	274m	kid mgl tes	mgl	hag hmo liv lun sto vsc	hag pit vsc
+Isopropanol	67-63-0	-	-	-	-	-	-	-
+p-Isopropoxydiphenylamine	101-73-5	-	.	-	.	.	-	-
+Isopropyl-N-(3-chloro-phenyl)car-bamate-s	101-21-3	.	-	-	-	-	-	-
+1-Isopropyl-3-methyl-S-pyra-zo-lyl-dimethyl carbamate	119-38-0	.	.	-	.	.	-	-
+Isopropyl-N-phenyl carbamate-s	122-42-9	.	.	-	.	.	-	-
+Isosafrole	120-58-1	-	.	-	.	.	-	-
+Ivermectin	70288-86-7	.	-	.	-	.	.	.
+Josamycin	16846-24-5	.	-	.	-	-	.	.
+Kaempferol	520-18-3	+	-	.	-	-	.	.
+Kanechlor 400	12737-87-0	.	-	.	.	-	.	.
+Kepone	143-50-0	-	2.96	0.982m	-	liv	liv	liv
+Ketoprofen	22071-15-4	.	-	.	-	.	.	.
+Kojic acid	501-30-4	+	.	658m	.	.	thy	thy
+Lasiocarpine	303-34-4	+	0.389m	.	liv ski smi vsc	hmo liv vsc	.	.
+Lead acetate	301-04-2	-	46.6m	-	kid	-	-	-
+Lead acetate, basic-s	1335-32-6	.	181m	472m	kid	kid	kid	kid
+Lead dimethyldithiocarbamate	19010-66-3	+	-	-	-	-	-	-
+Leupeptin	24365-47-7	.	.	55.8	.	.	liv	-
+Levobunolol.HCl	27912-14-7	.	-	-	-	-	-	-
+d-Limonene	5989-27-5	-	204	-	kid	-	-	-
+Lithocholic acid	434-13-9	-	-	-	-	-	-	-
+Locust bean gum	9000-40-2	-	-	-	-	-	-	-
+Lofexidine.HCl	21498-08-8	.	-	.	-	-	.	.
+Lonidamine	50264-69-2	.	-	.	-	-	.	.
+Lornoxicam	70374-39-9	.	-	.	-	-	.	.
+Lovastatin	75330-75-5	.	-	515m	-	-	liv	liv lun sto
+Loxtidine	76956-02-0	.	479m	.	sto	sto	.	.
+Lupitidine.3HCl	72716-75-7	.	3360m	-	sto	sto	-	-
+Luteoskyrin	21884-44-6	-	.	18.6m	.	.	liv	liv
+Lutestral	8065-91-6	.	.	-	.	.	-	L
+Magnesium chloride hexa-hydrate	7791-18-6	.	.	-	.	.	-	-
+Malaoxon	1634-78-2	-	-	-	-	-	-	-
+Malathion	121-75-5	-	-	-	-	-	-	-
+Maleic hydrazide	123-33-1	-	-	-	-	-	-	-
+Malonaldehyde, sodium salt	24382-04-5	-	122m	14.1	pan thy	thy	-	liv
+Manganese ethylenebisthio-car-bamate	12427-38-2	.	157	-	tba(B)	tba(B)	-	-
+Manganese (II) sulfate mono-hydrate	10034-96-5	-	-	-	-	-	-	-
+Manidipine.2HCl	89226-75-5	.	-	-	-	-	-	-
+d-Mannitol	69-65-8	-	-	-	-	-	-	-
+Mannitol nitrogen mustard	576-68-1	.	-	.	-	.	.	.
+MeA-a-C acetate	117831-29-5	+	6.7	22.2m	liv orc pan sub ubl	.	liv vsc	liv vsc
+MeIQ	77094-11-2	+	.	15.5m	.	.	sto	lgi liv sto
+MeIQx	77500-04-0	+	1.66m	24.3m	ezy liv ski	cli ezy liv	hmo liv	liv lun
+Melamine	108-78-1	-	735	-	ubl	-	-	-
+Meloxicam	71125-38-7	.	-	.	-	-	.	.
+Melphalan-s	148-82-3	+	0.0938i,m	0.15i,m	per	per	hmo lun	lun
+dl-Menthol	15356-70-4	-	-	-	-	-	-	-
+MER-25	67-98-1	.	-	.	.	-	.	.
+2-Mercaptobenzothiazole	149-30-4	-	344m	-	adr hmo pan pre	adr pit	-	-
+2-Mercaptobenzothiazole, zinc	155-04-4	.	.	-	.	.	-	-
+2-Mercaptoethanesulfonate, sodium	19767-45-4	.	-	.	-	.	.	.
+6-Mercaptopurine	50-44-2	+	-	.	-	-	.	.
+Mercuric chloride	7487-94-7	-	3.12	-	sto	-	-	-
+Mercurous chloride	7546-30-7	.	.	-	.	.	-	.
+Mercurymethyl chloride	115-09-3	-	-	1.45m	-	-	kid	-
+Mestranol	72-33-3	-	.	-	.	.	-	-
+Metepa	57-39-6	.	4.46	.	hmo	.	.	.
+Methacrylonitrile	126-98-7	-	-	-	-	-	-	-
+Methafurylene	531-06-6	.	-	.	-	-	.	.
+Methaphenilene	493-78-7	.	-	.	-	-	.	.
+Methapyrilene.HCl-s	135-23-9	-	9.13m	.	liv	liv	.	.
+Methidathion	950-37-8	.	.	6.04	.	.	liv	-
+Methimazole	60-56-0	-	1.14m	.	thy	thy	.	.
+dl-Methionine	59-51-8	-	-	-	-	.	-	.
+Methotrexate-s	59-05-2	-	-	-	-	-	-	-
+2-Methoxy-4-aminoazobenzene	80830-39-3	.	.	-	.	.	-	-
+3-Methoxy-4-aminoazobenzene	3544-23-8	+	.	60.2	.	.	-	liv
+2-Methoxy-3-aminodibenzofuran	5834-17-3	.	29m,P	.	ezy kid ubl	ezy mgl ubl	.	.
+3-Methoxycatechol	934-00-9	.	48.7	.	sto	.	.	.
+Methoxychlor	72-43-5	-	-	-	-	-	-	-
+4-Methoxyphenol	150-76-5	-	658m	.	sto	sto	.	.
+Methoxyphenylacetic acid	1701-77-5	.	.	-	.	.	-	-
+8-Methoxypsoralen	298-81-7	+	32.4	-	ezy kid	-	-	-
+Z-Methyl-O,N,N-azoxyethane	57497-34-4	.	11.5	.	kid liv	.	.	.
+Methyl bromide	74-83-9	+	-	-	-	-	-	-
+Methyl tert-butyl ether	1634-04-4	-	702m	6550	kid tes	hmo	-	liv
+Methyl carbamate	598-55-0	-	56.6m,v	-	liv	liv	-	-
+Methyl carbazate	6294-89-9	.	-	.	-	-	.	.
+2-Methyl-4-chlorophenoxyacetic acid	94-74-6	.	-	-	-	-	-	-
+Methyl clofenapate	21340-68-1	.	4.78m,P	2.51m,v	liv pan tes	liv	liv	liv
+1-Methyl-1,4-dihydro-7-[2-(5-nitrofuryl)vinyl]-4-oxo-1,8-naphthyridine-3-carboxylate, potassium	29676-95-7	.	.	8.03	.	.	hmo(B) lun(B) sto(B)	hmo(B) lun(B) sto(B)
+3'-Methyl-4-dimethylaminoazo-benzene-s	55-80-1	+	3.28m	.	liv	.	.	.
+N-Methyl-N,4-dinitrosoaniline	99-80-9	.	1.3i,n	.	per	.	.	.
+N-Methyl-N-formylhydrazine-s	758-17-8	.	.	1.37m,v	.	.	gal liv lun vsc	gal liv lun vsc
+Methyl hesperidin	11013-97-1	.	.	-	.	.	-	-
+Methyl linoleate hydroperoxide	27323-65-5	.	-	.	-	.	.	.
+Methyl linoleate, native	112-63-0	.	-	.	-	.	.	.
+Methyl methacrylate-s	80-62-6	-	-	-	-	-	-	-
+Methyl methanesulfonate	66-27-3	+	.	31.8	.	.	hmo lun	.
+N-Methyl-N'-nitro-N-nitrosoguanidine-s	70-25-7	+	0.803m,v	2.03	eso smi sto	smi sto	.	smi
+2-Methyl-1-nitroanthraquinone	129-15-7	+	84.8m	1.56m	liv	liv	vsc	vsc
+4-Methyl-1-[(5-nitrofurfurylidene)amino]-2-imidazolidinone	21638-36-8	+	5.34	.	.	mgl	.	.
+4-(4-N-Methyl-N-nitrosamino-styryl)quinoline	16699-10-8	.	0.699m	.	liv	liv	.	.
+N-Methyl-N-nitrosobenzamide	63412-06-6	+	3.23m	.	sto	tba	.	.
+N-(N-Methyl-N-nitrosocarba-moyl)-l-ornithine	63642-17-1	.	0.787i,m	.	ezy kid pan ski	kid mgl pan ski	.	.
+R(-)-2-Methyl-N-nitrosopi-peri-dine	14026-03-0	.	20.4	.	nrv(B)	nrv(B)	.	.
+S(+)-2-Methyl-N-nitrosopiperi-dine	36702-44-0	.	13.2	.	nrv(B)	nrv(B)	.	.
+Methyl 12-oxo-trans-10-octa-dece-noate	21308-79-2	.	.	.	.	.	B-	B-
+Methyl parathion	298-00-0	+	-	-	-	-	-	-
+N-Methyl-2-pyrrolidone	872-50-4	-	-	2050m	-	-	liv	liv
+(N-6)-Methyladenine	443-72-1	.	.	-	.	.	-	-
+(N-6)-Methyladenosine	1867-73-8	.	.	-	.	.	-	-
+a-Methylbenzyl alcohol	98-85-1	-	458	-	kid	-	-	-
+3-Methylbutanal methylformyl-hydrazone	57590-21-3	.	.	2.23m	.	.	gal liv lun pre	gal liv lun
+4-Methylcatechol	452-86-8	-	248m,P	.	sto	sto	.	.
+3-Methylcholanthrene-s	56-49-5	+	0.491m,P	.	-	mgl	.	.
+a-Methyldopa sesquihydrate	41372-08-1	-	-	-	-	-	-	-
+N-Methyldopamine,O,O'-diisobutyroyl ester.HCl	75011-65-3	.	-	.	-	-	.	.
+4,4'-Methylene-bis(2-chloro-aniline)-s	101-14-4	+	19.3m	.	ezy liv lun mgl vsc	liv lun mgl	.	.
+4,4'-Methylene-bis(2-chloro-aniline).2HCl	64049-29-2	+	-	66.6	-	.	-	liv
+4,4'-Methylene-bis(2-methyl-aniline)	838-88-0	+	7.38m	.	liv mgl sub	liv	.	.
+Methylene chloride	75-09-2	+	724m	1100m	mgl	mgl	liv lun	liv lun
+4,4'-Methylenebis(N,N-dimethyl) benzenamine	101-61-1	+	16.4m	207	thy	thy	-	liv
+2,2'-Methylenebis(4-methyl-6-tert-butylphenol)	119-47-1	.	-	.	-	-	.	.
+4,4'-Methylenedianiline.2HCl	13552-44-8	+	20m	32.4m	liv thy	thy	adr liv thy	hmo liv thy
+Methylethylketoxime	96-29-7	.	74.5	534	liv	-	liv	-
+Methyleugenol	93-15-2	-	19.7m	19.3m	kid liv mgl per sto sub	liv sto	liv sto	liv
+Methylguanidine	471-29-4	.	-	.	-	.	.	.
+7-Methylguanine	578-76-7	.	-	.	B-	B-	.	.
+Methylhydrazine-s	60-34-4	+	.	7.55m	.	.	liv	liv lun
+Methylhydrazine sulfate	302-15-8	.	.	2.72m	.	.	lun	lun
+Methylhydroquinone	95-71-6	.	-	.	-	.	.	.
+2-Methylimidazole	693-98-1	-	868m	782m	thy	thy	liv thy	liv
+1-Methylnaphthalene	90-12-0	-	.	-	.	.	-	-
+2-Methylnaphthalene	91-57-6	.	.	-	.	.	-	-
+Methylnitramine	598-57-2	.	17.4m	.	nrv	nrv	.	.
+4-(Methylnitrosamino)-1-(3-pyri-dyl)-1-butanol	76014-81-8	.	0.103	.	lun pan	.	.	.
+4-(Methylnitrosamino)-1-(3-pyri-dyl)-1-(butanone)-s	64091-91-4	.	0.0999m	.	liv lun pan	.	.	.
+(N-6)-(Methylnitroso)adenine	---	.	.	18	.	.	lun	-
+(N-6)-(Methylnitroso)adenosine	21928-82-5	.	.	18.3m	.	.	lun	lun mgl ute
+Methylnitrosocyanamide	33868-17-6	+	0.48	.	.	sto	.	.
+N-Methylolacrylamide	924-42-5	-	-	26.6m	-	-	hag liv lun	hag liv lun ova
+Methylphenidate.HCl	298-59-9	-	-	100m	-	-	liv	liv
+6-Methylquinoline	91-62-3	+	-	.	-	-	.	.
+8-Methylquinoline	611-32-5	+	-	.	-	-	.	.
+p-Methylstyrene	622-97-9	.	.	-	.	.	-	-
+Methylthiouracil-s	56-04-2	-	.	.	.	.	B-	B-
+Metiapine	5800-19-1	.	-	.	-	-	.	.
+Metiram, technical grade (with 2% added ethylenethiourea)	9006-42-2	.	-	-	-	-	-	-
+Metronidazole	443-48-1	+	542m	506m	pit tes	liv mgl	lun	hmo lun
+Mexacarbate	315-18-4	.	-	-	-	-	-	-
+Michler's ketone	90-94-8	+	5.64m	84.1m	liv	liv	vsc	liv
+Mirex	2385-85-5	-	1.77m	1.45m	adr kid liv	hmo liv	liv	liv
+Mirex, photo-	39801-14-4	.	1.46	.	thy	.	.	.
+Misoprostol	59122-46-2	.	-	-	-	-	-	-
+Mitomycin-C	50-07-7	+	0.00102i,m	.	per	per	.	.
+Molybdenum trioxide	1313-27-5	-	-	6.13m,v	-	-	lun	lun
+Monoacetyl hydrazine	1068-57-1	.	.	9.85m	.	.	lun	lun
+Monochloroacetic acid	79-11-8	-	-	-	-	-	-	-
+Monocrotaline	315-22-0	-	0.94m	.	liv	.	.	.
+Monomethylarsonic acid	124-58-3	.	-	-	-	-	-	-
+Mononitrosocaffeidine	145438-96-6	.	1	.	nas(B)	nas(B)	.	.
+Monosodium aspartate	3792-50-5	.	-	.	-	-	.	.
+dl-Monosodium glutamate	32221-81-1	.	.	-	.	.	-	.
+l-Monosodium glutamate	142-47-2	-	-	-	-	-	-	.
+Monosodium succinate	2922-54-5	.	-	.	-	-	.	.
+4-Morpholino-2-(5-nitro-2-thi-enyl)quinazoline	58139-48-3	+	5.03	.	.	tba	.	.
+l-5-Morpholinomethyl-3-[(5-nitro-furfurylidene)amino]-2-oxazo-li-dinone.HCl	3031-51-4	.	6.33	.	.	hmo kid mgl	.	.
+Myleran	55-98-1	+	-	.	-	.	.	.
+Nafenopin-s	3771-19-5	-	11m,v	.	liv pan	liv	.	.
+Nalidixic acid	389-08-2	-	201m	-	pre	cli	-	-
+Naphthalene	91-20-3	-	22.1m	163	nas	nas	-	lun
+1-Naphthalene acetamide	86-86-2	+	.	-	.	.	-	-
+1-Naphthalene acetic acid	86-87-3	-	.	-	.	.	-	-
+1,5-Naphthalenediamine	2243-62-1	+	69.6	162m	-	cli ute	thy	liv lun thy
+N-(1-Naphthyl)ethylene-di-amine.2HCl	1465-25-4	+	-	-	-	-	-	-
+sym.-dib-Naphthyl-p-phenylene-di-amine	93-46-9	+	.	-	.	.	-	-
+1-(1-Naphthyl)-2-thiourea	86-88-4	+	.	-	.	.	-	-
+1-Naphthylamine	134-32-7	+	.	67.3	.	.	liv	.
+2-Naphthylamine-s	91-59-8	+	61.6	39.4m	B-	ubl	liv	liv
+2-Naphthylamino,1-sulfonic acid	81-16-3	.	.	-	.	.	-	-
+Nefiracetam	77191-36-7	.	-	-	-	-	-	-
+Neosugar	88385-81-3	.	-	.	-	-	.	.
+Nickel	7440-02-0	.	-	.	-	-	.	.
+Nickel (II) acetate	373-02-4	.	.	-	.	.	-	-
+Nickel dibutyldithiocarbamate	13927-77-0	.	.	-	.	.	-	-
+Nickel (II) sulfate hexahydrate	10101-97-0	-	-	-	-	-	-	-
+Nicotinamide	98-92-0	.	.	-	.	.	-	-
+Nicotine	54-11-5	-	-	.	-	-	.	.
+Nicotine.HCl	2820-51-1	-	.	-	.	.	-	-
+Nicotinic acid	59-67-6	-	.	-	.	.	-	-
+Nicotinic acid hydrazide	553-53-7	.	.	228m	.	.	lun	lun
+Nigrosine	8001-03-05	.	-	.	-	-	.	.
+Niobate, sodium	12034-09-2	.	.	.	.	.	B-	B-
+Nithiazide	139-94-6	+	131	758	-	mgl	liv	-
+Nitrate, sodium	7631-99-4	.	-	.	-	-	.	.
+Nitric oxide	10102-43-9	.	.	-	.	.	.	-
+Nitrilotriacetic acid	139-13-9	-	1770m	2660m	kid	kid ubl	kid	kid
+Nitrilotriacetic acid, trisodium salt, monohydrate	18662-53-8	-	370m	-	kid	kid ubl	-	-
+Nitrite, sodium-s	7632-00-0	+	167m	-	hmo(B) liv	hmo(B) liv	-	-
+3-Nitro-p-acetophenetide	1777-84-0	+	-	2270	-	-	liv	-
+5-Nitro-o-anisidine	99-59-2	+	53.9m	3720	ezy ski	cli ski	-	liv
+5-Nitro-2-furaldehyde semicarbazone	59-87-0	+	6.98m,P	30.8	-	mgl	-	ova
+5-Nitro-2-furamidoxime	772-43-0	+	-	.	.	-	.	.
+5-Nitro-2-furanmethanediol di-acetate	92-55-7	+	-	.	.	-	.	.
+3-(5-Nitro-2-furyl)-imidazo(1,2-a)py-ridine	75198-31-1	.	13.6m	27m	eso kid sto	eso kid mgl sto	eso sto	eso sto
+5-(5-Nitro-2-furyl)-1,3,4-oxa-di-azole-2-ol	2122-86-3	.	8.61	.	.	tba	.	.
+N-{[3-(5-Nitro-2-furyl)-1,2,4-oxa-di-a-zole-5-yl]-methyl}ace-ta-mide	36133-88-7	+	59.6n	.	.	kid lun	.	.
+N-[5-(5-Nitro-2-furyl)-1,3,4-thia-di-azol-2-yl]acetamide	2578-75-8	+	8.84	6.74	.	hmo kid lun smi sto vsc	.	sto
+4-(5-Nitro-2-furyl)thiazole	53757-28-1	+	7.68	.	.	mgl sto	.	.
+N-[4-(5-Nitro-2-furyl)-2-thia-zo-lyl]acetamide-s	531-82-8	+	17.8m	.	.	mgl	.	.
+N-[4-(5-Nitro-2-furyl)-2-thiazo-lyl]formamide-s	24554-26-5	+	4.25m,P,v	19.7m,v	ubl	ubl	ubl	hmo lun sto ubl
+N,N'-[6-(5-Nitro-2-furyl)-S-tria-zine-2,4-diyl]bisacetamide	51325-35-0	+	14.1	.	.	mgl	.	.
+3-Nitro-3-hexene	4812-22-0	.	8.66	0.346	lun(B)	lun(B)	lun(B)	lun(B)
+3-Nitro-4-hydroxyphenylarsonic acid	121-19-7	-	-	-	-	-	-	-
+2-Nitro-p-phenylenediamine	5307-14-2	+	-	614	-	-	-	liv
+4-Nitro-o-phenylenediamine	99-56-9	+	-	-	-	-	-	-
+5-Nitro-o-toluidine	99-55-8	+	-	277m	-	-	liv vsc	liv vsc
+5-Nitroacenaphthene-s	602-87-9	+	8.67m	45.8	ezy lun	cli ezy lun mgl	-	liv ova
+p-Nitroaniline	100-01-6	+	-	-	-	-	-	-
+o-Nitroanisole	91-23-6	+	15.6m,v	178m	hmo kid lgi ubl	hmo kid lgi ubl	liv	liv
+4-Nitroanthranilic acid	619-17-0	+	-	-	-	-	-	-
+Nitrobenzene	98-95-3	-	25.5m	296m	kid liv thy	liv ute	lun thy	liv mgl
+6-Nitrobenzimidazole	94-52-0	+	-	372m	-	-	liv	liv
+p-Nitrobenzoic acid	62-23-7	+	287	-	-	cli	-	-
+1-Nitrobutane	627-05-4	-	-	.	-	.	.	.
+2-Nitrobutane	600-24-8	.	2.86	.	liv	.	.	.
+Nitroethane	79-24-3	-	-	.	-	-	.	.
+Nitrofen	1836-75-5	+	420	115m	-	pan	liv vsc	liv
+2-Nitrofluorene	607-57-8	+	0.285	.	kid liv sto	.	.	.
+1-[(5-Nitrofurfuryli-dene)ami-no] hy-dantoin	67-20-9	+	163	1400	kid	-	-	ova
+1-[(5-Nitrofurfurylidene)amino]-2-imidazolidinone	555-84-0	.	5.26	.	.	hmo mgl	.	.
+Nitrogen dioxide	10102-44-0	.	-	.	-	.	.	.
+Nitrogen mustard	51-75-2	+	0.0114i	.	tba	.	.	.
+Nitrogen mustard N-oxide	126-85-2	.	0.764i	.	tba	.	.	.
+Nitromethane	75-52-5	-	40.4	469m	-	mgl	hag lun	hag liv lun
+1-Nitronaphthalene	86-57-7	+	-	-	-	-	-	-
+3-Nitropentane	551-88-2	.	2.37	.	liv	.	.	.
+1-Nitropropane	108-03-2	-	-	.	-	-	.	.
+2-Nitropropane	79-46-9	+	-	.	-	-	.	.
+3-Nitropropionic acid	504-88-1	+	-	-	-	-	-	-
+1-Nitropyrene	5522-43-0	.	3.33	.	.	cli hmo mgl	.	.
+6-Nitroquinoline	613-50-3	+	-	.	-	-	.	.
+8-Nitroquinoline	607-35-2	+	9.82m	.	sto	sto	.	.
+Nitroso-Baygon	38777-13-8	+	0.364	.	sto	.	.	.
+N-Nitroso-bis-(4,4,4-trifluoro-N-butyl)amine	83335-32-4	.	0.748m	.	liv lun	liv lun	.	.
+1-Nitroso-5,6-dihydrothymine	62641-67-2	+	-	.	-	-	.	.
+1-Nitroso-5,6-dihydrouracil	16813-36-8	+	0.0983m	.	liv	liv	.	.
+N-Nitroso-2,3-dihydroxypropyl-2-hydroxypropylamine-s	89911-79-5	.	0.0535	.	.	eso orc sto	.	.
+Nitroso-2,3-dihydroxypropyl-2-oxo-propylamine-s	92177-50-9	.	0.0352	.	.	eso orc sto	.	.
+N-Nitroso-2,3-dihydroxypropyl-ethanol-amine-s	89911-78-4	.	5.98	.	.	liv	.	.
+1-Nitroso-3,5-dimethyl-4-ben-zoyl-piperazine	61034-40-0	-	9.66	.	.	sto	.	.
+1-Nitroso-1-hydroxyethyl-3-chloroethylurea	96806-34-7	.	0.356m	.	kid liv	kid liv	.	.
+N-Nitroso-2-hydroxymorpholine	67587-52-4	.	-	.	.	-	.	.
+1-Nitroso-1-(2-hydroxypropyl)-3-chloroethylurea	96806-35-8	.	0.873m	.	liv	liv	.	.
+N-Nitroso-(2-hydroxypropyl)-(2-hydroxyethyl)amine	75896-33-2	.	1.02	.	.	eso liv vsc	.	.
+N-Nitroso-3-hydroxypyrrolidine	56222-35-6	+	7.65	.	tba(B)	tba(B)	.	.
+N-Nitroso-N-isobutylurea	760-60-1	.	4.73	.	.	smi	.	.
+N-Nitroso-N-methyl-N-dodecyl-amine	55090-44-3	+	0.537m,P	.	liv lun sto ubl	ubl	.	.
+N-Nitroso-N-methyl-4-fluoro-aniline	937-25-7	.	0.255	.	eso	.	.	.
+N-Nitroso-N-methyl-4-nitro-aniline	943-41-9	.	-	.	-	.	.	.
+Nitroso-N-methyl-N-(2-phenyl) ethylamine	13256-11-6	+	0.00998m	.	eso orc sto	.	.	.
+N-Nitroso-N-methyl-N-tetradecyl-amine	75881-20-8	.	1.65P	.	lun ubl	.	.	.
+N-Nitroso-N-methyldecylamine	75881-22-0	.	1.26	.	liv lun nas sto ubl	.	.	.
+N-Nitroso-N-methylurea-s	684-93-5	+	0.0927	1.23	lun nrv sto	.	sto vsc	.
+3-Nitroso-2-oxazolidinone	38347-74-9	.	0.385m,P	.	liv smi	.	.	.
+Nitroso-2-oxopropyl-ethanol-amine-s	92177-49-6	.	1.8	.	.	liv	.	.
+di(N-Nitroso)-perhydropyrimidine	15973-99-6	.	0.166i	.	nas	.	.	.
+Nitroso-1,2,3,6-tetrahydropyridine	55556-92-8	+	0.0601m,P	.	.	eso liv sto vsc	.	.
+N-Nitroso(2,2,2-trifluoroethyl)ethylamine	82018-90-4	.	2.52	.	eso nas	.	.	.
+N-Nitroso-2,2,4-trimethyl-1,2-dihydroquinoline polymer	29929-77-9	.	3.31i	.	per	.	.	.
+1-Nitroso-3,4,5-trimethyl-pi-per-a-zine-s	75881-18-4	.	0.151	.	.	nas	.	.
+N-Nitrosoallyl-2,3-dihydroxy-pro-pylamine	88208-16-6	.	0.825	.	.	eso nas	.	.
+N-Nitrosoallyl-2-hydroxypro-pyl-amine	91308-70-2	.	0.877	.	.	eso liv nas	.	.
+N-Nitrosoallyl-2-oxopro-pyl-amine-s	91308-71-3	.	0.335	.	.	eso liv	.	.
+N-Nitrosoallylethanolamine	91308-69-9	.	0.491	.	.	liv nas	.	.
+Nitrosoamylurethan	64005-62-5	.	1.01	.	.	eso orc	.	.
+Nitrosoanabasine	1133-64-8	.	11.9m	.	eso	eso	.	.
+N-Nitrosobenzthiazuron	51542-33-7	.	1.13	.	sto(B)	sto(B)	.	.
+N-Nitrosobis(2-hydroxypro-pyl) amine	53609-64-6	.	0.846m	.	lun pro	eso nas	.	.
+N-Nitrosobis(2-oxopropyl)amine	60599-38-4	.	0.491m	.	lgi liv lun nas pro thy ubl	liv lun vsc	.	.
+N-Nitrosobis(2,2,2-trifluoro-ethyl)amine	625-89-8	.	-	.	-	-	.	.
+Nitrosochlordiazepoxide	51715-17-4	.	.	-	.	.	-	-
+N-Nitrosocimetidine	73785-40-7	.	-	-	-	-	.	-
+Nitrosodibutylamine	924-16-3	+	0.691	1.09	liv lun sto ubl	.	eso liv lun sto	.
+N-Nitrosodiethanolamine	1116-54-7	+	3.17m,v	.	eso hmo kid liv nas nrv vsc	eso kid liv nas	.	.
+N-Nitrosodiethylamine-s	55-18-5	+	0.0265m,v	.	eso kid liv vsc	eso liv orc sto	.	.
+N-Nitrosodimethylamine-s	62-75-9	+	0.0959m,v	0.189m	kid liv lun tes vsc	liv vsc	liv nrv	lun nrv
+N-Nitrosodiphenylamine	86-30-6	-	167m	-	ubl	ubl	-	-
+p-Nitrosodiphenylamine	156-10-5	+	201	340	liv	-	liv	-
+N-Nitrosodipropylamine-s	621-64-7	+	0.186	.	.	eso liv nas	.	.
+N-Nitrosodithiazine	114282-83-6	.	-	.	.	-	.	.
+Nitrosododecamethyleneimine	40580-89-0	+	10.9m	.	liv	liv	.	.
+N-Nitrosoephedrine	17608-59-2	.	95.2	.	liv lun sto	.	.	.
+Nitrosoethylmethylamine	10595-95-6	+	0.0503	.	liv lun nas	-	.	.
+Nitrosoethylurethan	614-95-9	+	0.0904m	.	.	eso orc smi sto	.	.
+N-Nitrosoguvacoline	55557-02-3	+	-	.	-	.	.	.
+Nitrosoheptamethyleneimine	20917-49-1	+	0.0378m	.	eso liv orc	.	.	.
+N-Nitrosohexamethyleneimine	932-83-2	+	.	0.528m	.	.	eso liv orc sto	eso liv lun nas orc sto
+1-Nitrosohydantoin	42579-28-2	+	43.8m	.	orc	tba	.	.
+Nitrosohydroxyproline	30310-80-6	.	-	.	-	-	.	.
+Nitrosoiminodiacetic acid	25081-31-6	.	-	.	-	-	.	.
+Nitrosomethyl-3-carboxypro-pylamine	61445-55-4	-	0.982	.	ubl	.	.	.
+N-Nitrosomethyl-2,3-dihydroxy-propylamine-s	86451-37-8	.	0.646	.	.	eso liv lun nas	.	.
+N-Nitrosomethyl-(2-hydroxy-ethyl)amine	26921-68-6	.	1.29	.	liv nas	.	.	.
+N-Nitrosomethyl-(3-hydroxy-pro-pyl)amine	70415-59-7	.	1.66m	.	liv lun	liv lun	.	.
+N-Nitrosomethyl-2-hydroxy-pro-pylamine	75411-83-5	.	0.0463m	.	eso nas	eso nas	.	.
+N-Nitrosomethyl(2-oxopro-pyl) amine	55984-51-5	.	0.0172m	.	eso liv nas orc	eso liv nas orc	.	.
+N-Nitrosomethyl-(2-tosyloxy-ethyl)amine	---	.	4.8m	.	liv vsc	liv vsc	.	.
+2-Nitrosomethylaminopyridine	16219-98-0	+	0.214	.	.	eso	.	.
+3-Nitrosomethylaminopyridine	69658-91-9	-	-	.	.	-	.	.
+4-Nitrosomethylaminopyridine	16219-99-1	-	-	.	.	-	.	.
+Nitrosomethylaniline	614-00-6	.	0.142m,P,v	.	eso	eso	.	.
+Nitrosomethylphenidate	55557-03-4	.	.	-	.	.	-	-
+Nitrosomethylundecylamine	68107-26-6	.	2.37	.	liv lun	.	.	.
+N-Nitrosomorpholine-s	59-89-2	+	0.109m	.	.	liv vsc	.	.
+N'-Nitrosonornicotine-s	53759-22-1	.	0.0957	.	eso	.	.	.
+N'-Nitrosonornicotine-1-N-oxide-s	78246-24-9	.	0.876m	.	eso nas	eso nas	.	.
+Nitrosopipecolic acid	4515-18-8	.	-	.	-	-	.	.
+N-Nitrosopiperazine	5632-47-3	+	8.78m,n	.	tba	tba	.	.
+N-Nitrosopiperidine-s	100-75-4	+	1.43m	1.3	eso(B) liv(B) nas(B)	eso(B) liv(B) nas(B)	liv lun sto	.
+Nitrosoproline	7519-36-0	.	-	.	-	-	.	.
+N-Nitrosopyrrolidine-s	930-55-2	+	0.799m,P	0.679	kid liv	liv vsc	tba	.
+N-Nitrosothialdine	81795-07-5	.	0.483	.	.	eso liv orc	.	.
+N-Nitrosothiomorpholine	26541-51-5	+	5.39m	.	eso	eso orc	.	.
+o-Nitrosotoluene	611-23-4	.	50.7	.	liv spl sub ubl	.	.	.
+o-Nitrotoluene	88-72-2	-	4.66m,v	128m	liv lun mgl per ski sub	liv mgl sub	lgi vsc	lgi liv vsc
+p-Nitrotoluene	99-99-0	-	257	-	-	cli	-	-
+Nitrous oxide	10024-97-2	.	.	-	.	.	-	-
+Nivalenol	23282-20-4	.	.	-	.	.	.	-
+Nonabromobiphenyl	27753-52-2	.	.	3.61m	.	.	liv	liv
+Norethynodrel	68-23-5	-	.	-	.	.	-	-
+Norharman	244-63-3	+	-	.	-	.	.	.
+Norlestrin-s	8011-11-30	.	1.94	1.34n	liv(B) mgl(B) pit(B) ute(B)	liv(B) mgl(B) pit(B) ute(B)	.	pit
+Novadelox (18% benzoyl per-oxide, 78% calcium sulphate, 4% magnesium carbonate)	94-36-0	-	-	.	B-	B-	B-	B-
+Ochratoxin A	303-47-9	-	0.136m	6.41m	kid ubl	kid mgl	kid	liv
+Octachlorostyrene	29082-74-4	.	-	-	-	-	-	.
+Oil, corn	8001-30-7	-	6940	.	pan-'	.	.	.
+Oil, safflower	8001-23-8	-	4850	.	pan-'	.	.	.
+Oleate, sodium	143-19-1	.	-	.	-	-	.	.
+Olestra	121854-29-3	.	-	-	-	-	-	-
+Oltipraz	64224-21-1	.	-	.	-	-	.	.
+Omeprazole	73590-58-6	.	119m,v	-	sto	sto	-	-
+C.I. acid orange 3	6373-74-6	+	1710	-	-	kid	-	-
+C.I. acid orange 10	1936-15-8	-	-	-	-	-	-	-
+Orotic acid, monosodium salt	154-85-8	.	-	.	-	.	.	.
+g-Oryzanol	11042-64-1	.	-	-	-	-	-	-
+Osutidine	140695-21-2	.	-	.	-	-	.	.
+Ovulen	8056-92-6	.	.	-	.	.	-	L
+Oxamyl	23135-22-0	.	-	-	-	-	-	-
+Oxazepam	604-75-1	-	-	35.8m	-	-	liv	liv thy
+N-(9-Oxo-2-fluorenyl)acetamide	3096-50-2	.	6.17	.	.	ezy liv mgl	.	.
+Oxolinic acid	14698-29-4	.	167	-	tes	-	-	-
+1-(2-Oxopropyl)nitroso-3-(2-chloroethyl)urea-s	110559-85-8	.	-	.	-	-	.	.
+2-Oxopropylnitrosourea-s	89837-93-4	.	-	.	-	-	.	.
+1'-Oxosafrole	30418-53-2	-	-	.	-	.	.	.
+Oxprenolol.HCl	6452-73-9	.	-	-	-	-	-	-
+4,4'-Oxydianiline	101-80-4	+	9.51m	33.6m	liv thy	liv thy	hag liv	hag liv thy
+N-Oxydiethylene thiocarbamyl-N-oxydiethylene sulfenamide	13752-51-7	.	90.8m	.	kid ubl	kid ubl	.	.
+N-Oxydiethylenebenzothiazole-2-sulfenamide	102-77-2	.	.	-	.	.	-	-
+Oxymetholone	434-07-1	-	66.9	.	-	liv lun ski	.	.
+Oxytetracycline.HCl	2058-46-0	-	-	-	-	-	-	-
+Ozone	10028-15-6	+	-	1.88m	-	-	-	lun
+Palonidipine.HCl	96515-74-1	.	-	.	-	-	.	.
+Parathion	56-38-2	-	-	-	-	-	-	-
+Patulin	149-29-1	-	-	.	.	-	.	.
+Penicillin VK	132-98-9	-	-	-	-	-	-	-
+Pentachloroanisole	1825-21-4	+	24.8	68	adr	-	adr vsc	-
+Pentachloroethane	76-01-7	-	-	57.3m	-	-	liv	liv
+Pentachloronitrobenzene	82-68-8	-	-	71.1	-	-	liv	-
+2,3,4,5,6-Pentachlorophenol	87-86-5	-	59	-	nas per	-	.	-
+2,3,4,5,6-Pentachlorophenol (Dowicide EC-7)	87-86-5	-	-	24m	-	-	adr liv	adr liv vsc
+2,3,4,5,6-Pentachlorophenol, technical grade	87-86-5	-	13.1	23m	-	liv	adr liv	liv vsc
+Pentaerythritol tetranitrate with 80% d-lactose monohydrate	78-11-5	-	-	-	-	-	-	-
+Pentanal methylformyl-hydra-zone	57590-20-2	.	.	3.42m	.	.	liv lun pre	liv lun
+N-Pentyl-N'-nitro-N-nitroso-guani-dine	13010-10-1	+	-	.	-	.	.	.
+n-Pentylhydrazine.HCl	1119-68-2	.	.	5.87	.	.	-	lun vsc
+Peppermint oil	8006-90-4	.	.	-	.	.	-	.
+Perhexiline maleate	6724-53-4	.	-	.	-	-	.	.
+Petasitenine	60102-37-6	.	0.922m	.	liv vsc	liv vsc	.	.
+Phenacetin	62-44-2	+	1250m	2140m,v	kid nas sto ubl	ezy mgl nas ubl	kid	ubl
+Phenazone	60-80-0	-	1230	.	kid ubl	.	.	.
+Phenazopyridine.HCl	136-40-3	-	303m	71.1	lgi	lgi	-	liv
+Phenesterin	3542-10-08	-	0.523	0.616m	-	mgl	hmo lun myc	hmo lun myc
+Phenethyl isothiocyanate-s	2253-09-01	.	-	.	-	.	.	.
+Phenformin.HCl	834-28-6	-	-	-	-	-	-	-
+Phenobarbital-s	50-06-6	+	-	7.37m,P,v	-	-	liv	liv
+Phenobarbital, sodium	57-30-7	-	86m	29.7m,P,v	liv	liv	liv	liv
+Phenol	108-95-2	-	-	-	-	-	-	-
+Phenolphthalein	77-09-8	-	902m	1170m	adr kid	adr	hmo	hmo ova
+Phenothiazine	92-84-2	-	.	-	.	.	-	-
+Phenoxybenzamine.HCl	63-92-3	+	1.09i,m	5.36i,m	per	per	per	per
+1-Phenyl-3,3-dimethyltriazene	7227-91-0	+	2.31	.	nrv(B)	nrv(B)	.	.
+Phenyl isothiocyanate	103-72-0	.	.	-	.	.	-	-
+1-Phenyl-3-methyl-5-pyrazolone	89-25-8	-	-	-	-	-	-	-
+Phenyl-b-naphthylamine-s	135-88-6	-	-	-	-	-	-	-
+N-Phenyl-p-phenylene-dia-mine.HCl	2198-59-6	-	-	-	-	-	-	-
+2-Phenyl-1,3-propanediol dicar-bamate	25451-15-4	.	1090m	7420m	tes	liv	liv	liv
+(E)-7-Phenyl-7-(3-pyridyl)-6-hep-tenoic acid	89667-40-3	.	-	-	-	-	-	-
+1-Phenyl-2-thiourea	103-85-5	-	-	-	-	-	-	-
+1-Phenylazo-2-naphthol	842-07-9	+	29.4m	-	liv	liv	-	-
+Phenylbutazone	50-33-9	-	1160	353	-	kid	liv	-
+m-Phenylenediamine	108-45-2	+	.	-	.	.	-	-
+p-Phenylenediamine	106-50-3	+	-	.	-	-	.	.
+m-Phenylenediamine.2HCl	541-69-5	+	-	-	-	.	-	-
+o-Phenylenediamine.2HCl	615-28-1	+	248	735m	liv	.	liv	liv
+p-Phenylenediamine.2HCl	624-18-0	+	-	-	-	-	-	-
+Phenylephrine.HCl	61-76-7	-	-	-	-	-	-	-
+Phenylethyl-3-methylcaffeate	71835-85-3	.	-	.	-	.	.	.
+Phenylethylhydrazine sulfate	156-51-4	+	.	14.6	.	.	-	lun vsc
+Phenylglycidyl ether	122-60-1	+	44m	.	nas	nas	.	.
+6-Phenylhexyl isothiocyanate	133920-06-6	.	-	.	-	.	.	.
+Phenylhydrazine	100-63-0	+	.	-	.	.	.	-
+Phenylhydrazine.HCl	59-88-1	+	.	71.3m	.	.	vsc	vsc
+b-Phenylisopropylhydrazine.HCl	66-05-7	.	.	-	.	.	-	-
+Phenylmercuric acetate	62-38-4	-	.	-	.	.	-	-
+o-Phenylphenol	90-43-7	+	232	-	ubl	.	-	-
+p-Phenylphenol	92-69-3	.	.	-	.	.	-	-
+o-Phenylphenol, sodium	132-27-4	-	672m,v	-	kid ubl	ubl	-	-
+3-Phenylpropyl isothiocynate	2627-27-2	.	-	.	-	.	.	.
+PhIP.HCl	---	+	1.78m	33.2m	hmo lgi pro smi	lgi mgl	hmo	hmo
+Phorbol	17673-25-5	.	.	2.21i	.	.	-	hmo
+Phosphamidon	13171-21-6	+	I	-	I	I	-	-
+Phosphine	7803-51-2	.	-	.	-	-	.	.
+Phthalamide	88-96-0	-	-	-	-	-	-	-
+Phthalic anhydride	85-44-9	-	-	-	-	-	-	-
+Picloram, technical grade	1914-01-31	-	-	-	-	-	-	-
+Pildralazine.2HCl	56393-22-7	.	.	-	.	.	-	-
+Pilocarpine	92-13-7	.	-	.	-	-	.	.
+Pimaricin	7681-93-8	.	-	.	-	-	.	.
+Piperazine	110-85-0	-	-	.	-	-	.	.
+Piperidine	110-89-4	.	-	.	-	-	.	.
+Piperonyl butoxide	51-03-6	-	633m	291m	liv	liv	liv	liv
+Piperonyl butoxide in solvent	51-03-6	-	.	-	.	.	-	-
+Piperonyl sulfoxide	120-62-7	-	-	62.2	-	-	liv	-
+Pirmenol.HCl	61477-94-9	.	-	-	-	-	-	-
+Piroxicam	36322-90-4	.	-	.	-	.	.	.
+Pivalolactone	1955-45-9	+	211m	-	sto	sto	-	-
+Policosanol	142583-61-7	.	-	-	-	-	-	-
+Polybrominated biphenyl mixture	67774-32-7	.	0.322m	0.332m	liv	liv	liv	liv
+Polybrominated biphenyls	59536-65-1	.	-	.	.	-	.	.
+Polydextrose, acid form	68424-04-4	.	.	-	.	.	-	-
+Polyoxyethylene(10)nonylphenyl ether	26027-38-3	.	-	-	.	-	.	-
+Polysorbate 80	9005-65-6	-	-	-	-	-	-	-
+Polyvinylpyridine-N-oxide	9045-81-2	.	-	-	.	-	.	-
+Potassium bicarbonate	298-14-6	.	13000m	.	ubl	ubl	.	.
+Potassium chloride	7447-40-7	-	-	.	-	-	.	.
+Potassium iodide	7681-11-0	.	440m	.	orc	orc	.	.
+Practolol	6673-35-4	.	-	-	-	-	-	-
+Pranlukast hydrate	150821-03-7	.	-	.	-	-	.	.
+Prazepam	2955-38-6	.	-	-	-	-	-	-
+Praziquantel-s	55268-74-1	-	-	.	-	-	.	.
+Prednimustine	29069-24-7	.	19.2	.	.	ezy	.	.
+Prednisolone	50-24-8	-	1.53	.	liv	-	.	.
+Prednisone	53-03-2	+	.	-	.	.	-	-
+Premarin	12126-59-9	.	-	.	-	-	.	.
+Primidolol.HCl	40778-40-3	.	.	-	.	.	-	-
+Primidone	125-33-7	+	-	26.1m	-	-	liv thy	liv
+Probenecid	57-66-9	-	-	540	-	-	-	liv
+Procarbazine	671-16-9	-	4.01i	.	tba	.	.	.
+Procarbazine.HCl-s	366-70-1	-	0.351i,m	0.558i,m	hmo mgl nrv	hmo mgl nrv	hmo lun nrv	hmo lun nrv ute
+Proflavine.HCl hemihydrate	952-23-8	+	I	I	I	I	I	I
+Promethazine.HCl	58-33-3	-	-	-	-	-	-	-
+Pronethalol	54-80-8	-	.	-	.	.	-	-
+Pronethalol.HCl	51-02-5	-	.	-	.	.	-	-
+Propane sultone	1120-71-4	+	3.84m	.	hmo nrv smi	hmo mgl nrv smi	.	.
+Propazine	139-40-2	.	.	-	.	.	-	-
+b-Propiolactone	57-57-8	+	1.46m	1.24m	.	sto	sto	sto
+Propranolol.HCl	318-98-9	.	-	-	-	-	-	-
+Propyl N-ethyl-N-butylthio-car-ba-mate, commercial grade (78%)	1114-71-2	.	.	-	.	.	-	-
+N-N'-Propyl-N-formylhydrazine	77337-54-3	.	.	8.79m	.	.	lun pre	gal liv lun
+Propyl gallate	121-79-9	-	-	-	-	-	-	-
+n-Propyl isome	83-59-0	.	.	-	.	.	-	-
+N-Propyl-N'-nitro-N-nitrosoguanidine	13010-07-6	+	1.31m	.	sto	.	.	.
+N-Propyl-N-nitrosourea	816-57-9	+	<3.77m,P	.	hmo	hmo	.	.
+Propylene	115-07-1	+	-	-	-	-	-	-
+Propylene glycol	57-55-6	-	-	.	-	-	.	.
+Propylene glycol mono-t-butyl ether	57018-52-7	+	-	1870m	-	-	liv	liv
+1,2-Propylene oxide	75-56-9	+	74.4m,v	912m	adr nas	mgl nas sto	nas	nas
+Propylhydrazine.HCl	56795-66-5	.	.	45.5m	.	.	lun	lun
+Propylthiouracil	51-52-5	-	13.7m	409	thy	thy	pit(B)	pit(B)
+Proquazone	22760-18-5	.	.	-	.	.	-	-
+Proresid	1508-45-8	.	-	.	-	.	.	.
+Protocatechuic acid-s	99-50-3	.	-	.	-	.	.	.
+SX purple	2611-82-7	.	24500	.	tba(B)	tba(B)	.	.
+Purpurin	81-54-9	.	678	.	ubl	.	.	.
+Pyrazinamide	98-96-4	-	-	-	-	-	-	I
+Pyridine	110-86-1	-	67.3	24.4m	kid	-	liv	liv
+Pyrilamine maleate	59-33-6	.	280m	-	liv	liv	-	-
+Pyrimethamine	58-14-0	-	-	-	-	-	I	-
+Quercetin	117-39-5	+	10.1m,v	-	kid smi ubl	smi ubl	-	-
+Quercetin dihydrate-s	6151-25-3	.	-	.	-	-	.	.
+Quillaia extract	68990-67-0	.	-	-	-	-	-	-
+Quinapril.HCl	82586-55-8	.	-	-	-	-	-	-
+p-Quinone dioxime	105-11-3	+	106	-	-	ubl	-	-
+Ramosetron.HCl	132907-72-3	.	-	-	-	-	-	-
+C.I. acid red 114	6459-94-5	+	3.89m	.	ezy liv ski	cli ezy lgi liv lun orc ski smi	.	.
+C.I. food red 3	3567-69-9	+	-	-	-	-	-	-
+C.I. pigment red 3	2425-85-6	+	1170m	35500	adr	liv	kid thy	-
+C.I. pigment red 23	6471-49-4	+	-	-	-	-	-	-
+D & C red no. 5	3761-53-3	+	415m,P	716m	liv	liv	liv	liv
+D & C red no. 9	5156-01-31	+	146	-	liv spl	-	-	-
+D & C red no. 10	1248-18-6	-	-	.	-	-	.	.
+FD & C red no. 1	3560-09-07	-	521m,v	.	liv	liv	.	.
+FD & C red no. 2	915-67-3	-	1470m	.	hmo(B)	hmo(B)	.	.
+FD & C red no. 3	16423-68-0	-	-	-	-	-	-	-
+FD & C red no. 4-s	4548-53-2	-	8110m	.	hmo(B)	hmo(B)	B-	B-
+Food red no. 106	3520-42-1	.	-	.	-	-	.	.
+HC red no. 3	2867-01-03	+	-	-	-	-	-	I
+Reserpine	50-55-5	-	0.306	5.02m	adr	-	tes	mgl
+Resorcinol	108-46-3	-	-	-	-	-	-	-
+Retinoic acid	302-79-4	.	-	-	-	-	-	-
+Retinol acetate	127-47-9	.	125m	.	adr	adr	.	.
+Retinol palmitate	79-81-2	-	-	-	-	.	-	.
+Retrorsine	480-54-6	+	0.862	.	liv	.	.	.
+Rhodamine 6G	989-38-8	-	-	-	-	-	-	-
+Riddelliine	23246-96-0	+	0.119m	1.97m	hmo liv vsc	hmo liv vsc	vsc	lun
+Rifampicin	13292-46-1	.	-	33.6	-	-	-	liv
+Ripazepam	26308-28-1	.	-	114m	-	-	liv	liv
+Rosaniline.HCl-s	632-99-5	+	-	.	-	-	.	.
+p-Rosaniline.HCl-s	569-61-9	+	39.4m	51.5m	ezy liv ski sub thy	ezy sub thy	liv	adr liv
+Rotenone	83-79-4	-	-	-	-	-	-	-
+Rutin sulfate	12768-44-4	.	-	.	-	-	.	.
+Rutin trihydrate-s	153-18-4	+	-	.	-	-	.	.
+Saccharin	81-07-2	-	-	-	-	.	-	-
+Saccharin, calcium	6485-34-3	.	-	.	-	.	.	.
+Saccharin, sodium-s	128-44-9	-	2140m,v	-	ubl	-	-	-
+Safrole	94-59-7	-	441m	51.3m,P,v	liv	liv(B)	liv	liv
+Salbutamol	18559-94-9	.	40m	.	.	meo	.	.
+Salicylazosulfapyridine	599-79-1	-	1590m	1250m	ubl	kid ubl	liv	liv
+Sarcophytol A	72629-69-7	.	.	-	.	.	-	.
+Scopolamine hydrobromide tri-hydrate	6533-68-2	-	-	-	-	-	-	-
+SDZ 200-110	122784-89-8	.	230m	.	tes	.	.	.
+Selenium	7782-49-2	.	.	-	.	.	.	L
+Selenium diethyldithio-carba-mate	5456-28-0	.	.	1.49	.	.	liv	-
+Selenium dimethyldithiocarba-mate	144-34-3	.	.	-	.	.	-	-
+Selenium dioxide	7442-08-03	.	.	-	.	.	.	L
+Selenium sulfide	7446-34-6	+	8.01m	69.3	liv	liv	-	liv lun
+Senkirkine	2318-18-5	.	1.7i	.	liv	.	.	.
+Sertraline.HCl	79559-97-0	.	-	-	.	-	-	-
+Sesamol	533-31-3	.	1350m	4490m	sto	sto	sto	sto
+Simazine	122-34-9	-	.	-	.	.	-	-
+Sodium bicarbonate	144-55-8	.	-	-	-	.	-	.
+Sodium bithionolate	6385-58-6	.	.	-	.	.	-	-
+Sodium chloride	7647-14-5	-	-	-	-	.	-	-
+Sodium chlorite	7758-19-2	.	-	-	-	-	-	-
+Sodium copper chlorophyllin	28302-36-5	.	-	.	-	-	.	.
+Sodium diethyldithiocarbamate trihydrate	148-18-5	-	-	-	-	-	-	-
+Sodium hypochlorite	7681-52-9	-	-	-	-	-	-	-
+Sodium metaphosphate	10361-03-2	.	-	.	-	-	.	.
+Sorbic acid	110-44-1	-	-	-	-	-	-	-
+Sotalol.HCl	959-24-0	.	-	-	-	-	-	-
+Soybean lecithin	8002-43-5	.	-	.	-	-	.	.
+Sterigmatocystin-s	10048-13-2	+	0.152m,v	0.908m	liv vsc	liv(B)	.	vsc
+Stevioside	57817-89-7	.	-	.	-	-	.	.
+Stoddard solvent IIC	64742-88-7	-	219	-	adr	-	-	-
+Streptozotocin	18883-66-4	+	0.963i,m	0.272i,m	kid	kid	kid lun	kid lun
+Strobane	8001-50-1	.	.	0.884m	.	.	hmo liv	-
+Styrene	100-42-5	+	23.3	210m	-	mgl	lun	lun
+Styrene and b-nitrostyrene mixture	mixture	.	-	-	-	-	-	-
+Styrene oxide	96-09-3	+	55.4m	118m	sto	sto	sto	sto
+Succinic anhydride	108-30-5	-	-	-	-	-	-	-
+Sucralose	56038-13-2	.	.	-	.	.	-	-
+Sucrose	57-50-1	-	.	-	.	.	-	-
+Sucrose acetate isobutyrate	126-13-6	.	-	-	-	-	-	-
+Sulfallate	95-06-7	+	26.1m	42.2m	sto	mgl	lun	mgl
+Sulfamethazine	57-68-1	-	.	1510m	.	.	thy	thy
+Sulfate, sodium	7757-82-6	.	.	-	.	.	.	-
+Sulfisoxazole	127-69-5	-	-	-	-	-	-	-
+Sulfite, potassium metabi-	4429-42-9	.	.	-	.	.	-	-
+3-Sulfolene	77-79-2	-	-	-	-	-	-	-
+4,4'-Sulfonylbisacetanilide	77-46-3	.	55.6n	.	.	mgl	.	.
+Sulindac sulfone	59973-80-7	.	-	.	-	.	.	.
+Suxibuzone	27470-51-5	.	-	.	-	-	.	.
+Symphytine	22571-95-5	.	1.91i	.	liv vsc	.	.	.
+T-2 toxin	21259-20-1	-	.	0.883	.	.	liv lun	-
+Tace	569-57-3	-	-	.	-	-	.	.
+Taltirelin tetrahydrate	---	.	-	-	-	-	-	-
+Tamoxifen citrate	54965-24-1	.	3.96m,P,v	4.39m	liv	liv	tes	ova
+Tannic acids, pharmaceutical grade (85.69% tannic acids, 8.84% gallic acids)	1401-55-4	+	-	.	-	-	.	.
+Tara gum	39300-88-4	-	-	-	-	-	-	-
+Taurine	107-35-7	-	-	.	-	-	.	.
+Tegafur	37076-68-9	.	-	-	-	-	-	-
+Telodrin	297-78-9	.	.	-	.	.	-	-
+Telone II, technical grade (with 1% epichlorohydrin)	542-75-6	+	94m	49.6	liv sto	sto	I	lun sto ubl
+Telone II, technical grade (without epichlorohydrin)	542-75-6	+	100	118	liv	-	lun	-
+Temazepam, pharmaceutical grade	846-50-4	.	.	-	.	.	-	-
+Terbutaline	23031-25-6	.	410	.	.	meo	.	.
+3,3',4,4'-Tetraaminobiphenyl.4HCl	7411-49-6	.	395	288	liv	.	lun	-
+2,3,5,6-Tetrachloro-4-nitro-ani-sole	2438-88-2	-	-	-	-	-	-	-
+2,2',5,5'-Tetrachlorobenzidine	15721-02-5	+	-	-	-	-	.	-
+2,3,7,8-Tetrachlorodibenzo-p-dioxin	1746-01-6	-	0.0000235m,v	0.000156m	orc thy	liv lun	liv	liv thy
+2,4,5,4'-Tetrachlorodiphenyl sulfone	116-29-0	.	.	-	.	.	-	-
+1,1,1,2-Tetrachloroethane	630-20-6	-	-	182m	-	-	liv	liv
+1,1,2,2-Tetrachloroethane	79-34-5	-	-	38.3m	-	-	liv	liv
+Tetrachloroethylene	127-18-4	-	145m	158m	hmo kid	hmo	hag liv	liv
+Tetrachlorvinphos	961-11-5	-	-	228	-	- u	liv	- u
+Tetracycline.HCl	64-75-5	-	-	-	-	-	-	-
+Tetraethylthiuram disulfide	97-77-8	-	-	-	-	-	-	-
+Tetrafluoro-m-phenylene-dia-mine.2HCl	63886-77-1	.	-	86.3	-	.	liv	-
+1,1,1,2-Tetrafluoroethane	811-97-2	.	29900	-	tes	-	-	-
+Tetrafluoroethylene	116-14-3	.	107m	71.9m	kid liv	hmo kid liv vsc	hmo liv vsc	hmo liv vsc
+Tetrahydro-2-nitroso-2H-1,2-oxa-zine	40548-68-3	.	24.3	.	tba(B)	tba(B)	.	.
+1-trans-D9-Tetrahydrocannabinol	1968-08-02	-	-	-	-	-	-	-
+Tetrahydrofuran	109-99-9	-	407	1300	kid	-	-	liv
+3,4,5,6-Tetrahydrouridine	18771-50-1	.	-	.	-	.	.	.
+Tetrakis(hydroxymethyl)phos-phonium chloride	124-64-1	-	-	-	-	-	-	-
+Tetrakis(hydroxymethyl)phos-phonium sulfate	55566-30-8	-	-	-	-	-	-	-
+Tetramethylthiuram disulfide	137-26-8	+	-	-	-	-	-	-
+Tetramethylthiuram monosulfide	97-74-5	.	.	-	.	.	-	-
+Tetranitromethane	509-14-8	+	0.447m	1.19m	lun	lun	lun	lun
+Thenyldiamine	91-79-2	.	-	.	-	-	.	.
+Theophylline	58-55-9	-	-	-	-	-	-	-
+Thiabendazole	148-79-8	+	-	-	-	-	-	-
+Thiamphenicol	15318-45-3	.	-	.	-	-	.	.
+Thio-tepa	52-24-4	+	0.164i,m	0.223i,m	ezy hmo ski	ezy	hmo pre ski	hmo
+Thioacetamide	62-55-5	-	11.5	8.81m,P	liv	.	liv	liv
+4,4'-Thiobis(6-tert-butyl-m-cresol)	96-69-5	-	-	-	-	-	-	-
+2,2'-Thiobis(4,6-dichlorophenol)	97-18-7	-	.	-	.	.	-	-
+Thiocyanate, sodium	540-72-7	.	-	.	-	-	.	.
+4,4'-Thiodianiline	139-65-1	+	3.71m	33.2m	ezy lgi liv thy	ezy thy ute	liv thy	liv thy
+b-Thioguanine deoxyriboside	789-61-7	.	2.1i	I	-	ezy	I	I
+Thiosemicarbazide	79-19-6	.	-	-	.	-	-	-
+Thiouracil	141-90-2	.	11.9m	55m	thy	thy	liv	liv
+Thiourea	62-56-6	-	98.5m	-	ski	-	.	-
+Tilidine fumarate	55567-81-2	.	-	-	-	-	-	-
+Tilisolol.HCl	62774-96-3	.	-	-	-	-	-	-
+Tin (II) chloride	7772-99-8	-	-	-	-	-	-	-
+Titanium dioxide	13463-67-7	-	-	-	-	-	-	-
+Titanium oxalate, potassium	14481-26-6	.	.	-	.	.	-	-
+Titanocene dichloride	1271-19-8	+	-	.	-	-	.	.
+dl-a-Tocopherol	10191-41-0	.	-	.	-	-	.	.
+dl-a-Tocopherol acetate	7695-91-2	-	-	.	-	-	.	.
+dl-Tocopherol mixture, natural (a, b, g and d)	1406-66-2	-	.	3610	.	.	liv	.
+Tolazamide	1156-19-0	-	-	-	-	-	-	-
+Tolbutamide	64-77-7	-	-	-	-	-	-	-
+Toluene	108-88-3	-	3060m	-	orcH	+H	-	-
+Toluene diisocyanate, commercial grade (2,4 (80%)- and 2,6 (20%)-)	26471-62-5	+	33.7m	250	pan sub	liv mgl pan sub	-	liv vsc
+o-Toluenesulfonamide	88-19-7	-	3960	.	ubl(B)	ubl(B)	.	.
+m-Toluidine.HCl	638-03-9	-	-	1440n	-	.	liv	-
+o-Toluidine.HCl	636-21-5	+	43.6m	840m	mgl per spl sub ubl vsc	bon mgl ubl vsc	vsc	liv vsc
+p-Toluidine.HCl	540-23-8	+	-	83.5m	-	.	liv	liv
+p-Tolylurea	622-51-5	-	-	206	-	-	hmo	-
+Toremifene citrate	89778-27-8	.	-	.	-	-	.	.
+Toxaphene	8001-35-2	+	-	9.09m	-	-	liv	liv
+Tragacanth gum	9000-65-1	.	.	-	.	.	-	-
+Trenimon	68-76-8	.	0.00504i	.	tba	.	.	.
+Triamcinolone acetonide	76-25-5	.	0.053	.	liv	.	.	.
+3,4,4'-Triaminodiphenyl ether	6264-66-0	.	.	13.3	.	.	liv	.
+Triamterene	396-01-0	-	-	60.2m	-	-	liv	liv
+Tribromomethane	75-25-2	+	648m	-	lgi	lgi	-	-
+Tributyl phosphate	126-73-8	-	191m	1120	ubl	ubl	liv	-
+Tricaprylin	538-23-8	+	5490	.	pan-'	.	.	.
+1,2,3-Trichloro-4,6-dinitrobenzene	6379-46-0	.	.	-	.	.	-	-
+1,1,2-Trichloro-1,2,2-trifluoro-ethane, technical grade	76-13-1	.	-	.	-	-	.	.
+Trichloroacetic acid	76-03-9	-	-	584m	-	.	liv	liv
+2,4,6-Trichloroaniline	634-93-5	-	-	259	-	.	liv vsc	-
+1,1,2-Trichloroethane	79-00-5	-	-	55m	-	-	adr liv	adr liv
+1,1,1-Trichloroethane, technical grade	71-55-6	+	-	-	-	-	-	-
+Trichloroethylene-s	79-01-6	-	668m	1580m,v	tes	-	liv lun	liv lun
+Trichloroethylene (without epi-chlorohydrin)	79-01-6	-	-	343m	-	-	liv	liv
+Trichlorofluoromethane	75-69-4	-	-	-	-	-	-	-
+N-(Trichloromethylthio)phthali-mide	133-07-3	+	-	1550m	-	-	smi sto	smi
+2,4,6-Trichlorophenol	88-06-2	-	405	1070m	hmo	-	liv	liv
+2-(2,4,5-Trichlorophenoxy)pro-pio-nic acid	93-72-1	.	.	-	.	.	-	-
+2,4,5-Trichlorophenoxyacetic acid	93-76-5	-	-	-	-	-	-	-
+Trichlorophone	52-68-6	+	-	.	B-	B-	.	.
+1,2,3-Trichloropropane	96-18-4	+	1.35m	0.875m	ezy kid orc pan pre sto	cli ezy mgl orc sto	hag liv sto	hag liv orc sto ute
+Tricresyl phosphate	1330-78-5	-	-	-	-	-	-	-
+Triethanolamine	102-71-6	-	-	100m	-	-	tba	tba
+Triethylene glycol	112-27-6	+	-	.	-	.	.	.
+2,2,2-Trifluoro-N-[4-(5-nitro-2-furyl)-2-thiazolyl]acetamide	42011-48-3	+	6.79	9.98	.	mgl	.	sto
+Trifluralin, technical grade	1582-09-8	+	-	330	-	-	-	liv lun sto
+Trimethadione	127-48-0	.	-	.	-	.	.	.
+(+,-)-7-(3,5,6-Trimethyl-1,4-benzo-quinon-2-yl)-7-phenylhepta-noic acid	112665-43-7	.	-	.	-	-	.	.
+2,4,5-Trimethylaniline	137-17-7	+	33.6m	6.13	liv	liv lun	-	liv
+2,4,5-Trimethylaniline.HCl	21436-97-5	+	98.5n	45.5m	liv sub	.	liv lun vsc	liv lun
+2,4,6-Trimethylaniline.HCl	6330-11-07	.	5.17	24.8m	liv lun sto	.	liv vsc	liv
+Trimethylarsine oxide	4964-14-1	.	24.1	.	liv	.	.	.
+1,2,4-Trimethylbenzene	95-63-6	.	4350	.	+H	-	.	.
+Trimethylphosphate	512-56-1	+	-	335	- u	-	-	ute
+Trimethylthiourea	2489-77-2	-	25.8	-	-	thy	-	-
+2,4,6-Trinitro-1,3-dimethyl-5-tert-butylbenzene	81-15-2	.	.	127m	.	.	hag liv	liv
+1,3,5-Trinitrobenzene	99-35-4	.	-	.	-	-	.	.
+Trinitroglycerin	55-63-0	.	183m	.	liv tes	liv	.	.
+Triphenyltin acetate	900-95-8	.	.	-	.	.	-	-
+Triphenyltin hydroxide	76-87-9	-	-	-	-	-	-	-
+Triprolidine.HCl monohydrate	6138-79-0	-	-	-	-	-	-	-
+Tris(2-chloroethyl)phosphate	115-96-8	-	86.7m	969m	kid	kid	kid liv	hmo sto
+Tris-1,2,3-(chloromethoxy)pro-pane	38571-73-2	.	.	3.44i	.	.	.	per
+Tris(2,3-dibromopropyl)phos-phate	126-72-7	+	3.83m	128m	kid lgi	kid	kid lun sto	liv lun sto
+Tris-(1,3-dichloro-2-propyl)phos-phate	13674-87-8	+	46.4m	.	kid liv tes	kid liv	.	.
+Tris(2-ethylhexyl)phosphate	78-42-2	-	-	2560	-	-	-	liv
+Tris(2-hydroxypropyl)amine	122-20-3	-	-	.	-	.	.	.
+N-Tritriacontane-16-18-dione	24514-86-1	.	-	.	.	-	.	.
+Trp-P-1 acetate	75104-43-7	+	0.575m	40.7m	liv	liv	liv	liv
+Trp-P-2 acetate	72254-58-1	+	6.66m	12.6m,v	liv mgl ubl	cli hmo liv mgl smi vsc	liv	liv
+dl-Tryptophan	54-12-6	.	-	.	-	.	.	.
+l-Tryptophan	73-22-3	-	-	-	-	-	-	-
+Tungstate, sodium	13472-45-2	.	-	.	-	-	.	.
+Turmeric (>98% curcurmin)	458-37-7	-	-	.	-	.	.	.
+Turmeric oleoresin (79%-85% curcumin)	8024-37-1	-	-	-	-	-	-	-
+Tylosin lactate	11034-63-2	.	.	-	.	.	-	-
+Uracil	66-22-8	-	671m,v	2750m,v	ubl	ubl	ubl	ubl
+Urapidil	34661-75-1	.	-	.	-	-	.	.
+Urea	57-13-6	-	-	-	-	-	-	-
+Urethane-s	51-79-6	+	41.3	16.9m,v	tba(B)	tba(B)	hmo liv lun vsc	lun
+Vanadyl sulfate	27774-13-6	.	-	-	-	.	-	-
+Vanguard GF	mixture	.	.	-	.	.	-	-
+Vinblastine	865-21-4	.	-	.	-	.	.	.
+Vinyl acetate	108-05-4	-	341m,v	3920	liv nas thy	liv nas thy ute	-	eso orc sto ute
+Vinyl bromide	593-60-2	+	18.5m	.	ezy liv vsc	ezy liv vsc	.	.
+Vinyl carbamate	15805-73-9	.	.	0.124i,m	.	.	liv vsc	liv vsc
+Vinyl chloride-s	75-01-4	+	6.11m,v	21.8m	ezy kid liv lun nas nrv ski tes vsc	ezy kid liv mgl nas nrv vsc	lun vsc	lun mgl vsc
+Vinyl fluoride	75-02-5	+	20m	8.11m	ezy vsc	ezy liv vsc	hag liv lun vsc	hag lun mgl vsc
+Vinyl toluene (65-71% m- and 32-35% p-)	25013-15-4	-	-	-	-	-	-	-
+4-Vinylcyclohexene	100-40-3	-	I	106	I	I	I	ova
+Vinylidene chloride	75-35-4	+	-	34.6m	-	-	kid lun	lun mgl vsc
+Vinylidene fluoride	75-38-7	+	-	.	-	-	.	.
+N-Vinylpyrrolidone-2	88-12-0	-	12m	.	liv nas orc	liv nas orc	.	.
+FD & C violet no. 1	1694-09-3	+	612m	-	-	mgl ski	-	-
+Voglibose	83480-29-9	.	-	-	-	-	-	-
+Watanidipine.2HCl	133743-71-2	.	-	-	-	-	-	-
+Wingstay 100	68953-84-4	.	-	.	-	-	.	.
+Xibenolol.HCl	15263-30-6	.	.	-	.	.	-	-
+Xylazine.HCl	23076-35-9	.	-	.	-	.	.	.
+Xylene mixture (50.31% m-xylene, 26.9% o-xylene, 22.24% p-xylene)	1330-20-7	-	3110m	.	orcH	orcH	.	.
+Xylene mixture (60% m-xylene, 9% o-xylene, 14% p-xylene, 17% ethylbenzene)	1330-20-7	-	-	-	-	-	-	-
+2,4-Xylidine.HCl	21436-96-4	+	-	12.4	-	.	-	lun
+2,5-Xylidine.HCl	51786-53-9	+	152	626m	sub	.	vsc	liv
+C.I. disperse yellow 3	2832-40-8	+	380	1020	liv	-	-	liv
+C.I. pigment yellow 12	6358-85-6	-	-	-	-	-	-	-
+C.I. pigment yellow 16	5979-28-2	.	-	.	B-	B-	B-	B-
+C.I. pigment yellow 83	5567-15-7	.	-	.	B-	B-	B-	B-
+C.I. vat yellow 4	128-66-5	-	-	10900	-	-	hmo	-
+FD & C yellow no. 5	1934-21-0	-	-	-	-	-	-	-
+FD & C yellow no. 6	2783-94-0	-	-	-	-	-	-	-
+Gardenia yellow	94238-00-3	.	.	-	.	.	-	-
+HC yellow 4	59820-43-8	+	-	-	-	-	-	-
+Zatosetron maleate	123482-23-5	.	-	.	-	-	.	.
+Zearalenone	17924-92-4	-	-	39m	-	-	pit	liv pit
+Zinc (II) acetate dihydrate	5970-45-6	.	-	.	-	.	.	.
+Zinc dibutyldithiocarbamate	136-23-2	.	.	-	.	.	-	-
+Zinc diethyldithiocarbamate	14324-55-1	.	.	-	.	.	-	-
+Zinc dimethyldithiocarbamate	137-30-4	+	40.7m	-	tba(B) thy	tba(B)	-	-
+Zinc ethylenebisthiocarbamate	12122-67-7	-	255	-	tba(B)	tba(B)	-	-
+Zirconium (IV) sulfate	14644-61-2	.	.	.	.	.	B-	B-

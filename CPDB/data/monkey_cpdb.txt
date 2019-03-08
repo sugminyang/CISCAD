@@ -1,0 +1,27 @@
+2-Acetylaminofluorene	53-96-3	+	-	.	-	.
+2,7-Acetylaminofluorene	304-28-9	+	-	-	-	-
+Adriamycin	23214-92-8	+	-	-	-	-
+Aflatoxin B1	1162-65-8	+	0.0082	0.0201	gal liv vsc	gal liv vsc
+Arsenate, sodium	7631-89-2	.	.	-	.	-
+Azathioprine	446-86-6	+	-	-	-	-
+Cycasin and methylazoxymethanol acetate	mixture	.	0.0657m,v	19.4	kid liv	liv
+Cyclamate, sodium	139-05-9	.	-	-	-	-
+Cyclophosphamide	50-18-0	+	-	-	-	-
+DDT	50-29-3	-	-	-	-	-
+N,N-Dimethyl-4-aminoazobenzene	1960-11-07	+	-	.	-	.
+IQ	76180-96-6	+	.	0.374	.	liv
+Melphalan	148-82-3	+	-	0.0701	-	tba
+3be-Methyl-4-dimethylaminoazobenzene	55-80-1	+	-	.	-	.
+N-Methyl-Nbe-nitro-N-nitrosoguanidine	70-25-7	+	-	.	-	.
+3-Methylcholanthrene	56-49-5	+	-	-	-	-
+2-Naphthylamine	91-59-8	+	5.74	.	ubl	.
+N-Nitroso-N-methylurea	684-93-5	+	7.18	4.52	eso	eso
+N-Nitrosodiethylamine	55-18-5	+	0.0536m,v	0.00725m,v	liv	liv
+N-Nitrosodimethylamine	62-75-9	+	-	.	-	.
+N-Nitrosodipropylamine	621-64-7	+	0.0121i	.	liv	.
+N-Nitrosopiperidine	100-75-4	+	2.76m	12.1	liv	liv
+Norlestrin	8015-12-01	.	-	.	-	.
+Procarbazine.HCl	366-70-1	-	4.21	14.8	hmo	hmo
+Saccharin, sodium	128-44-9	-	-	-	-	-
+Sterigmatocystin	10048-13-2	+	.	0.127	.	liv
+Urethane	51-79-6	+	65.2	52.8	liv smi vsc	lun pan vsc
