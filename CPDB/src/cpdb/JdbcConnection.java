@@ -11,6 +11,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.SQLIntegrityConstraintViolationException;
 import java.sql.Statement;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.util.UUID;
 
 import VO.Chemicals;
@@ -271,11 +274,11 @@ public class JdbcConnection {
 	/**********************************************preprocessing different sources***************************************************/
 	
 	
-	private static void curateLiterature(Connection connection) {
+	private static void curateLiterature(Connection conn) {
 			BufferedReader reader;
 			try {
 				reader = new BufferedReader(new FileReader("./data/literature_cpdb.txt"));
-				preprocessingData(reader,"literature-based");
+				preprocessingData(conn,reader,"literature-based");
 				reader.close();
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();
@@ -284,11 +287,11 @@ public class JdbcConnection {
 			}
 	}
 
-	private static void curateNCINTP(Connection connection) {
+	private static void curateNCINTP(Connection conn) {
 		
 		try {
 			BufferedReader	reader = new BufferedReader(new FileReader("./data/ncintp_cpdb.txt"));
-			preprocessingData(reader,"ncintp");
+			preprocessingData(conn,reader,"ncintp");
 			reader.close();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -299,7 +302,7 @@ public class JdbcConnection {
 	 * monkey data insertion.
 	 * 
 	 * */
-	private static void curateMonkey(Connection connection2) {
+	private static void curateMonkey(Connection conn) {
 		String line = null;
 		try {
 			BufferedReader	reader = new BufferedReader(new FileReader("./data/monkey_cpdb.txt"));
@@ -315,7 +318,7 @@ public class JdbcConnection {
 //				int chemicalID = (int)(Math.random()*100) + 10000;
 				
 				//insert chemical
-				int chemicalID = insertChemStatement(connection,chem);
+				int chemicalID = insertChemStatement(conn,chem);
 				System.out.println(chemicalID + "\t" + chem);
 				
 				
@@ -330,7 +333,7 @@ public class JdbcConnection {
 //					int modelID = (int)(Math.random()*100) +1;
 
 					//insert model
-					int modelID = insertModelsStatement(connection,model);
+					int modelID = insertModelsStatement(conn,model);
 					System.out.println(modelID + "\t" + model + "\t" + line.split("\t")[5]);
 					
 					experiment.setModelID(modelID);
@@ -338,9 +341,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment
-					int experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					int experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					Effect effect = new Effect(experiment_id, line.split("\t")[5]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 				}
 				
 				
@@ -354,7 +357,7 @@ public class JdbcConnection {
 //					int modelID = (int)(Math.random()*100) +501;
 					
 					//insert model
-					int modelID = insertModelsStatement(connection,model);
+					int modelID = insertModelsStatement(conn,model);
 					System.out.println(modelID + "\t" + model + "\t" + line.split("\t")[6]);
 					
 					experiment.setModelID(modelID);
@@ -362,9 +365,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment					
-					int experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					int experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					Effect effect = new Effect(experiment_id, line.split("\t")[6]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 				}
 				System.out.println("==========================================================================");				
 			}
@@ -379,7 +382,7 @@ public class JdbcConnection {
 	 * hamster data insertion.
 	 * 
 	 * */
-	private static void curateHamster(Connection connection) {
+	private static void curateHamster(Connection conn) {
 		String line = null;
 		try {
 			BufferedReader	reader = new BufferedReader(new FileReader("./data/hamster_cpdb.txt"));
@@ -395,7 +398,7 @@ public class JdbcConnection {
 //				int chemicalID = (int)(Math.random()*100) + 10000;
 				
 				//insert chemical
-				int chemicalID = insertChemStatement(connection,chem);
+				int chemicalID = insertChemStatement(conn,chem);
 				System.out.println(chemicalID + "\t" + chem);
 				
 				
@@ -411,7 +414,7 @@ public class JdbcConnection {
 //					int modelID = (int)(Math.random()*100) +1;
 
 					//insert model
-					int modelID = insertModelsStatement(connection,model_male);
+					int modelID = insertModelsStatement(conn,model_male);
 					System.out.println(modelID + "\t" + model_male + "\t" + line.split("\t")[4]);
 					
 					experiment.setModelID(modelID);
@@ -419,9 +422,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment
-					int experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					int experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					Effect effect = new Effect(experiment_id, line.split("\t")[4]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 					
 					//female
 					model_female.setSpecies("hamster");
@@ -429,7 +432,7 @@ public class JdbcConnection {
 //					modelID = (int)(Math.random()*100) +100;
 					
 					//insert model
-					modelID = insertModelsStatement(connection,model_female);
+					modelID = insertModelsStatement(conn,model_female);
 					System.out.println(modelID + "\t" + model_female + "\t" + line.split("\t")[5]);
 					
 					experiment.setModelID(modelID);
@@ -437,9 +440,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 
 					//insert experiment					
-					experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					effect = new Effect(experiment_id, line.split("\t")[5]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 				}
 			}
 			
@@ -614,7 +617,7 @@ public class JdbcConnection {
 		return exp;
 	}
 	
-	private static void preprocessingData(BufferedReader reader, String source) {
+	private static void preprocessingData(Connection conn, BufferedReader reader, String source) {
 		String line = null;
 		String previousChemcode = "";
 		try {
@@ -638,8 +641,10 @@ public class JdbcConnection {
 				String strain = line.split("\t")[3];
 				String gender = transformGender(line.split("\t")[4]);	//m,f : ncictp , m,f,b : literature.
 				String route = line.split("\t")[5];
-				String tissue = line.split("\t")[6];
-				String tumor = line.split("\t")[7];
+//				String tissue = line.split("\t")[6];
+//				String tumor = line.split("\t")[7];
+				Map<String,String> mTumorTissue = filterTissueAndTumor(line.split("\t")[6],line.split("\t")[7]);
+				
 				int exposuretime = Integer.parseInt(line.split("\t")[8]);
 				int totalexptime = Integer.parseInt(line.split("\t")[9]);
 				String td50 = line.split("\t")[10];
@@ -648,16 +653,15 @@ public class JdbcConnection {
 				String cpdb_id = line.split("\t")[13];
 
 				//insert chemical
-				int chemicalID = insertChemStatement(connection,chem);
+				int chemicalID = insertChemStatement(conn,chem);
 				System.out.println(chemicalID + "\t" + chem);
 
 				Models model = new Models(species,gender,".",strain);
 				Experiments experiment = new Experiments();
 
-				if(!td50.equalsIgnoreCase(".") || !td50.equalsIgnoreCase("-"))	//has value.
 				{
 					//insert model
-					int modelID = insertModelsStatement(connection,model);
+					int modelID = insertModelsStatement(conn,model);
 					System.out.println(modelID + "\t" + model);
 
 					experiment.setReference(reference);
@@ -675,9 +679,14 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 
 					//insert experiment
-					int experiment_id = insertExperimentsStatementExtended(connection,experiment,chemicalID,modelID);
-					Effect effect = new Effect(experiment_id, tissue, tumor);
-					insertEffectStatement(connection,effect);
+					int experiment_id = insertExperimentsStatementExtended(conn,experiment,chemicalID,modelID);
+					
+					for(String tumor : mTumorTissue.keySet())	{
+						Effect effect = new Effect(experiment_id, mTumorTissue.get(tumor), tumor);
+						insertEffectStatement(conn,effect);
+					}
+//					Effect effect = new Effect(experiment_id, tissue, tumor);
+//					insertEffectStatement(conn,effect);
 				}
 
 				System.out.println("==========================================================================");
@@ -689,6 +698,26 @@ public class JdbcConnection {
 			e.printStackTrace();
 		}			
 	}
+
+	private static Map<String,String> filterTissueAndTumor(String tissue, String tumor) {
+//		System.out.println("[tissue: ]" + tissue + "\t[tumor: ]" + tumor);
+		Map<String,String> map = new HashMap<>();
+		if(tissue.length() == tumor.length())	{
+			
+			for(int i = 0; i < tissue.length(); i = i+3)	{
+				String subTissue = tissue.substring(i,i+3);
+				String subTumor = tumor.substring(i,i+3);
+
+				if(!map.containsKey(subTissue))	{
+					map.put(subTumor,subTissue);
+				}
+			}
+		}
+		
+//		System.out.println(map);
+		return map;
+	}
+	
 
 	/**
 	 * literature based file has abbreviation of reference.
@@ -954,15 +983,17 @@ public class JdbcConnection {
 		dropTables(connection);
 		createTables(connection);
 
+		long st = System.currentTimeMillis();
 		//summary version of data.
 		curateRatandMouse(connection);
 		curateHamster(connection);
 		curateMonkey(connection);
-//		
-//		//extended version of data.
-//		curateNCINTP(connection);
-//		curateLiterature(connection);
 		
+		//extended version of data.
+		curateNCINTP(connection);
+		curateLiterature(connection);
+		
+		System.out.println((System.currentTimeMillis() - st)/1000.);
 		closeConnection();
 	}
 
