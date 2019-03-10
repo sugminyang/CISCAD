@@ -5,7 +5,7 @@ public class Experiments {
 	int modelID;
 	String td50;
 	String additional_information;
-	String route;
+	String route = ".";
 	int totalexptime;
 	int exposuretime;
 	double lc;

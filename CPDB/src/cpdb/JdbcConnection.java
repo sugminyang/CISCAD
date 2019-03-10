@@ -890,19 +890,22 @@ public class JdbcConnection {
 				+ "`species` varchar(45) NOT NULL, "
 				+ "`gender` varchar(45) DEFAULT NULL, "
 				+ "`mutagencity` varchar(45) DEFAULT NULL, "
-				+ " `strain` varchar(45) DEFAULT NULL, "
-				+ "PRIMARY KEY (`ID`) "
+				+ " `strain` varchar(10) DEFAULT NULL, "
+				+ "PRIMARY KEY (`ID`) , "
+				+ "KEY `strain_idx` (`strain`), "
+				+ "CONSTRAINT `strain` FOREIGN KEY (`strain`) REFERENCES `cpdb_strain` (`strain_abb`) ON DELETE CASCADE ON UPDATE CASCADE "
 				+ ") ENGINE=InnoDB AUTO_INCREMENT=100000 DEFAULT CHARSET=utf8;";
 		createTable(conn,sql);
 		
 //		createExperimentsTable(conn);
+		
 		sql = "CREATE TABLE `experiment` ( "
 				+ "`id` int(11) NOT NULL AUTO_INCREMENT, "
 				  + "`chemicalID` int(11) NOT NULL, "
 				  + "`modelID` int(11) NOT NULL, "
 				  + "`TD50` varchar(50) NOT NULL, "
 				  + "`additional_information` varchar(45) DEFAULT NULL, "
-				  + "`route` varchar(45) DEFAULT NULL, "
+				  + "`route` varchar(10) DEFAULT NULL, "
 				  + "`totalexptime` int(11) DEFAULT NULL, "
 				  + "`exposuretime` int(11) DEFAULT NULL, "
 				  + "`lc` double DEFAULT NULL, "
@@ -914,8 +917,10 @@ public class JdbcConnection {
 				  + "UNIQUE KEY `id_UNIQUE` (`id`), "
 				  + "KEY `chemicalID_idx` (`chemicalID`), "
 				  + "KEY `modelID_idx` (`modelID`), "
-				  + "CONSTRAINT `chemicalID` FOREIGN KEY (`chemicalID`) REFERENCES `chemicals` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION, "
-				  + "CONSTRAINT `modelID` FOREIGN KEY (`modelID`) REFERENCES `models` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION "
+				  + "KEY `route` (`route`), "
+				  + "CONSTRAINT `chemicalID` FOREIGN KEY (`chemicalID`) REFERENCES `chemicals` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, "
+				  + "CONSTRAINT `route` FOREIGN KEY (`route`) REFERENCES `cpdb_route` (`route_abb`) ON DELETE CASCADE ON UPDATE CASCADE, "
+				  + "CONSTRAINT `modelID` FOREIGN KEY (`modelID`) REFERENCES `models` (`ID`) ON DELETE CASCADE ON UPDATE CASCADE "
 				+ ") ENGINE=InnoDB AUTO_INCREMENT=200000 DEFAULT CHARSET=utf8;";
 		createTable(conn,sql);
 		
@@ -927,7 +932,9 @@ public class JdbcConnection {
 				  + "`tumor` varchar(150) NOT NULL, "
 				  + "PRIMARY KEY (`id`), "
 				  + "KEY `experimentID_idx` (`experimentID`), "
-				  + "CONSTRAINT `experimentID` FOREIGN KEY (`experimentID`) REFERENCES `experiment` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION "
+				  + "CONSTRAINT `experimentID` FOREIGN KEY (`experimentID`) REFERENCES `experiment` (`id`) ON DELETE CASCADE ON UPDATE CASCADE, "
+				  + "CONSTRAINT `tissue` FOREIGN KEY (`tissue`) REFERENCES `cpdb_tissue` (`tissue_abb`) ON DELETE CASCADE ON UPDATE CASCADE, "
+				  + "CONSTRAINT `tumor` FOREIGN KEY (`tumor`) REFERENCES `cpdb_tumor` (`tumor_abb`) ON DELETE CASCADE ON UPDATE CASCADE "
 				+ ") ENGINE=InnoDB AUTO_INCREMENT=300000 DEFAULT CHARSET=utf8; ";
 		createTable(conn,sql);
 	}
@@ -975,10 +982,48 @@ public class JdbcConnection {
 		}		
 	}
 
+	private static void suppleTableInsert(Connection conn) {
+		String sql = "CREATE TABLE `cpdb_route` ( "
+				+"`route_abb` varchar(10) NOT NULL, "
+				  + "`route_name` varchar(150) NOT NULL, "
+				  + "PRIMARY KEY (`route_abb`), "
+				  + "UNIQUE KEY `route_abb_UNIQUE` (`route_abb`) "
+				+ ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+				
+		createTable(conn,sql);
+		
+		sql = "CREATE TABLE `cpdb_strain` ( "
+				  + "`strain_abb` varchar(10) NOT NULL, "
+				  + "`strain_name` varchar(150) NOT NULL, "
+				  + "PRIMARY KEY (`strain_abb`), "
+				  + "UNIQUE KEY `strain_abb_UNIQUE` (`strain_abb`) "
+				+ ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+		createTable(conn,sql);
+		
+		sql = "CREATE TABLE `cpdb_tissue` ( "
+				  + "`tissue_abb` varchar(10) NOT NULL, "
+				  + "`tissue_name` varchar(150) NOT NULL, "
+				  + "PRIMARY KEY (`tissue_abb`), "
+				  + "UNIQUE KEY `tissue_abb_UNIQUE` (`tissue_abb`) "
+				+ ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+
+		createTable(conn,sql);
+		
+		sql = "CREATE TABLE `cpdb_tumor` ( "
+				  + "`tumor_abb` varchar(10) NOT NULL, "
+				  + "`tumor_name` varchar(150) NOT NULL, "
+				  + "PRIMARY KEY (`tumor_abb`), "
+				  + "UNIQUE KEY `tumor_abb_UNIQUE` (`tumor_abb`) "
+				 + ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+
+		createTable(conn,sql);
+	}
+	
 	/****************************************************main*********************************************/
 	public static void main(String[] args) {
 		Connection connection = initiateDBconnection();
 		
+//		suppleTableInsert(connection);
 		//drop tables & create tables
 		dropTables(connection);
 		createTables(connection);
@@ -996,6 +1041,5 @@ public class JdbcConnection {
 		System.out.println((System.currentTimeMillis() - st)/1000.);
 		closeConnection();
 	}
-
 
 }

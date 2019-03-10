@@ -1,0 +1,205 @@
+tissue,tisname
+---,all sites
+MXA,"more than one site, combined by NCI/NTP"
+MXB,"more than one site, combined by Berkeley for the CPDB"
+TBA,"all tumor bearing animals, NCI/NTP"
+abc,abdominal cavity
+abd,abdomen
+adr,adrenal gland
+adu,acoustic duct
+amd,adrenal medulla
+aol,aorta and large arteries
+arp,adrenal capsule
+asc,"colon, ascending"
+auc,external auditory canal
+aur,auricular region
+b/l,"lung, bronchiole"
+bil,bile duct
+blv,blood vessels
+bmd,"brain, medulla"
+bod,body cavities
+bom,bone marrow
+bon,bone
+bra,brain
+bre,breast
+brf,"brown fat, dorsal"
+brm,"brain, meninges"
+brs,brain stem
+ccx,cerebral cortex
+cec,cecum
+chp,cheek pouch
+clb,"cerebellum, cerebrum"
+cli,clitoral gland
+clm,"cerebellum, meninges"
+clr,colorectum
+cns,central nervous system
+col,colon
+crb,cerebrum
+crl,cerebellum
+cst,"stomach, cardiac"
+cvu,cervix uteri
+cvx,cervix
+cyx,coccyx
+der,dermis
+dgt,digestive tract
+dsc,"colon, descending"
+duo,duodenum
+eac,ear canal
+ear,ear
+edu,ear duct
+ehp,extrahepatic tissue
+eld,eyelid
+epg,epiglottis
+epi,epidermis
+epy,epididymis
+eso,esophagus
+eye,eye
+fat,fat
+fgr,"forestomach, greater curvature"
+fhd,forehead
+fls,"forestomach, lesser curvature"
+for,forestomach
+frb,forebrain
+gab,gall bladder/bile duct
+gal,gall bladder
+gam,gastric mucosa
+git,gastrointestinal tract
+gnv,gingiva
+hag,Harderian gland
+hea,heart
+hed,head
+hnt,hard palate/nasal turbinates
+hpl,hypophysis
+hum,humerus
+ilm,ileum
+isp,interscapulum
+itl,intestinal tract
+itn,intestine
+jej,jejunum
+k/p,kidney/pelvis
+kcx,kidney cortex
+kid,kidney
+kpp,kidney papilla
+ktu,kidney tubule
+l/b,"lung, bronchus"
+lar,larynx
+lcg,lacrimal gland
+leg,leg
+lep,leptomeninges
+lgi,large intestine
+liv,liver
+lmr,lymphoreticular system
+lpp,lip
+lun,lung
+lyd,lymph node
+mam,mammary tissue (other than or including more than mammary gland)
+mds,mediastinum
+mei,mesenteric intestine
+meo,mesovarium
+mey,mesentery
+mgl,mammary gland
+mix,more than one site; sites specified in published paper
+mln,mesenteric lymph node
+mls,multiple sites
+mth,mouth
+mul,multiple organs
+mus,muscle
+myc,myocardium
+nac,nasal mucosa
+nap,nasal passageway
+nas,nasal cavity
+nbo,"nasal cavity, olfactory region, Bowman's gland"
+ncp,"nasal cavity, posterior region"
+ner,nervous system
+nlw,"nasal cavity, respiratory epithelium, lateral wall"
+nof,"nasal cavity, olfactory epithelium"
+nol,n. olfactorius
+npc,nasal and paranasal cavity
+npl,nipple
+nre,"nasal cavity, respiratory epithelium"
+nsa,"nasal cavity, adenoid"
+nse,nose
+nsm,nasal septum
+nsp,nasopharynx
+ntu,nasal turbinate
+olb,olfactory bulb
+omt,omentum
+opx,oropharynx
+orc,oral cavity
+orm,oral mucosa
+ova,ovary
+pae,"pancreas, exocrine"
+pal,palate
+pan,pancreas
+pdu,pancreatic duct
+pec,peritoneal cavity
+pel,pelvis
+pep,paraepididymal tissue
+per,peritoneum
+phr,pharynx
+pit,pituitary gland
+pls,"palate, soft"
+pnd,pancreas/pancreatic duct
+pni,pancreatic islets
+pnl,paranasal sinus
+pnm,perinium
+pnr,peripheral nerves
+pns,peripheral nervous system
+pre,preputial gland
+prn,pararenal tissue
+pro,prostate
+prv,"prostate, ventral lobe"
+pta,"pituitary gland, anterior"
+pty,parathyroid
+pyl,pylorus
+rec,rectum
+rel,reticuloendothelium
+rep,reproductive tract
+res,respiratory system
+sbg,sebaceous gland
+scl,scalp
+sev,seminal vesicle
+sft,skin of foot and toe
+sgp,"stomach, glandular, pyloric region"
+skb,skin of back
+skf,skin of flank
+ski,skin
+sku,skull
+slg,salivary gland
+slm,submandibular salivary gland
+smi,small intestine
+spc,splenic capsule
+spd,spinal cord
+spl,spleen
+spn,spinal nerves
+srp,splenic red pulp
+ssq,"stomach, squamous"
+ssu,skin and subcutis
+stf,"stomach, glandular, fundic region"
+stg,"stomach, glandular"
+stn,"stomach, nonglandular"
+sto,stomach
+sub,subcutaneous tissue
+tba,"all tumor bearing animals, general literature"
+tes,testis
+thi,thigh
+thm,thymus gland
+thx,thorax
+thy,thyroid gland
+tna,tunica albuginea
+tnv,tunica vaginalis
+ton,tongue
+trh,trachea
+tyf,thyroid follicle
+ubl,urinary bladder
+ubr,urinary bladder/ureter
+ugi,upper gastrointestinal tract
+unt,urinary tract
+ure,ureter
+urt,urethra
+ute,uterus
+utm,"uterus, endometrium"
+vag,vagina
+ver,vertebra
+vse,vascular epithelium
+zym,Zymbal's gland

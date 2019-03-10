@@ -1,0 +1,389 @@
+tumor,tumname
+---,all tumors
+MXA,"more than one tumor type, combined by NCI/NTP"
+MXB,"more than one tumor type, combined by Berkeley for the CPDB"
+a/a,alveolar/bronchiolar adenoma
+a/c,alveolar/bronchiolar carcinoma
+abt,alveolar/bronchiolar tumor
+aca,adenocarcinoma in adenomatous polyp
+acb,alveolar/bronchiolar adenocarcinoma
+acc,acinar-cell carcinoma
+acn,"adenocarcinoma, NOS"
+act,alveolar-cell tumor
+ada,"adenocarcinoma, type A"
+adb,"adenocarcinoma, type B"
+adc,adenocarcinoma
+ade,adenoma
+adf,adenofibroma
+adi,"adenocarcinoma, bilateral"
+adm,"adenomatous polyp, NOS or adenocarcinoma in adenomatous polyp"
+adn,"adenoma, NOS"
+ado,adenoacanthoma
+adp,adenomatous polyp
+adq,adenosquamous carcinoma
+aep,adenomatous endometrial polyp
+agc,alveogenic adenocarcinoma
+agf,angioma/fibroangioma
+agm,angioma
+agt,alveogenic tumor
+ahs,axillary histiocytic sarcoma
+akt,adenoma-like tumor
+ala,alveolar-cell adenoma
+alc,alveolar-cell carcinoma
+ald,alveolar adenoma
+ama,acanthoma
+amy,adenomyoma
+ana,acinar-cell adenoma
+anb,"adenoma, bilateral"
+ane,"angio-endothelioma, malignant"
+ang,angiosarcoma
+anl,acute nonlymphocytic leukemia
+aoc,acinar-cell adenocarcinoma
+aod,"adenocarcinoma, acinar or ductal"
+apc,anaplastic carcinoma
+apn,"adenomatous polyp, NOS"
+asb,"astrocytoma, benign"
+asl,"astrocytoma, malignant"
+asm,adenocarcinoma with squamous metaplasia
+ast,astrocytoma
+ata,atypic adenoma
+bca,basal-cell adenoma
+bcc,basal-cell carcinoma
+bcd,bronchiolar adenoma
+bcp,basal-cell papilloma
+bct,basal-cell tumor
+bda,bile duct adenoma
+bdb,"intrahepatic bile duct tumor, benign"
+bdc,bile duct carcinoma
+bde,bronchiolar adenocarcinoma
+bdh,intrahepatic bile duct tumor
+bdm,"intrahepatic bile duct tumor, malignant"
+bdt,bile duct tumor
+ben,benign tumor
+bhp,"hepatoma, benign"
+bht,"hepatocellular tumor, benign"
+blc,biliary cystadenoma
+bly,B-cell lymphoma
+bro,bronchogenic carcinoma
+bsa,basophil adenoma
+bsb,"basosquamous tumor, benign"
+bsn,basophilic nodule
+caa,cholangioadenoma/carcinoma
+cab,"cholangiocellular tumor, benign"
+cac,cholangioadenocarcinoma
+cad,cholangioadenoma
+can,"carcinoma, NOS"
+car,carcinoma
+cas,carcinosarcoma
+cca,c-cell adenoma
+ccb,"c-cell carcinoma, bilateral"
+ccn,"cystadenocarcinoma, NOS"
+ccr,c-cell carcinoma
+ccy,"cholangioma, cystic"
+cdb,"c-cell adenoma, bilateral"
+cgd,"cholangiocarcinoma, ductular"
+cgf,cholangiofibroma
+chc,cholangiosarcoma
+cho,cholangioma
+cic,"carcinoma, in situ"
+cla,clear-cell adenoma
+clc,cholangiocarcinoma
+cnb,"carcinoma, bilateral"
+cnd,"carcinoid tumor, malignant"
+coa,cortical adenoma
+coc,cortical carcinoma
+con,"cortical adenoma, NOS"
+cra,chromophobe adenoma
+crc,chromophobe carcinoma
+crn,"cortical adenocarcinoma, NOS"
+crt,"carcinoma, combined glandular and squamous type"
+csa,cortical subcapsular adenoma
+cuc,ceruminous carcinoma
+cvh,cavernous hemangioma
+cyc,cystadenocarcinoma
+cye,cystadenoma
+cyn,"cystadenoma, NOS"
+dhs,"deep cervical, histiocytic sarcoma"
+dpp,ductal papilloma
+ead,"endometrium, adenoma"
+ecc,eccrine cylindroma
+edc,"endometrium, adenocarcinoma"
+emp,endometrial polyp
+ena,endometrial adenocarcinoma
+ene,esthesioneuroepithelioma
+ens,endocardial sarcoma
+epc,epidermoid carcinoma
+epd,ependymoblastoma
+epn,epithelial neoplasm
+epo,epithelioma
+ept,epidermoid tumor
+esa,eosinophilic adenoma
+esn,eosinophilic nodule
+esp,endometrial stromal polyp
+ess,endometrial stromal sarcoma
+exa,exocrine adenoma
+exp,exophytic papilloma
+fab,"follicular-cell adenoma, bilateral"
+fba,fibroadenoma
+fbl,fibroleiomyoma
+fbm,"fibroadenoma, multiple"
+fbs,fibrosarcoma
+fca,follicular-cell adenoma
+fcc,follicular-cell carcinoma
+fct,follicular-cell tumor
+fcy,"follicular-cell adenocarcinoma, bilateral"
+fdc,follicular adenocarcinoma
+fep,fibroepithelial tumor
+fib,fibroma
+fih,fibrous histiocytoma
+gca,granulosa-cell adenoma
+gcb,"granulosa-cell tumor, benign"
+gcc,granulosa-cell carcinoma
+gcl,"granulosa-cell tumor, NOS"
+gcm,"granulosa-cell tumor, malignant"
+gct,granulosa-cell tumor
+ghc,"hepatocellular carcinoma, glandular"
+glb,"granulosa-cell tumor, bilateral"
+gli,glioma
+gln,"glioma, NOS"
+glx,glial tumors (oligodendroglioma and astrocytoma)
+gmf,"glioma malignant, focal, mild"
+grb,"granular-cell tumor, benign"
+grl,granulocytic leukemia
+gsa,granulocytic sarcoma
+hae,hemangioendothelioma
+hca,hepatocellular carcinoma/adenoma
+hcc,hepatocholangiocarcinoma
+hch,hepatocholangioma
+hcs,histiocytic sarcoma
+hct,hepatocellular tumor
+hem,hemangioma
+hes,hemangiosarcoma
+het,hemorrhagic tumor
+hga,hemangiosarcoma anaplastic
+hmb,"hemangioendothelioma, benign"
+hmm,"hemangioendothelioma, malignant"
+hms,hemangioendothelial sarcoma
+hmt,hamartoma
+hnd,hyperplastic nodule
+hpa,hepatocellular adenoma
+hpb,hepatoblastoma
+hpc,hepatocellular carcinoma
+hpd,hepatocellular adenocarcinoma
+hph,hepatocellular hyperplastic nodule
+hpm,"hemangiopericytoma, malignant"
+hpn,hepatocellular neoplastic nodule
+hps,"hepatocellular carcinoma, solid"
+hpt,hepatoma
+iab,"interstitial-cell adenoma, bilateral"
+ica,interstitial-cell adenoma
+icb,"interstitial-cell tumor, benign"
+ict,interstitial-cell tumor
+idc,infiltrating duct carcinoma
+ihs,iliac histiocytic sarcoma
+ile,"leukemia, indeterminate type"
+isa,islet-cell adenoma
+isc,islet-cell carcinoma
+ism,insuloma
+itm,"interstitial-cell tumor, malignant"
+ivc,"carcinoma, invasive"
+ivt,"transitional-cell carcinoma, invasive"
+kcs,Kupffer-cell sarcoma
+ker,keratoacanthoma
+lbl,lymphoblastic lymphoma
+lca,liver-cell adenoma
+lcb,"liver-cell tumor, benign"
+lcc,liver-cell carcinoma
+lcl,lymphocytic lymphoma
+lcm,"liver-cell tumor, malignant"
+lct,liver-cell tumor
+ldc,Leydig-cell tumor
+lei,leiomyosarcoma
+leu,leukemia
+ley,leiomyoma
+lhc,"lymphoma, histiocytic type"
+lip,lipoma
+lkm,"lymphoma and leukemia, combined"
+lkn,"leukemia, NOS"
+lle,lymphocytic leukemia
+lls,lymphoblastic leukemia-lymphosarcoma
+lmt,"lymphoma malignant, thymic origin"
+lpb,"liver-cell tumor, type B"
+lps,liposarcoma
+lsl,systemic and localized lymphoma
+lut,luteoma
+lya,Leydig-cell adenoma
+lyk,lymphatic leukemia
+lym,lymphoma
+lyp,lymphangioma
+lys,lymphosarcoma
+lyt,lymphoid tumor
+mag,malignant glioma
+mal,malignant tumor
+mbm,"medulloblastoma, malignant"
+mca,microadenoma
+mcc,mucinous carcinoma
+mda,medullary adenoma
+mdt,medullary tumor
+mec,muco-epidermoid carcinoma
+mel,melanoma
+mem,mixed-cell mucoepidermoid papilloma
+men,"mesothelioma, NOS"
+mfh,"fibrous histiocytoma, malignant"
+mhb,"hibernoma, malignant"
+mhc,mixed hepato/cholangio carcinoma
+mhp,malignant hepatoma
+mhs,"histiocytoma, malignant"
+mht,"hepatocellular tumor, malignant"
+mix,more than one tumor type; tumor types specified in published paper
+mlc,melanocytoma
+mle,monocytic leukemia
+mlh,"malignant lymphoma, histiocytic type"
+mlk,myelogenous leukemia
+mlm,"malignant lymphoma, mixed type"
+mlp,"malignant lymphoma, lymphocytic type"
+mlt,melanotic tumor
+mlu,"malignant lymphoma, undifferentiated type"
+mly,malignant lymphoma
+mmt,malignant mesenchymal tumor
+mmx,"mesenchymal hemangio-sarcoma, -pericytoma, or -endothelioma, malignant"
+mng,meningioma
+mnl,mononuclear-cell leukemia
+mnm,"meningioma, malignant"
+mno,"malignant lymphoma, NOS"
+mnp,mesenchymal neoplasm
+mnr,"meningioma, granular-cell"
+msb,"mesothelioma, benign"
+msm,"mesothelioma, malignant"
+mso,mesothelioma
+mtb,"mixed tumor, benign"
+mtm,"mixed tumor, malignant"
+mua,mucinous adenocarcinoma
+muc,mucinous cystadenocarcinoma
+mxc,mixed cell adenoma
+mxp,"neoplasm of liver cell, bile duct, mesenchyme, Kupffer cell, or unknown"
+mye,myelocytic leukemia
+myl,myeloid leukemia
+myo,myelomonocytic leukemia
+neb,"neuroendocrine tumor, benign"
+nem,"neuroendocrine tumor, malignant"
+nen,"neoplasm, NOS"
+neo,neoplasm
+nep,nephroblastoma
+neu,neuroblastoma
+nfm,neurofibroma
+nfs,neurofibrosarcoma
+ngs,neurogenic sarcoma
+nhs,inguinal histiocytic sarcoma
+nim,neurinoma
+nis,"neuroblastoma, in situ"
+nlm,"neurilemoma, malignant"
+nnd,neoplastic nodule
+nod,nodular hyperplasia
+npm,"neoplasm, NOS, malignant"
+nsc,neurosarcoma
+nue,neuroepithelioma
+nvc,"carcinoma, noninvasive"
+nvt,"transitional-cell carcinoma, noninvasive"
+oec,olfactory epithelial carcinoma
+ogm,"olfactory lobe, glioma malignant"
+olc,olfactory carcinoma
+oli,oligodendroglioma
+oln,olfactory neuroblastoma
+olp,olfactory neuroepithelioma
+onm,"olfactory lobe, neuroblastoma malignant"
+ost,osteosarcoma
+otm,osteoma
+pac,papillary adenocarcinoma
+pai,"papilloma, inverted"
+pam,papilloma
+pas,papillomatosis
+pbb,"pheochromocytoma benign, bilateral"
+pbm,"pheochromocytoma, benign/malignant"
+pca,parenchymal adenoma
+pcn,"papillary cystadenocarcinoma, NOS"
+pcy,"papillary cystadenoma, NOS"
+pda,pars distalis adenoma
+pdc,pars distalis carcinoma
+pfa,parafollicular-cell adenoma
+phc,"pheochromocytoma, complex"
+phe,pheochromocytoma
+phm,"pheochromocytoma, malignant"
+pla,polypoid adenoma
+plc,plasmacytoma
+pmb,"pheochromocytoma malignant, bilateral"
+pms,papillary mesothelioma
+pob,"pheochromocytoma, benign"
+pol,polyp
+ppa,papillary adenoma
+ppc,papillary carcinoma
+ppn,"papilloma, NOS"
+ppp,papillary polyp
+ptc,papillary transitional-cell carcinoma
+ptm,papillary tumor
+pvc,"carcinoma, preinvasive"
+rab,"renal tubule adenoma, bilateral"
+rac,renal tubule adenocarcinoma
+rca,renal-cell adenoma
+rcc,renal-cell carcinoma
+rcs,round-cell sarcoma
+rct,renal-cell tumor
+ret,reticulum-cell tumor
+rhb,rhabdomyosarcoma
+rhm,rhabdomyoblastoma
+rhs,"renal, histiocytic sarcoma"
+rna,"reticulum-cell neoplasm, type A"
+rsc,respiratory epithelial carcinoma
+rta,"reticulum-cell sarcoma, type A"
+rtb,"reticulum-cell sarcoma, type B"
+rts,reticulum-cell sarcoma
+rua,tubule adenoma
+ruc,tubule carcinoma
+rue,tubule epithelium adenoma
+sad,scirrhous adenocarcinoma
+sar,sarcoma
+sbr,sebaceous gland carcinoma
+scc,spindle-cell carcinoma
+scs,spindle-cell sarcoma
+sct,Sertoli-cell tumor
+sea,sebaceous adenoma
+seb,sebaceous adenoma and adenocarcinoma
+sec,sebaceous adenocarcinoma
+sgc,sweat gland carcinoma
+shs,mesenteric histiocytic sarcoma
+spm,"sarcoma, NOS"
+spt,spindle-cell tumor
+sqa,squamous-cell tumor
+sqc,squamous-cell carcinoma
+sqi,"squamous-cell carcinoma, invasive"
+sqk,"squamous-cell carcinoma, keratinized"
+sqn,"squamous-cell carcinoma, in situ"
+sqp,squamous-cell papilloma
+sqs,"squamous-cell carcinoma, stratified"
+squ,"squamous-cell carcinoma, unclassified"
+srn,"sarcoma, NOS"
+ssc,"squamous-cell carcinoma, sebaceous"
+sxb,"sex-cord stromal tumor, benign, bilateral"
+sxs,"sex-cord stromal tumor, benign"
+tcb,"tubular-cell carcinoma, bilateral"
+tcc,transitional-cell carcinoma
+tcm,thecoma
+thc,"hepatocellular carcinoma, trabecular"
+tla,tubular-cell adenoma
+tlc,tubular-cell carcinoma
+tlt,tubular-cell tumor
+tma,thymoma
+tpp,transitional-cell papilloma
+tri,trichoepithelioma
+tsc,"transitional epithelium, squamous-cell carcinoma"
+tsp,"transitional epithelium, squamous-cell papilloma"
+tua,tubular adenoma
+tuc,tubular carcinoma
+tum,tumor or more than one tumor type; tumor types not specified in paper
+uac,tubular-cell adenocarcinoma
+ulc,undifferentiated carcinoma
+ule,undifferentiated leukemia
+utc,urothelial carcinoma
+utp,urothelial papilloma
+vlp,villous polyp
+vsc,all vascular tumors
