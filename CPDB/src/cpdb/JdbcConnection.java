@@ -307,7 +307,7 @@ public class JdbcConnection {
 //				System.out.println(line);
 				 
 				String metagencity = line.split("\t")[2];	//. +, - 3types
-				String Rhesus_td50 = line.split("\t")[3];
+				Experiments experiment = filterCPDBChemicalTD50value(line.split("\t")[3]);
 				String source = "CPDBChemicals(experiment-based)";
 				
 				Chemicals chem = new Chemicals( line.split("\t")[0], line.split("\t")[1]);
@@ -320,12 +320,9 @@ public class JdbcConnection {
 				
 				
 				Models model = new Models("male",metagencity);
-				Experiments experiment = new Experiments();
 				
-				if(!Rhesus_td50.equalsIgnoreCase(".") || !Rhesus_td50.equalsIgnoreCase("-"))	//has value.
 				{
 					experiment.setSource(source);
-					experiment.setTd50(Rhesus_td50);
 
 					//male
 					model.setSpecies("Rhesus");
@@ -347,11 +344,9 @@ public class JdbcConnection {
 				}
 				
 				
-				String cynomolgus_td50 = line.split("\t")[4];
-				if(!cynomolgus_td50.equalsIgnoreCase(".") || !cynomolgus_td50.equalsIgnoreCase("-"))	
+				experiment = filterCPDBChemicalTD50value(line.split("\t")[4]);
 				{
 					experiment.setSource(source);
-					experiment.setTd50(cynomolgus_td50);
 					
 					//male
 					model.setSpecies("Cynomolgus");
@@ -392,7 +387,7 @@ public class JdbcConnection {
 //				System.out.println(line);
 				 
 				String metagencity = line.split("\t")[2];	//. +, - 3types
-				String td50 = line.split("\t")[3];
+				Experiments experiment = filterCPDBChemicalTD50value(line.split("\t")[3]);
 				String source = "CPDBChemicals(experiment-based)";
 				
 				Chemicals chem = new Chemicals( line.split("\t")[0], line.split("\t")[1]);
@@ -406,12 +401,9 @@ public class JdbcConnection {
 				
 				Models model_male = new Models("male",metagencity);
 				Models model_female = new Models("female",metagencity);
-				Experiments experiment = new Experiments();
 				
-				if(!td50.equalsIgnoreCase(".") || !td50.equalsIgnoreCase("-"))	//has value.
 				{
 					experiment.setSource(source);
-					experiment.setTd50(td50);
 
 					//male
 					model_male.setSpecies("hamster");
@@ -461,7 +453,7 @@ public class JdbcConnection {
 	 * rat & mouse data insertion.
 	 * 
 	 * */
-	private static void curateRatandMouse(Connection connection2) {
+	private static void curateRatandMouse(Connection conn) {
 		String line = null;
 		try {
 			BufferedReader	reader = new BufferedReader(new FileReader("./data/mouse_rat_cpdb.txt"));
@@ -469,7 +461,7 @@ public class JdbcConnection {
 //				System.out.println(line);
 				 
 				String metagencity = line.split("\t")[2];	//. +, - 3types
-				String rat_td50 = line.split("\t")[3];
+				Experiments experiment = filterCPDBChemicalTD50value(line.split("\t")[3]);
 				String source = "CPDBChemicals(experiment-based)";
 				
 				Chemicals chem = new Chemicals( line.split("\t")[0], line.split("\t")[1]);
@@ -477,18 +469,15 @@ public class JdbcConnection {
 //				int chemicalID = (int)(Math.random()*100) + 10000;
 				
 				//insert chemical
-				int chemicalID = insertChemStatement(connection,chem);
+				int chemicalID = insertChemStatement(conn,chem);
 				System.out.println(chemicalID + "\t" + chem);
 				
 				
 				Models model_male = new Models("male",metagencity);
 				Models model_female = new Models("female",metagencity);
-				Experiments experiment = new Experiments();
 				
-				if(!rat_td50.equalsIgnoreCase(".") || !rat_td50.equalsIgnoreCase("-"))	//has value.
 				{
 					experiment.setSource(source);
-					experiment.setTd50(rat_td50);
 
 					//male
 					model_male.setSpecies("rat");
@@ -496,7 +485,7 @@ public class JdbcConnection {
 //					int modelID = (int)(Math.random()*100) +1;
 
 					//insert model
-					int modelID = insertModelsStatement(connection,model_male);
+					int modelID = insertModelsStatement(conn,model_male);
 					System.out.println(modelID + "\t" + model_male + "\t" + line.split("\t")[5]);
 					
 					experiment.setModelID(modelID);
@@ -504,9 +493,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment
-					int experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					int experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					Effect effect = new Effect(experiment_id, line.split("\t")[5]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 					
 					//female
 					model_female.setSpecies("rat");
@@ -514,7 +503,7 @@ public class JdbcConnection {
 //					modelID = (int)(Math.random()*100) +100;
 					
 					//insert model
-					modelID = insertModelsStatement(connection,model_female);
+					modelID = insertModelsStatement(conn,model_female);
 					System.out.println(modelID + "\t" + model_female + "\t" + line.split("\t")[6]);
 					
 					experiment.setModelID(modelID);
@@ -522,17 +511,15 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment					
-					experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					effect = new Effect(experiment_id, line.split("\t")[6]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 				}
 				
 				
-				String mouse_td50 = line.split("\t")[4];
-				if(!mouse_td50.equalsIgnoreCase(".") || !mouse_td50.equalsIgnoreCase("-"))	
+				experiment = filterCPDBChemicalTD50value(line.split("\t")[4]);
 				{
 					experiment.setSource(source);
-					experiment.setTd50(mouse_td50);
 					
 					//male
 					model_male.setSpecies("mouse");
@@ -540,7 +527,7 @@ public class JdbcConnection {
 //					int modelID = (int)(Math.random()*100) +501;
 					
 					//insert model
-					int modelID = insertModelsStatement(connection,model_male);
+					int modelID = insertModelsStatement(conn,model_male);
 					System.out.println(modelID + "\t" + model_male + "\t" + line.split("\t")[7]);
 					
 					experiment.setModelID(modelID);
@@ -548,9 +535,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment					
-					int experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					int experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					Effect effect = new Effect(experiment_id, line.split("\t")[7]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 					
 					//female
 					model_female.setSpecies("mouse");
@@ -558,7 +545,7 @@ public class JdbcConnection {
 //					modelID = (int)(Math.random()*100) +800;
 					
 					//insert model
-					modelID = insertModelsStatement(connection,model_female);
+					modelID = insertModelsStatement(conn,model_female);
 					System.out.println(modelID + "\t" + model_female + "\t" + line.split("\t")[8]);
 					
 					experiment.setModelID(modelID);
@@ -566,9 +553,9 @@ public class JdbcConnection {
 					System.out.println(experiment + "\n");
 					
 					//insert experiment					
-					experiment_id = insertExperimentsStatementSimpleFormat(connection,experiment,chemicalID,modelID);
+					experiment_id = insertExperimentsStatementSimpleFormat(conn,experiment,chemicalID,modelID);
 					effect = new Effect(experiment_id, line.split("\t")[8]);
-					insertEffectStatement(connection,effect);
+					insertEffectStatement(conn,effect);
 				}
 				System.out.println("==========================================================================");				
 			}
@@ -580,8 +567,53 @@ public class JdbcConnection {
 	}
 
 	
+	
+
 	/***********************************************serveral methods**************************************************/
 
+	private static Experiments filterCPDBChemicalTD50value(String td50) {
+		Experiments exp = new Experiments();
+		String[] items = td50.trim().split(",");
+		if(items.length == 1)	{
+			if(items[0].contains("-") || items[0].contains("\\."))	{
+				exp.setTd50(items[0]);
+			}
+			else if(items[0].contains("m"))	{	//m , n , i , I, P
+				exp.setTd50(items[0].substring(0,items[0].length()-1));
+				exp.setAdditional_information(items[0].charAt(items[0].length()-1) + "");
+			}
+			else if(items[0].contains("n"))	{	//m , n , i , I, P
+				exp.setTd50(items[0].substring(0,items[0].length()-1));
+				exp.setAdditional_information(items[0].charAt(items[0].length()-1) + "");
+			}
+			else if(items[0].contains("i"))	{	//m , n , i , I, P
+				exp.setTd50(items[0].substring(0,items[0].length()-1));
+				exp.setAdditional_information(items[0].charAt(items[0].length()-1) + "");
+			}
+			else if(items[0].contains("P"))	{	//m , n , i , I, P
+				exp.setTd50(items[0].substring(0,items[0].length()-1));
+				exp.setAdditional_information(items[0].charAt(items[0].length()-1) + "");
+			}
+			else if(items[0].contains("I"))	{	//m , n , i , I, P
+				exp.setTd50(".");
+				exp.setAdditional_information(items[0]);
+			}
+			else	{
+				exp.setTd50(items[0]);
+			}
+		}
+		else	{
+			int idxComma = td50.indexOf(",");
+			String td = td50.substring(0,idxComma-1);
+			String add_info = td50.substring(idxComma-1,td50.length());
+			
+			exp.setTd50(td);
+			exp.setAdditional_information(add_info);
+		}
+		
+		return exp;
+	}
+	
 	private static void preprocessingData(BufferedReader reader, String source) {
 		String line = null;
 		String previousChemcode = "";
@@ -779,7 +811,6 @@ public class JdbcConnection {
 		}
 	}
 	
-	
 	private static String selectChemCAS(Connection connection,String chemName) {
 		Statement st = null;
 		try {
@@ -805,10 +836,15 @@ public class JdbcConnection {
 		return null;
 	}
 
-	/****************************************************main*********************************************/
-	
-
-	
+	/****************************************************create & delete tables*********************************************/
+	/**
+	 * [autoincrease] 
+	 * chemical : 1 
+	 * model : 100000
+	 * experiment : 200000
+	 * effect : 300000
+	 * 
+	 * */
 	private static void createTables(Connection conn) {
 //		createChemicalTable(conn);
 		String sql = "CREATE TABLE `chemicals` ("
@@ -816,7 +852,7 @@ public class JdbcConnection {
 				  + "`chemicals_name` varchar(150) NOT NULL, "
 				  + "`CAS` varchar(45) NOT NULL, "
 				  + "PRIMARY KEY (`id`) "
-				  + ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+				  + ") ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;";
 		createTable(conn,sql);
 		
 //		createModelTable(conn);
@@ -827,7 +863,7 @@ public class JdbcConnection {
 				+ "`mutagencity` varchar(45) DEFAULT NULL, "
 				+ " `strain` varchar(45) DEFAULT NULL, "
 				+ "PRIMARY KEY (`ID`) "
-				+ ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+				+ ") ENGINE=InnoDB AUTO_INCREMENT=100000 DEFAULT CHARSET=utf8;";
 		createTable(conn,sql);
 		
 //		createExperimentsTable(conn);
@@ -851,7 +887,7 @@ public class JdbcConnection {
 				  + "KEY `modelID_idx` (`modelID`), "
 				  + "CONSTRAINT `chemicalID` FOREIGN KEY (`chemicalID`) REFERENCES `chemicals` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION, "
 				  + "CONSTRAINT `modelID` FOREIGN KEY (`modelID`) REFERENCES `models` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION "
-				+ ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
+				+ ") ENGINE=InnoDB AUTO_INCREMENT=200000 DEFAULT CHARSET=utf8;";
 		createTable(conn,sql);
 		
 //		createEffectsTable(conn,sql);
@@ -863,10 +899,9 @@ public class JdbcConnection {
 				  + "PRIMARY KEY (`id`), "
 				  + "KEY `experimentID_idx` (`experimentID`), "
 				  + "CONSTRAINT `experimentID` FOREIGN KEY (`experimentID`) REFERENCES `experiment` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION "
-				+ ") ENGINE=InnoDB DEFAULT CHARSET=utf8; ";
+				+ ") ENGINE=InnoDB AUTO_INCREMENT=300000 DEFAULT CHARSET=utf8; ";
 		createTable(conn,sql);
 	}
-	
 	
 	private static void createTable(Connection conn, String sql) {
 		Statement st = null;
@@ -882,7 +917,6 @@ public class JdbcConnection {
 		}
 	}
 	
-
 	private static void dropTables(Connection conn) {
 		String sql = "DROP TABLE `cpdb`.`effect`;";		
 		dropTable(conn,sql);
@@ -896,6 +930,7 @@ public class JdbcConnection {
 		sql = "DROP TABLE `cpdb`.`chemicals`;";
 		dropTable(conn,sql);
 	}
+	
 	private static void dropTable(Connection conn,String sql) {
 		Statement st = null;
 		try {
@@ -918,16 +953,15 @@ public class JdbcConnection {
 		//drop tables & create tables
 		dropTables(connection);
 		createTables(connection);
-		
 
 		//summary version of data.
 		curateRatandMouse(connection);
 		curateHamster(connection);
 		curateMonkey(connection);
-		
-		//extended version of data.
-		curateNCINTP(connection);
-		curateLiterature(connection);
+//		
+//		//extended version of data.
+//		curateNCINTP(connection);
+//		curateLiterature(connection);
 		
 		closeConnection();
 	}
