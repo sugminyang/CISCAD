@@ -1017,6 +1017,20 @@ public class JdbcConnection {
 				 + ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";
 
 		createTable(conn,sql);
+		
+		
+		sql = "CREATE TABLE `cpdb`.`hmdc` ( "
+				  + "`id` INT NOT NULL AUTO_INCREMENT, "
+				  + "`DO_diseaseID` VARCHAR(45) NOT NULL, "
+				  + "`DO_diseaseName` VARCHAR(150) NOT NULL, "
+				  + "`omim_ids` VARCHAR(100) NULL, "
+				  + "`species` VARCHAR(45) NOT NULL, "
+				  + "`ncbi_taxonID` VARCHAR(45) NOT NULL, "
+				  + "`geneSymbol` VARCHAR(45) NOT NULL, "
+				  + "`entrezGeneID` VARCHAR(45) NULL, "
+				  + "`mgiID` VARCHAR(45) NULL, "
+				  + "PRIMARY KEY (`id`));";
+		createTable(conn,sql);
 	}
 	
 	/****************************************************main*********************************************/
