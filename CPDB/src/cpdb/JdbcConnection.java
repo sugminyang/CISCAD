@@ -1024,6 +1024,7 @@ public class JdbcConnection {
 				  + "`DO_diseaseID` VARCHAR(45) NOT NULL, "
 				  + "`DO_diseaseName` VARCHAR(150) NOT NULL, "
 				  + "`omim_ids` VARCHAR(100) NULL, "
+				  + "`homologGeneID` varchar(45) DEFAULT NULL, "
 				  + "`species` VARCHAR(45) NOT NULL, "
 				  + "`ncbi_taxonID` VARCHAR(45) NOT NULL, "
 				  + "`geneSymbol` VARCHAR(45) NOT NULL, "
